@@ -1,0 +1,22 @@
+{
+  "name": "Design Compressed String Iterator",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 604,
+      "name": "Design Compressed String Iterator",
+      "url": "https://leetcode.com/problems/design-compressed-string-iterator/description/",
+      "similar": [
+        "LRU Cache"
+      ]
+    }
+  }
+}

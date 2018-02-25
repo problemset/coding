@@ -1,0 +1,23 @@
+{
+  "name": "Reverse Integer",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg",
+    "Apple"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 7,
+      "name": "Reverse Integer",
+      "url": "https://leetcode.com/problems/reverse-integer/description/",
+      "similar": [
+        "String to Integer(atoi)"
+      ]
+    }
+  }
+}

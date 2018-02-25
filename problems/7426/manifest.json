@@ -1,0 +1,16 @@
+{
+  "name": "Minimum Distance Between BST Nodes",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 783,
+      "name": "Minimum Distance Between BST Nodes",
+      "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/",
+      "similar": []
+    }
+  }
+}

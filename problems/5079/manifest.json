@@ -1,0 +1,23 @@
+{
+  "name": "Maximum Swap",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 670,
+      "name": "Maximum Swap",
+      "url": "https://leetcode.com/problems/maximum-swap/description/",
+      "similar": [
+        "Create Maximum Number"
+      ]
+    }
+  }
+}

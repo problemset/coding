@@ -1,0 +1,21 @@
+{
+  "name": "Jump Game",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 55,
+      "name": "Jump Game",
+      "url": "https://leetcode.com/problems/jump-game/description/",
+      "similar": []
+    }
+  }
+}

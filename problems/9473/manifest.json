@@ -1,0 +1,22 @@
+{
+  "name": "Find Bottom Left Tree Value",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 513,
+      "name": "Find Bottom Left Tree Value",
+      "url": "https://leetcode.com/problems/find-bottom-left-tree-value/description/",
+      "similar": []
+    }
+  }
+}

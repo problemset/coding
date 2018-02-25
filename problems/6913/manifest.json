@@ -1,0 +1,20 @@
+{
+  "name": "Find Permutation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 484,
+      "name": "Find Permutation",
+      "url": "https://leetcode.com/problems/find-permutation/description/",
+      "similar": []
+    }
+  }
+}

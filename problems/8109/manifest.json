@@ -1,0 +1,20 @@
+{
+  "name": "Sliding Window Median",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 480,
+      "name": "Sliding Window Median",
+      "url": "https://leetcode.com/problems/sliding-window-median/description/",
+      "similar": [
+        "Find Median from Data Stream"
+      ]
+    }
+  }
+}

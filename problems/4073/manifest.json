@@ -1,0 +1,25 @@
+{
+  "name": "Shortest Word Distance II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Hash Table",
+    "Design"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 244,
+      "name": "Shortest Word Distance II",
+      "url": "https://leetcode.com/problems/shortest-word-distance-ii/description/",
+      "similar": [
+        "Merge Two Sorted Lists",
+        "Shortest Word Distance",
+        "Shortest Word Distance III"
+      ]
+    }
+  }
+}

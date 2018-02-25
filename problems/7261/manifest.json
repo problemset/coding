@@ -1,0 +1,22 @@
+{
+  "name": "Random Pick Index",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Reservoir Sampling"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 398,
+      "name": "Random Pick Index",
+      "url": "https://leetcode.com/problems/random-pick-index/description/",
+      "similar": [
+        "Linked List Random Node"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Odd Even Linked List",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 328,
+      "name": "Odd Even Linked List",
+      "url": "https://leetcode.com/problems/odd-even-linked-list/description/",
+      "similar": []
+    }
+  }
+}

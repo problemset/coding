@@ -1,0 +1,19 @@
+{
+  "name": "Remove Nth Node From End of List",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 19,
+      "name": "Remove Nth Node From End of List",
+      "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Minimum Size Subarray Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 209,
+      "name": "Minimum Size Subarray Sum",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+      "similar": [
+        "Minimum Window Substring",
+        "Maximum Size Subarray Sum Equals k"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Swap Adjacent in LR String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Brainteaser"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 777,
+      "name": "Swap Adjacent in LR String",
+      "url": "https://leetcode.com/problems/swap-adjacent-in-lr-string/description/",
+      "similar": []
+    }
+  }
+}

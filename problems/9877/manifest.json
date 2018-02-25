@@ -1,0 +1,24 @@
+{
+  "name": "Add Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Airbnb"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 415,
+      "name": "Add Strings",
+      "url": "https://leetcode.com/problems/add-strings/description/",
+      "similar": [
+        "Add Two Numbers",
+        "Multiply Strings"
+      ]
+    }
+  }
+}

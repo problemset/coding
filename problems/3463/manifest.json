@@ -1,0 +1,21 @@
+{
+  "name": "Search Insert Position",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 35,
+      "name": "Search Insert Position",
+      "url": "https://leetcode.com/problems/search-insert-position/description/",
+      "similar": [
+        "First Bad Version"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Minimum Unique Word Abbreviation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Baidu",
+    "Google"
+  ],
+  "topics": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 411,
+      "name": "Minimum Unique Word Abbreviation",
+      "url": "https://leetcode.com/problems/minimum-unique-word-abbreviation/description/",
+      "similar": [
+        "Generalized Abbreviation",
+        "Valid Word Abbreviation",
+        "Word Abbreviation"
+      ]
+    }
+  }
+}

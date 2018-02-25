@@ -1,0 +1,25 @@
+{
+  "name": "Two Sum II - Input array is sorted",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 167,
+      "name": "Two Sum II - Input array is sorted",
+      "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
+      "similar": [
+        "Two Sum",
+        "Two Sum IV - Input is a BST"
+      ]
+    }
+  }
+}

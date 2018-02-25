@@ -1,0 +1,22 @@
+{
+  "name": "Shortest Distance from All Buildings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Zenefits"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 317,
+      "name": "Shortest Distance from All Buildings",
+      "url": "https://leetcode.com/problems/shortest-distance-from-all-buildings/description/",
+      "similar": [
+        "Walls and Gates",
+        "Best Meeting Point"
+      ]
+    }
+  }
+}

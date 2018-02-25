@@ -1,0 +1,21 @@
+{
+  "name": "Search a 2D Matrix",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 74,
+      "name": "Search a 2D Matrix",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix/description/",
+      "similar": [
+        "Search a 2D Matrix II"
+      ]
+    }
+  }
+}

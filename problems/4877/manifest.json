@@ -1,0 +1,22 @@
+{
+  "name": "Factorial Trailing Zeroes",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 172,
+      "name": "Factorial Trailing Zeroes",
+      "url": "https://leetcode.com/problems/factorial-trailing-zeroes/description/",
+      "similar": [
+        "Number of Digit One"
+      ]
+    }
+  }
+}

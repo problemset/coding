@@ -1,0 +1,20 @@
+{
+  "name": "Baseball Game",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Stack"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 682,
+      "name": "Baseball Game",
+      "url": "https://leetcode.com/problems/baseball-game/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wiggle Sort II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 324,
+      "name": "Wiggle Sort II",
+      "url": "https://leetcode.com/problems/wiggle-sort-ii/description/",
+      "similar": [
+        "Sort Colors",
+        "Kth Largest Element in an Array",
+        "Wiggle Sort"
+      ]
+    }
+  }
+}

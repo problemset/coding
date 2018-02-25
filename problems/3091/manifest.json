@@ -1,0 +1,22 @@
+{
+  "name": "Text Justification",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Airbnb",
+    "Facebook"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 68,
+      "name": "Text Justification",
+      "url": "https://leetcode.com/problems/text-justification/description/",
+      "similar": []
+    }
+  }
+}

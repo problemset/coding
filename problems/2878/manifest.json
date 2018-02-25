@@ -1,0 +1,27 @@
+{
+  "name": "Implement strStr()",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pocket Gems",
+    "Microsoft",
+    "Apple",
+    "Facebook"
+  ],
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 28,
+      "name": "Implement strStr()",
+      "url": "https://leetcode.com/problems/implement-strstr/description/",
+      "similar": [
+        "Shortest Palindrome",
+        "Repeated Substring Pattern"
+      ]
+    }
+  }
+}

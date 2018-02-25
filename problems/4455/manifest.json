@@ -1,0 +1,29 @@
+{
+  "name": "Serialize and Deserialize Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Google",
+    "Uber",
+    "Facebook",
+    "Amazon"
+  ],
+  "topics": [
+    "Tree",
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 297,
+      "name": "Serialize and Deserialize Binary Tree",
+      "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/",
+      "similar": [
+        "Encode and Decode Strings",
+        "Serialize and Deserialize BST",
+        "Find Duplicate Substrings"
+      ]
+    }
+  }
+}

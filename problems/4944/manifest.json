@@ -1,0 +1,22 @@
+{
+  "name": "Linked List Cycle II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 142,
+      "name": "Linked List Cycle II",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/description/",
+      "similar": [
+        "Linked List Cycle",
+        "Find the Duplicate Number"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Split Concatenated Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Alibaba"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 555,
+      "name": "Split Concatenated Strings",
+      "url": "https://leetcode.com/problems/split-concatenated-strings/description/",
+      "similar": []
+    }
+  }
+}

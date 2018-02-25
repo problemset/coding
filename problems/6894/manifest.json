@@ -1,0 +1,19 @@
+{
+  "name": "Wiggle Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 376,
+      "name": "Wiggle Subsequence",
+      "url": "https://leetcode.com/problems/wiggle-subsequence/description/",
+      "similar": []
+    }
+  }
+}

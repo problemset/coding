@@ -1,0 +1,21 @@
+{
+  "name": "Single Number II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 137,
+      "name": "Single Number II",
+      "url": "https://leetcode.com/problems/single-number-ii/description/",
+      "similar": [
+        "Single Number",
+        "Single Number III"
+      ]
+    }
+  }
+}

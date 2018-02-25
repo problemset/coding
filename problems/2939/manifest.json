@@ -1,0 +1,22 @@
+{
+  "name": "Nim Game",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Adobe"
+  ],
+  "topics": [
+    "Brainteaser"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 292,
+      "name": "Nim Game",
+      "url": "https://leetcode.com/problems/nim-game/description/",
+      "similar": [
+        "Flip Game II"
+      ]
+    }
+  }
+}

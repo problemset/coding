@@ -1,0 +1,19 @@
+{
+  "name": "Distinct Subsequences",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 115,
+      "name": "Distinct Subsequences",
+      "url": "https://leetcode.com/problems/distinct-subsequences/description/",
+      "similar": []
+    }
+  }
+}

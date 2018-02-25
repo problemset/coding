@@ -1,0 +1,22 @@
+{
+  "name": "Unique Binary Search Trees II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 95,
+      "name": "Unique Binary Search Trees II",
+      "url": "https://leetcode.com/problems/unique-binary-search-trees-ii/description/",
+      "similar": [
+        "Unique Binary Search Trees",
+        "Different Ways to Add Parentheses"
+      ]
+    }
+  }
+}

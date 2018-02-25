@@ -1,0 +1,24 @@
+{
+  "name": "Minimum ASCII Delete Sum for Two Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "TripleByte"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 712,
+      "name": "Minimum ASCII Delete Sum for Two Strings",
+      "url": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/",
+      "similar": [
+        "Edit Distance",
+        "Longest Increasing Subsequence",
+        "Delete Operation for Two Strings"
+      ]
+    }
+  }
+}

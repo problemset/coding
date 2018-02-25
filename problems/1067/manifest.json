@@ -1,0 +1,24 @@
+{
+  "name": "Populating Next Right Pointers in Each Node",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 116,
+      "name": "Populating Next Right Pointers in Each Node",
+      "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/",
+      "similar": [
+        "Populating Next Right Pointers in Each Node II",
+        "Binary Tree Right Side View"
+      ]
+    }
+  }
+}

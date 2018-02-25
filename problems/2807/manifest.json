@@ -1,0 +1,23 @@
+{
+  "name": "Find Median from Data Stream",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Heap",
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 295,
+      "name": "Find Median from Data Stream",
+      "url": "https://leetcode.com/problems/find-median-from-data-stream/description/",
+      "similar": [
+        "Sliding Window Median"
+      ]
+    }
+  }
+}

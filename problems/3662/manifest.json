@@ -1,0 +1,25 @@
+{
+  "name": "Paint House",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 256,
+      "name": "Paint House",
+      "url": "https://leetcode.com/problems/paint-house/description/",
+      "similar": [
+        "House Robber",
+        "House Robber II",
+        "Paint House II",
+        "Paint Fence"
+      ]
+    }
+  }
+}

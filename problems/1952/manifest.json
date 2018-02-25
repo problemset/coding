@@ -1,0 +1,26 @@
+{
+  "name": "Contains Duplicate",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Palantir",
+    "Airbnb",
+    "Yahoo"
+  ],
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 217,
+      "name": "Contains Duplicate",
+      "url": "https://leetcode.com/problems/contains-duplicate/description/",
+      "similar": [
+        "Contains Duplicate II",
+        "Contains Duplicate III"
+      ]
+    }
+  }
+}

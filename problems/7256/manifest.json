@@ -1,0 +1,24 @@
+{
+  "name": "Reorganize String",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "String",
+    "Heap",
+    "Greedy",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 767,
+      "name": "Reorganize String",
+      "url": "https://leetcode.com/problems/reorganize-string/description/",
+      "similar": [
+        "Rearrange String k Distance Apart",
+        "Task Scheduler"
+      ]
+    }
+  }
+}

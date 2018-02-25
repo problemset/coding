@@ -1,0 +1,21 @@
+{
+  "name": "Find Duplicate File in System",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Dropbox"
+  ],
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 609,
+      "name": "Find Duplicate File in System",
+      "url": "https://leetcode.com/problems/find-duplicate-file-in-system/description/",
+      "similar": []
+    }
+  }
+}

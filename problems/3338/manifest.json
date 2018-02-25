@@ -1,0 +1,28 @@
+{
+  "name": "Merge Two Sorted Lists",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "LinkedIn",
+    "Apple",
+    "Microsoft"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 21,
+      "name": "Merge Two Sorted Lists",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
+      "similar": [
+        "Merge k Sorted Lists",
+        "Merge Sorted Array",
+        "Sort List",
+        "Shortest Word Distance II"
+      ]
+    }
+  }
+}

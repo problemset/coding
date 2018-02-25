@@ -1,0 +1,31 @@
+{
+  "name": "Best Time to Buy and Sell Stock",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Uber",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 121,
+      "name": "Best Time to Buy and Sell Stock",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
+      "similar": [
+        "Maximum Subarray",
+        "Best Time to Buy and Sell Stock II",
+        "Best Time to Buy and Sell Stock III",
+        "Best Time to Buy and Sell Stock IV",
+        "Best Time to Buy and Sell Stock with Cooldown"
+      ]
+    }
+  }
+}

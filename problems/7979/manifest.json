@@ -1,0 +1,20 @@
+{
+  "name": "Intersection of Two Arrays",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Two Sigma"
+  ],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 349,
+      "name": "Intersection of Two Arrays",
+      "url": "https://leetcode.com/problems/intersection-of-two-arrays/description/",
+      "similar": [
+        "Intersection of Two Arrays II"
+      ]
+    }
+  }
+}

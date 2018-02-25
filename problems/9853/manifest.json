@@ -1,0 +1,20 @@
+{
+  "name": "Detect Capital",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 520,
+      "name": "Detect Capital",
+      "url": "https://leetcode.com/problems/detect-capital/description/",
+      "similar": []
+    }
+  }
+}

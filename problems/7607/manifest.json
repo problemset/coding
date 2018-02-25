@@ -1,0 +1,22 @@
+{
+  "name": "Increasing Subsequences",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yahoo"
+  ],
+  "topics": [
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 491,
+      "name": "Increasing Subsequences",
+      "url": "https://leetcode.com/problems/increasing-subsequences/description/",
+      "similar": [
+        "Maximum Length of Pair Chain"
+      ]
+    }
+  }
+}

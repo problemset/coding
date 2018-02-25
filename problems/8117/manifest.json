@@ -1,0 +1,23 @@
+{
+  "name": "Ternary Expression Parser",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Snapchat"
+  ],
+  "topics": [
+    "Stack",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 439,
+      "name": "Ternary Expression Parser",
+      "url": "https://leetcode.com/problems/ternary-expression-parser/description/",
+      "similar": [
+        "Mini Parser"
+      ]
+    }
+  }
+}

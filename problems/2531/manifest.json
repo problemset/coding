@@ -1,0 +1,18 @@
+{
+  "name": "Bulls and Cows",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 299,
+      "name": "Bulls and Cows",
+      "url": "https://leetcode.com/problems/bulls-and-cows/description/",
+      "similar": []
+    }
+  }
+}

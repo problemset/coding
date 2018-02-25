@@ -1,0 +1,27 @@
+{
+  "name": "Sliding Window Maximum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Google",
+    "Zenefits"
+  ],
+  "topics": [
+    "Heap"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 239,
+      "name": "Sliding Window Maximum",
+      "url": "https://leetcode.com/problems/sliding-window-maximum/description/",
+      "similar": [
+        "Minimum Window Substring",
+        "Min Stack",
+        "Longest Substring with At Most Two Distinct Characters",
+        "Paint House II"
+      ]
+    }
+  }
+}

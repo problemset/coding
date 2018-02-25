@@ -1,0 +1,24 @@
+{
+  "name": "Range Sum Query - Immutable",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Palantir"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 303,
+      "name": "Range Sum Query - Immutable",
+      "url": "https://leetcode.com/problems/range-sum-query-immutable/description/",
+      "similar": [
+        "Range Sum Query 2D - Immutable",
+        "Range Sum Query - Mutable",
+        "Maximum Size Subarray Sum Equals k"
+      ]
+    }
+  }
+}

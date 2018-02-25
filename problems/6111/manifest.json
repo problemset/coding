@@ -1,0 +1,21 @@
+{
+  "name": "Minimum Moves to Equal Array Elements II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 462,
+      "name": "Minimum Moves to Equal Array Elements II",
+      "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/",
+      "similar": [
+        "Best Meeting Point",
+        "Minimum Moves to Equal Array Elements"
+      ]
+    }
+  }
+}

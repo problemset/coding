@@ -1,0 +1,22 @@
+{
+  "name": "Delete Operation for Two Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 583,
+      "name": "Delete Operation for Two Strings",
+      "url": "https://leetcode.com/problems/delete-operation-for-two-strings/description/",
+      "similar": [
+        "Edit Distance"
+      ]
+    }
+  }
+}

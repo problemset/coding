@@ -1,0 +1,18 @@
+{
+  "name": "Array Partition I",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 561,
+      "name": "Array Partition I",
+      "url": "https://leetcode.com/problems/array-partition-i/description/",
+      "similar": []
+    }
+  }
+}

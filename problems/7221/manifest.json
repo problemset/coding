@@ -1,0 +1,25 @@
+{
+  "name": "Redundant Connection II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 685,
+      "name": "Redundant Connection II",
+      "url": "https://leetcode.com/problems/redundant-connection-ii/description/",
+      "similar": [
+        "Redundant Connection"
+      ]
+    }
+  }
+}

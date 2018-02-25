@@ -1,0 +1,23 @@
+{
+  "name": "Partition Labels",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Two Pointers",
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 763,
+      "name": "Partition Labels",
+      "url": "https://leetcode.com/problems/partition-labels/description/",
+      "similar": [
+        "Merge Intervals"
+      ]
+    }
+  }
+}

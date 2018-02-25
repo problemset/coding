@@ -1,0 +1,24 @@
+{
+  "name": "Permutation Sequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Twitter"
+  ],
+  "topics": [
+    "Backtracking",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 60,
+      "name": "Permutation Sequence",
+      "url": "https://leetcode.com/problems/permutation-sequence/description/",
+      "similar": [
+        "Next permuration",
+        "Permutations"
+      ]
+    }
+  }
+}

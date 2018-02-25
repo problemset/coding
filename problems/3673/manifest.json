@@ -1,0 +1,25 @@
+{
+  "name": "Kth Smallest Element in a BST",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg",
+    "Uber",
+    "Google"
+  ],
+  "topics": [
+    "Binary Search",
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 230,
+      "name": "Kth Smallest Element in a BST",
+      "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/",
+      "similar": [
+        "Binary Tree Inorder Traversal"
+      ]
+    }
+  }
+}

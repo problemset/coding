@@ -1,0 +1,22 @@
+{
+  "name": "First Missing Positive",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 41,
+      "name": "First Missing Positive",
+      "url": "https://leetcode.com/problems/first-missing-positive/description/",
+      "similar": [
+        "Missing Number",
+        "Find the Duplicate Number",
+        "Find All Numbers Disappeared in an Array"
+      ]
+    }
+  }
+}

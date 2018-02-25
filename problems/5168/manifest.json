@@ -1,0 +1,22 @@
+{
+  "name": "Pour Water",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Airbnb"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 755,
+      "name": "Pour Water",
+      "url": "https://leetcode.com/problems/pour-water/description/",
+      "similar": [
+        "Trapping Rain Water"
+      ]
+    }
+  }
+}

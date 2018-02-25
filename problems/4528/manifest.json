@@ -1,0 +1,25 @@
+{
+  "name": "Populating Next Right Pointers in Each Node II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg",
+    "Facebook"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 117,
+      "name": "Populating Next Right Pointers in Each Node II",
+      "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/",
+      "similar": [
+        "Populating Next Right Pointers in Each Node"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Remove Linked List Elements",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 203,
+      "name": "Remove Linked List Elements",
+      "url": "https://leetcode.com/problems/remove-linked-list-elements/description/",
+      "similar": [
+        "Remove Element",
+        "Delete Node in a Linked List"
+      ]
+    }
+  }
+}

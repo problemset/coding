@@ -1,0 +1,30 @@
+{
+  "name": "Kth Largest Element in an Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook",
+    "Amazon",
+    "Microsoft",
+    "Apple",
+    "Bloomberg",
+    "Pocket Gems"
+  ],
+  "topics": [
+    "Heap",
+    "Divide and Conquer"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 215,
+      "name": "Kth Largest Element in an Array",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/",
+      "similar": [
+        "Wiggle Sort II",
+        "Top K Frequent Elements",
+        "Third Maximum Number"
+      ]
+    }
+  }
+}

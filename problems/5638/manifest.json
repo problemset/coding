@@ -1,0 +1,24 @@
+{
+  "name": "Smallest Range",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Lyft"
+  ],
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 632,
+      "name": "Smallest Range",
+      "url": "https://leetcode.com/problems/smallest-range/description/",
+      "similar": [
+        "Minimum Window Substring"
+      ]
+    }
+  }
+}

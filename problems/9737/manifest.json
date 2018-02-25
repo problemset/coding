@@ -1,0 +1,23 @@
+{
+  "name": "Implement Magic Dictionary",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Trie"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 676,
+      "name": "Implement Magic Dictionary",
+      "url": "https://leetcode.com/problems/implement-magic-dictionary/description/",
+      "similar": [
+        "Implement Trie(Prefix Tree)"
+      ]
+    }
+  }
+}

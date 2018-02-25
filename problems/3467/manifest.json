@@ -1,0 +1,22 @@
+{
+  "name": "N-Queens II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Zenefits"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 52,
+      "name": "N-Queens II",
+      "url": "https://leetcode.com/problems/n-queens-ii/description/",
+      "similar": [
+        "N-Queens"
+      ]
+    }
+  }
+}

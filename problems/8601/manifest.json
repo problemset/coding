@@ -1,0 +1,20 @@
+{
+  "name": "Maximum Width of Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 662,
+      "name": "Maximum Width of Binary Tree",
+      "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/description/",
+      "similar": []
+    }
+  }
+}

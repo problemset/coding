@@ -1,0 +1,32 @@
+{
+  "name": "Merge k Sorted Lists",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Google",
+    "Uber",
+    "Airbnb",
+    "Facebook",
+    "Twitter",
+    "Amazon",
+    "Microsoft"
+  ],
+  "topics": [
+    "Divide and Conquer",
+    "Linked List",
+    "Heap"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 23,
+      "name": "Merge k Sorted Lists",
+      "url": "https://leetcode.com/problems/merge-k-sorted-lists/description/",
+      "similar": [
+        "Merge Two Sorted List",
+        "Ugly Number II"
+      ]
+    }
+  }
+}

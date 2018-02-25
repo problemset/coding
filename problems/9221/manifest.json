@@ -1,0 +1,20 @@
+{
+  "name": "Create Maximum Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 321,
+      "name": "Create Maximum Number",
+      "url": "https://leetcode.com/problems/create-maximum-number/description/",
+      "similar": [
+        "Remove K Digits"
+      ]
+    }
+  }
+}

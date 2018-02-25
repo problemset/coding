@@ -1,0 +1,25 @@
+{
+  "name": "Remove Element",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 27,
+      "name": "Remove Element",
+      "url": "https://leetcode.com/problems/remove-element/description/",
+      "similar": [
+        "Remove Element"
+      ]
+    }
+  }
+}

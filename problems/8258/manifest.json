@@ -1,0 +1,24 @@
+{
+  "name": "Trapping Rain Water II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Twitter"
+  ],
+  "topics": [
+    "Breadth-first Search",
+    "Heap"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 407,
+      "name": "Trapping Rain Water II",
+      "url": "https://leetcode.com/problems/trapping-rain-water-ii/description/",
+      "similar": [
+        "Trapping Rain Water"
+      ]
+    }
+  }
+}

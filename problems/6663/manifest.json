@@ -1,0 +1,20 @@
+{
+  "name": "Valid Square",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pure Storage"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 593,
+      "name": "Valid Square",
+      "url": "https://leetcode.com/problems/valid-square/description/",
+      "similar": []
+    }
+  }
+}

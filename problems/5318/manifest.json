@@ -1,0 +1,20 @@
+{
+  "name": "Kth Smallest Number in Multiplication Table",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 668,
+      "name": "Kth Smallest Number in Multiplication Table",
+      "url": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/",
+      "similar": []
+    }
+  }
+}

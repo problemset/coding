@@ -1,0 +1,27 @@
+{
+  "name": "Multiply Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook",
+    "Twitter"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 43,
+      "name": "Multiply Strings",
+      "url": "https://leetcode.com/problems/multiply-strings/description/",
+      "similar": [
+        "Add Two Numbers",
+        "Plus One",
+        "Add Binary",
+        "Add Strings"
+      ]
+    }
+  }
+}

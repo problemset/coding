@@ -1,0 +1,21 @@
+{
+  "name": "Super Pow",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 372,
+      "name": "Super Pow",
+      "url": "https://leetcode.com/problems/sum-of-two-integers/description/",
+      "similar": [
+        "Pow(x",
+        "n)"
+      ]
+    }
+  }
+}

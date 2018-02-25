@@ -1,0 +1,25 @@
+{
+  "name": "Plus One",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 66,
+      "name": "Plus One",
+      "url": "https://leetcode.com/problems/plus-one/description/",
+      "similar": [
+        "Multiply Strings",
+        "Add Binary",
+        "Plus One Linked List"
+      ]
+    }
+  }
+}

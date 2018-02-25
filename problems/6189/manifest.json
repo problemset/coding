@@ -1,0 +1,22 @@
+{
+  "name": "Sum of Square Numbers",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 633,
+      "name": "Sum of Square Numbers",
+      "url": "https://leetcode.com/problems/sum-of-square-numbers/description/",
+      "similar": [
+        "Valid Perfect Square"
+      ]
+    }
+  }
+}

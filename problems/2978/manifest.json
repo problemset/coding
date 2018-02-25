@@ -1,0 +1,23 @@
+{
+  "name": "Reverse Bits",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Apple",
+    "Airbnb"
+  ],
+  "topics": [
+    "Bit Manipulaiton"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 190,
+      "name": "Reverse Bits",
+      "url": "https://leetcode.com/problems/reverse-bits/description/",
+      "similar": [
+        "Number of 1 Bits"
+      ]
+    }
+  }
+}

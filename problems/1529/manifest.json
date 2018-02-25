@@ -1,0 +1,24 @@
+{
+  "name": "Move Zeroes",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 283,
+      "name": "Move Zeroes",
+      "url": "https://leetcode.com/problems/move-zeroes/description/",
+      "similar": [
+        "Remove Element"
+      ]
+    }
+  }
+}

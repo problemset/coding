@@ -1,0 +1,25 @@
+{
+  "name": "One Edit Distance",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Snapchat",
+    "Uber",
+    "Facebook",
+    "Twitter"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 161,
+      "name": "One Edit Distance",
+      "url": "https://leetcode.com/problems/one-edit-distance/description/",
+      "similar": [
+        "Edit Distance"
+      ]
+    }
+  }
+}

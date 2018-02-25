@@ -1,0 +1,19 @@
+{
+  "name": "Triangle",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 120,
+      "name": "Triangle",
+      "url": "https://leetcode.com/problems/triangle/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Fizz Buzz",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 412,
+      "name": "Fizz Buzz",
+      "url": "https://leetcode.com/problems/fizz-buzz/description/",
+      "similar": []
+    }
+  }
+}

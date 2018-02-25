@@ -1,0 +1,21 @@
+{
+  "name": "Search in Rotated Sorted Array II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 81,
+      "name": "Search in Rotated Sorted Array II",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/",
+      "similar": [
+        "Search in Rotated Sorted Array"
+      ]
+    }
+  }
+}

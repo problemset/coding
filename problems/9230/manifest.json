@@ -1,0 +1,22 @@
+{
+  "name": "Freedom Trail",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 514,
+      "name": "Freedom Trail",
+      "url": "https://leetcode.com/problems/freedom-trail/description/",
+      "similar": []
+    }
+  }
+}

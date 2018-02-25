@@ -1,0 +1,20 @@
+{
+  "name": "Delete Node in a BST",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 450,
+      "name": "Delete Node in a BST",
+      "url": "https://leetcode.com/problems/delete-node-in-a-bst/description/",
+      "similar": []
+    }
+  }
+}

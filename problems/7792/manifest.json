@@ -1,0 +1,20 @@
+{
+  "name": "Sum of Left Leaves",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 404,
+      "name": "Sum of Left Leaves",
+      "url": "https://leetcode.com/problems/sum-of-left-leaves/description/",
+      "similar": []
+    }
+  }
+}

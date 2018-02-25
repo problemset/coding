@@ -1,0 +1,20 @@
+{
+  "name": "Smallest Rectangle Enclosing Black Pixels",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 302,
+      "name": "Smallest Rectangle Enclosing Black Pixels",
+      "url": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/",
+      "similar": []
+    }
+  }
+}

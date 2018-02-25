@@ -1,0 +1,23 @@
+{
+  "name": "Remove Boxes",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Tencent"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 546,
+      "name": "Remove Boxes",
+      "url": "https://leetcode.com/problems/remove-boxes/description/",
+      "similar": [
+        "Strange Printer"
+      ]
+    }
+  }
+}

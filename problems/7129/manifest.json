@@ -1,0 +1,20 @@
+{
+  "name": "Convert BST to Greater Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 538,
+      "name": "Convert BST to Greater Tree",
+      "url": "https://leetcode.com/problems/complex-number-multiplication/description/",
+      "similar": []
+    }
+  }
+}

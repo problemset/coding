@@ -1,0 +1,26 @@
+{
+  "name": "Count Primes",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 204,
+      "name": "Count Primes",
+      "url": "https://leetcode.com/problems/count-primes/description/",
+      "similar": [
+        "Ugly Number",
+        "Ugly Number II",
+        "Perfect Square"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "My Calendar I",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 729,
+      "name": "My Calendar I",
+      "url": "https://leetcode.com/problems/my-calendar-i/description/",
+      "similar": [
+        "My Calendar II",
+        "My Canlendar III"
+      ]
+    }
+  }
+}

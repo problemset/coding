@@ -1,0 +1,22 @@
+{
+  "name": "Tag Validator",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 591,
+      "name": "Tag Validator",
+      "url": "https://leetcode.com/problems/tag-validator/description/",
+      "similar": [
+        "Edit Distance"
+      ]
+    }
+  }
+}

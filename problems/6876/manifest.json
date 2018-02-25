@@ -1,0 +1,16 @@
+{
+  "name": "Reaching Points",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 780,
+      "name": "Reaching Points",
+      "url": "https://leetcode.com/problems/reaching-points/description/",
+      "similar": []
+    }
+  }
+}

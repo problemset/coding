@@ -1,0 +1,22 @@
+{
+  "name": "Student Attendance Record II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 552,
+      "name": "Student Attendance Record II",
+      "url": "https://leetcode.com/problems/student-attendance-record-ii/description/",
+      "similar": [
+        "Student Attendance Record I"
+      ]
+    }
+  }
+}

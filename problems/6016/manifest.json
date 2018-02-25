@@ -1,0 +1,22 @@
+{
+  "name": "Number of Islands II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Union Find"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 305,
+      "name": "Number of Islands II",
+      "url": "https://leetcode.com/problems/number-of-islands-ii/description/",
+      "similar": [
+        "Number of Islands"
+      ]
+    }
+  }
+}

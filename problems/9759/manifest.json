@@ -1,0 +1,24 @@
+{
+  "name": "Longest Word in Dictionary",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pinterest"
+  ],
+  "topics": [
+    "Hash Table",
+    "Trie"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 720,
+      "name": "Longest Word in Dictionary",
+      "url": "https://leetcode.com/problems/longest-word-in-dictionary/description/",
+      "similar": [
+        "Longest Word in Dictionary through Deleting",
+        "Implement Magic Dictionary"
+      ]
+    }
+  }
+}

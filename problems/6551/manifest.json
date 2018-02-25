@@ -1,0 +1,20 @@
+{
+  "name": "Matchsticks to Square",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Rackspace"
+  ],
+  "topics": [
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 473,
+      "name": "Matchsticks to Square",
+      "url": "https://leetcode.com/problems/matchsticks-to-square/description/",
+      "similar": []
+    }
+  }
+}

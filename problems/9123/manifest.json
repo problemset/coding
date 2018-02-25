@@ -1,0 +1,22 @@
+{
+  "name": "Can Place Flowers",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 605,
+      "name": "Can Place Flowers",
+      "url": "https://leetcode.com/problems/can-place-flowers/description/",
+      "similar": [
+        "Teemo Attacking"
+      ]
+    }
+  }
+}

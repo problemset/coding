@@ -1,0 +1,31 @@
+{
+  "name": "Add Two Numbers",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Airbnb",
+    "Adobe"
+  ],
+  "topics": [
+    "Linked List",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 2,
+      "name": "Add Two Numbers",
+      "url": "https://leetcode.com/problems/add-two-numbers/description/",
+      "similar": [
+        "Multiply Strings",
+        "Add Binary",
+        "Sum of Two Integers",
+        "Add Strings",
+        "Add Two Numbers II"
+      ]
+    }
+  }
+}

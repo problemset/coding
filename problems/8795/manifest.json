@@ -1,0 +1,24 @@
+{
+  "name": "Subtree of Another Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook",
+    "eBay"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 572,
+      "name": "Subtree of Another Tree",
+      "url": "https://leetcode.com/problems/subtree-of-another-tree/description/",
+      "similar": [
+        "Count Univalue Subtrees",
+        "Most Frequent Subtree Sum"
+      ]
+    }
+  }
+}

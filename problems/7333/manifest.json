@@ -1,0 +1,25 @@
+{
+  "name": "Maximum Length of Repeated Subarray",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Citadel"
+  ],
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 718,
+      "name": "Maximum Length of Repeated Subarray",
+      "url": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/",
+      "similar": [
+        "Minimum Size Subarray Sum"
+      ]
+    }
+  }
+}

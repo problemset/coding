@@ -1,0 +1,25 @@
+{
+  "name": "Max Points on a Line",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Apple",
+    "Twitter"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 149,
+      "name": "Max Points on a Line",
+      "url": "https://leetcode.com/problems/max-points-on-a-line/description/",
+      "similar": [
+        "Line Reflection"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Open the Lock",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 752,
+      "name": "Open the Lock",
+      "url": "https://leetcode.com/problems/open-the-lock/description/",
+      "similar": []
+    }
+  }
+}

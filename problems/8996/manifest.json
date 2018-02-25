@@ -1,0 +1,16 @@
+{
+  "name": "Strong Password Checker",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 420,
+      "name": "Strong Password Checker",
+      "url": "https://leetcode.com/problems/strong-password-checker/description/",
+      "similar": []
+    }
+  }
+}

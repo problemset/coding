@@ -1,0 +1,25 @@
+{
+  "name": "Can I Win",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Minmax"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 464,
+      "name": "Can I Win",
+      "url": "https://leetcode.com/problems/can-i-win/description/",
+      "similar": [
+        "Flip Game II",
+        "Guess Number Higher or Lower II",
+        "Predict the Winner"
+      ]
+    }
+  }
+}

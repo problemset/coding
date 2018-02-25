@@ -1,0 +1,20 @@
+{
+  "name": "Cracking the Safe",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 753,
+      "name": "Cracking the Safe",
+      "url": "https://leetcode.com/problems/cracking-the-safe/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Teemo Attacking",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Riot Games"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 495,
+      "name": "Teemo Attacking",
+      "url": "https://leetcode.com/problems/teemo-attacking/description/",
+      "similar": [
+        "Merge Intervals",
+        "Can Place Flowers",
+        "Dota2 Senate"
+      ]
+    }
+  }
+}

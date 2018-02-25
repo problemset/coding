@@ -1,0 +1,16 @@
+{
+  "name": "Transform to Chessboard",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 782,
+      "name": "Transform to Chessboard",
+      "url": "https://leetcode.com/problems/transform-to-chessboard/description/",
+      "similar": []
+    }
+  }
+}

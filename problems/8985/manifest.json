@@ -1,0 +1,20 @@
+{
+  "name": "Equal Tree Partition",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 663,
+      "name": "Equal Tree Partition",
+      "url": "https://leetcode.com/problems/equal-tree-partition/description/",
+      "similar": []
+    }
+  }
+}

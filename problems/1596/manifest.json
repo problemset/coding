@@ -1,0 +1,21 @@
+{
+  "name": "Compare Version Numbers",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Apple"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 165,
+      "name": "Compare Version Numbers",
+      "url": "https://leetcode.com/problems/compare-version-numbers/description/",
+      "similar": []
+    }
+  }
+}

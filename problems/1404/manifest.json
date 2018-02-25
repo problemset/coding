@@ -1,0 +1,22 @@
+{
+  "name": "Binary Tree Upside Down",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 156,
+      "name": "Binary Tree Upside Down",
+      "url": "https://leetcode.com/problems/binary-tree-upside-down/description/",
+      "similar": [
+        "Reverse Linked List"
+      ]
+    }
+  }
+}

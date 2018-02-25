@@ -1,0 +1,23 @@
+{
+  "name": "Boundary of Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Amazon"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 545,
+      "name": "Boundary of Binary Tree",
+      "url": "https://leetcode.com/problems/boundary-of-binary-tree/description/",
+      "similar": [
+        "Binary Tree Right Side View"
+      ]
+    }
+  }
+}

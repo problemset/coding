@@ -1,0 +1,22 @@
+{
+  "name": "1-bit and 2-bit Characters",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Quora"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 717,
+      "name": "1-bit and 2-bit Characters",
+      "url": "https://leetcode.com/problems/1-bit-and-2-bit-characters/description/",
+      "similar": [
+        "Grey Code"
+      ]
+    }
+  }
+}

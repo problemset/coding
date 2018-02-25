@@ -1,0 +1,23 @@
+{
+  "name": "Repeated Substring Pattern",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Amazon"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 459,
+      "name": "Repeated Substring Pattern",
+      "url": "https://leetcode.com/problems/repeated-substring-pattern/description/",
+      "similar": [
+        "Implement strStr()"
+      ]
+    }
+  }
+}

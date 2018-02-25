@@ -1,0 +1,21 @@
+{
+  "name": "Largest Divisible Subset",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 368,
+      "name": "Largest Divisible Subset",
+      "url": "https://leetcode.com/problems/largest-divisible-subset/description/",
+      "similar": []
+    }
+  }
+}

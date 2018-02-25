@@ -1,0 +1,27 @@
+{
+  "name": "Roman to Integer",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg",
+    "Uber",
+    "Facebook",
+    "Yahoo"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 13,
+      "name": "Roman to Integer",
+      "url": "https://leetcode.com/problems/roman-to-integer/description/",
+      "similar": [
+        "Integer to Roman"
+      ]
+    }
+  }
+}

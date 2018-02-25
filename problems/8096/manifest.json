@@ -1,0 +1,22 @@
+{
+  "name": "Plus One Linked List",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 369,
+      "name": "Plus One Linked List",
+      "url": "https://leetcode.com/problems/plus-one-linked-list/description/",
+      "similar": [
+        "Plus One"
+      ]
+    }
+  }
+}

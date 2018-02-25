@@ -1,0 +1,22 @@
+{
+  "name": "Ugly Number",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 263,
+      "name": "Ugly Number",
+      "url": "https://leetcode.com/problems/ugly-number/description/",
+      "similar": [
+        "Happy Number",
+        "Count Primes",
+        "Ugly Number II"
+      ]
+    }
+  }
+}

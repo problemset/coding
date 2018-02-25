@@ -1,0 +1,27 @@
+{
+  "name": "Valid Anagram",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Uber",
+    "Yelp"
+  ],
+  "topics": [
+    "Hash Table",
+    "Sort"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 242,
+      "name": "Valid Anagram",
+      "url": "https://leetcode.com/problems/valid-anagram/description/",
+      "similar": [
+        "Group Anagrams",
+        "Palindrome Permutation",
+        "Find All Anagrams in a String"
+      ]
+    }
+  }
+}

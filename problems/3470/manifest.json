@@ -1,0 +1,21 @@
+{
+  "name": "Insertion Sort List",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Linked List",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 147,
+      "name": "Insertion Sort List",
+      "url": "https://leetcode.com/problems/insertion-sort-list/description/",
+      "similar": [
+        "Sort List"
+      ]
+    }
+  }
+}

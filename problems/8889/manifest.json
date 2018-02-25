@@ -1,0 +1,23 @@
+{
+  "name": "Remove Invalid Parentheses",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 301,
+      "name": "Remove Invalid Parentheses",
+      "url": "https://leetcode.com/problems/remove-invalid-parentheses/description/",
+      "similar": [
+        "Valid Parentheses"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sudoku Solver",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Snapchat",
+    "Uber"
+  ],
+  "topics": [
+    "Backtracking",
+    "Hash Table"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 37,
+      "name": "Sudoku Solver",
+      "url": "https://leetcode.com/problems/sudoku-solver/description/",
+      "similar": [
+        "Valid Sudoku"
+      ]
+    }
+  }
+}

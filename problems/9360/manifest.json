@@ -1,0 +1,24 @@
+{
+  "name": "Sort Characters By Frequency",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Amazon"
+  ],
+  "topics": [
+    "Hash Table",
+    "Heap"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 451,
+      "name": "Sort Characters By Frequency",
+      "url": "https://leetcode.com/problems/sort-characters-by-frequency/description/",
+      "similar": [
+        "Top K Frequent Elements"
+      ]
+    }
+  }
+}

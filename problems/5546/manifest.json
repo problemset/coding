@@ -1,0 +1,16 @@
+{
+  "name": "Rabbits in Forest",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 781,
+      "name": "Rabbits in Forest",
+      "url": "https://leetcode.com/problems/rabbits-in-forest/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Contain Virus",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 749,
+      "name": "Contain Virus",
+      "url": "https://leetcode.com/problems/contain-virus/description/",
+      "similar": []
+    }
+  }
+}

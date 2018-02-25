@@ -1,0 +1,25 @@
+{
+  "name": "Word Search",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 79,
+      "name": "Word Search",
+      "url": "https://leetcode.com/problems/word-search/description/",
+      "similar": [
+        "Word Search II"
+      ]
+    }
+  }
+}

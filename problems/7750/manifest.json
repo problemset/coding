@@ -1,0 +1,20 @@
+{
+  "name": "K-th Symbol in Grammar",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Recursion"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 779,
+      "name": "K-th Symbol in Grammar",
+      "url": "https://leetcode.com/problems/k-th-symbol-in-grammar/description/",
+      "similar": []
+    }
+  }
+}

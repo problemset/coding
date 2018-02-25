@@ -1,0 +1,25 @@
+{
+  "name": "Majority Element",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Adobe",
+    "Zenefits"
+  ],
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 169,
+      "name": "Majority Element",
+      "url": "https://leetcode.com/problems/majority-element/description/",
+      "similar": [
+        "Majority Element II"
+      ]
+    }
+  }
+}

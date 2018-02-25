@@ -1,0 +1,16 @@
+{
+  "name": "Integer Break",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 343,
+      "name": "Integer Break",
+      "url": "https://leetcode.com/problems/integer-break/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Design Tic-Tac-Toe",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 348,
+      "name": "Design Tic-Tac-Toe",
+      "url": "https://leetcode.com/problems/design-tic-tac-toe/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Find Pivot Index",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Coupang",
+    "Radius"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 724,
+      "name": "Find Pivot Index",
+      "url": "https://leetcode.com/problems/find-pivot-index/description/",
+      "similar": [
+        "Subarray Sum Equals K"
+      ]
+    }
+  }
+}

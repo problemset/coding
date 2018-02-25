@@ -1,0 +1,18 @@
+{
+  "name": "Largest Palindrome Product",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yahoo"
+  ],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 479,
+      "name": "Largest Palindrome Product",
+      "url": "https://leetcode.com/problems/largest-palindrome-product/description/",
+      "similar": []
+    }
+  }
+}

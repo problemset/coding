@@ -1,0 +1,21 @@
+{
+  "name": "Count Complete Tree Nodes",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree",
+    "Binary Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 222,
+      "name": "Count Complete Tree Nodes",
+      "url": "https://leetcode.com/problems/maximal-square/description/",
+      "similar": [
+        "Closest Binary Search Tree Value"
+      ]
+    }
+  }
+}

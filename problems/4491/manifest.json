@@ -1,0 +1,28 @@
+{
+  "name": "Find the Duplicate Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Binary Search",
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 287,
+      "name": "Find the Duplicate Number",
+      "url": "https://leetcode.com/problems/find-the-duplicate-number/description/",
+      "similar": [
+        "First Missing Positive",
+        "Single Number",
+        "Linked List Cycle II",
+        "Missing Number",
+        "Set Mismatch"
+      ]
+    }
+  }
+}

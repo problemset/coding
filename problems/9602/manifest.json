@@ -1,0 +1,20 @@
+{
+  "name": "Validate IP Address",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Twitter"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 468,
+      "name": "Validate IP Address",
+      "url": "https://leetcode.com/problems/validate-ip-address/description/",
+      "similar": []
+    }
+  }
+}

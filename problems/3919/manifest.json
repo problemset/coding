@@ -1,0 +1,24 @@
+{
+  "name": "Word Search II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Backtracking",
+    "Trie",
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 212,
+      "name": "Word Search II",
+      "url": "https://leetcode.com/problems/word-search-ii/description/",
+      "similar": [
+        "Implement Trie(Prefix Tree)"
+      ]
+    }
+  }
+}

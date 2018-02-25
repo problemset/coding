@@ -1,0 +1,25 @@
+{
+  "name": "Flip Game II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 294,
+      "name": "Flip Game II",
+      "url": "https://leetcode.com/problems/flip-game-ii/description/",
+      "similar": [
+        "Nim Game",
+        "Flip Game",
+        "Guess Number Higher or Lower II",
+        "Can I Win"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Find Peak Element",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Google"
+  ],
+  "topics": [
+    "Binary Search",
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 162,
+      "name": "Find Peak Element",
+      "url": "https://leetcode.com/problems/find-peak-element/description/",
+      "similar": []
+    }
+  }
+}

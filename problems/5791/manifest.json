@@ -1,0 +1,22 @@
+{
+  "name": "Minimum Absolute Difference in BST",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 530,
+      "name": "Minimum Absolute Difference in BST",
+      "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/",
+      "similar": [
+        "K-diff Pairs in an Array"
+      ]
+    }
+  }
+}

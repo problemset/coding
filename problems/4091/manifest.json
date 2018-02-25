@@ -1,0 +1,24 @@
+{
+  "name": "Swap Nodes in Pairs",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg",
+    "Uber"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 24,
+      "name": "Swap Nodes in Pairs",
+      "url": "https://leetcode.com/problems/swap-nodes-in-pairs/description/",
+      "similar": [
+        "Reverse Nodes in k-Group"
+      ]
+    }
+  }
+}

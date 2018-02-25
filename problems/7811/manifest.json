@@ -1,0 +1,20 @@
+{
+  "name": "Shortest Completing Word",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 748,
+      "name": "Shortest Completing Word",
+      "url": "https://leetcode.com/problems/shortest-completing-word/description/",
+      "similar": []
+    }
+  }
+}

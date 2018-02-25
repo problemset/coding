@@ -1,0 +1,26 @@
+{
+  "name": "Linked List Cycle",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Yahoo"
+  ],
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 141,
+      "name": "Linked List Cycle",
+      "url": "https://leetcode.com/problems/linked-list-cycle/description/",
+      "similar": [
+        "Linked List Cycle II"
+      ]
+    }
+  }
+}

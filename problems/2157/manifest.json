@@ -1,0 +1,25 @@
+{
+  "name": "H-Index",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg",
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Hash Table",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 274,
+      "name": "H-Index",
+      "url": "https://leetcode.com/problems/h-index/description/",
+      "similar": [
+        "H-Index II"
+      ]
+    }
+  }
+}

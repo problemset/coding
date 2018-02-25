@@ -1,0 +1,23 @@
+{
+  "name": "Add Two Numbers II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 445,
+      "name": "Add Two Numbers II",
+      "url": "https://leetcode.com/problems/add-two-numbers-ii/description/",
+      "similar": [
+        "Add Two Numbers"
+      ]
+    }
+  }
+}

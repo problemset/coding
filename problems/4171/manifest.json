@@ -1,0 +1,22 @@
+{
+  "name": "Substring with Concatenation of All Words",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 30,
+      "name": "Substring with Concatenation of All Words",
+      "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/",
+      "similar": [
+        "Minimum Window Substring"
+      ]
+    }
+  }
+}

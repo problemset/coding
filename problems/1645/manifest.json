@@ -1,0 +1,29 @@
+{
+  "name": "Wildcard Matching",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Snapchat",
+    "Two Sigma",
+    "Facebook",
+    "Twitter"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Backtracking",
+    "Greedy",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 44,
+      "name": "Wildcard Matching",
+      "url": "https://leetcode.com/problems/wildcard-matching/description/",
+      "similar": [
+        "Regular Expression Matching"
+      ]
+    }
+  }
+}

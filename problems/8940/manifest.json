@@ -1,0 +1,22 @@
+{
+  "name": "Longest Uncommon Subsequence I",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 521,
+      "name": "Longest Uncommon Subsequence I",
+      "url": "https://leetcode.com/problems/longest-uncommon-subsequence-i/description/",
+      "similar": [
+        "Longest Uncommon Subsequence II"
+      ]
+    }
+  }
+}

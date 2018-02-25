@@ -1,0 +1,22 @@
+{
+  "name": "Concatenated Words",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "Depth-first Search",
+    "Trie"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 472,
+      "name": "Concatenated Words",
+      "url": "https://leetcode.com/problems/concatenated-words/description/",
+      "similar": [
+        "Word Break II"
+      ]
+    }
+  }
+}

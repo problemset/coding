@@ -1,0 +1,25 @@
+{
+  "name": "Best Time to Buy and Sell Stock with Transaction Fee",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 714,
+      "name": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/",
+      "similar": [
+        "Best Time to Buy and Sell Stock II"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Combination Sum IV",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Snapchat",
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 377,
+      "name": "Combination Sum IV",
+      "url": "https://leetcode.com/problems/combination-sum-iv/description/",
+      "similar": [
+        "Combination Sum"
+      ]
+    }
+  }
+}

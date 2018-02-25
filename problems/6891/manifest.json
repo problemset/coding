@@ -1,0 +1,18 @@
+{
+  "name": "Assign Cookies",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 455,
+      "name": "Assign Cookies",
+      "url": "https://leetcode.com/problems/assign-cookies/description/",
+      "similar": []
+    }
+  }
+}

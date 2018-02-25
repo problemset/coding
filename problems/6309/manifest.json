@@ -1,0 +1,20 @@
+{
+  "name": "UTF-8 Validation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 393,
+      "name": "UTF-8 Validation",
+      "url": "https://leetcode.com/problems/utf-8-validation/description/",
+      "similar": []
+    }
+  }
+}

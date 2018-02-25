@@ -1,0 +1,25 @@
+{
+  "name": "Longest Increasing Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 300,
+      "name": "Longest Increasing Subsequence",
+      "url": "https://leetcode.com/problems/longest-increasing-subsequence/description/",
+      "similar": [
+        "Increasing Triplet Subsequence",
+        "Russian Doll Envelopes",
+        "Maximum Length of Pair Chain"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Longest Harmonious Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LiveRamp"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 594,
+      "name": "Longest Harmonious Subsequence",
+      "url": "https://leetcode.com/problems/longest-harmonious-subsequence/description/",
+      "similar": []
+    }
+  }
+}

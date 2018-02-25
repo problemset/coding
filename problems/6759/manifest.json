@@ -1,0 +1,24 @@
+{
+  "name": "Insert Delete GetRandom O(1) - Duplicates allowed",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yelp"
+  ],
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 381,
+      "name": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/",
+      "similar": [
+        "Insert Delete GetRandom O(1)"
+      ]
+    }
+  }
+}

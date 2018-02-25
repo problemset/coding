@@ -1,0 +1,20 @@
+{
+  "name": "Nth Digit",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 400,
+      "name": "Nth Digit",
+      "url": "https://leetcode.com/problems/nth-digit/description/",
+      "similar": []
+    }
+  }
+}

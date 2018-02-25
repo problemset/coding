@@ -1,0 +1,24 @@
+{
+  "name": "Word Ladder II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Yelp"
+  ],
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Breadth-first Searcg",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 126,
+      "name": "Word Ladder II",
+      "url": "https://leetcode.com/problems/word-ladder-ii/description/",
+      "similar": []
+    }
+  }
+}

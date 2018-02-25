@@ -1,0 +1,22 @@
+{
+  "name": "Split Array Largest Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Baidu",
+    "Facebook"
+  ],
+  "topics": [
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 410,
+      "name": "Split Array Largest Sum",
+      "url": "https://leetcode.com/problems/split-array-largest-sum/description/",
+      "similar": []
+    }
+  }
+}

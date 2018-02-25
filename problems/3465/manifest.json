@@ -1,0 +1,27 @@
+{
+  "name": "Binary Tree Inorder Traversal",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree",
+    "Hash Table",
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 94,
+      "name": "Binary Tree Inorder Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/description/",
+      "similar": [
+        "Validate Binary Search Tree",
+        "Binary Tree Preorder Traversal",
+        "Binary Tree Postorder Traversal",
+        ""
+      ]
+    }
+  }
+}

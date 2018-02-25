@@ -1,0 +1,23 @@
+{
+  "name": "Reverse Nodes in k-Group",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Facebook"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 25,
+      "name": "Reverse Nodes in k-Group",
+      "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
+      "similar": [
+        "Swap Nodes in Pairs"
+      ]
+    }
+  }
+}

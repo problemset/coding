@@ -1,0 +1,18 @@
+{
+  "name": "132 Pattern",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 456,
+      "name": "132 Pattern",
+      "url": "https://leetcode.com/problems/132-pattern/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Parse Lisp Expression",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber"
+  ],
+  "topics": [
+    "Stack"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 736,
+      "name": "Parse Lisp Expression",
+      "url": "https://leetcode.com/problems/parse-lisp-expression/description/",
+      "similar": [
+        "Can Place Flowers"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sum Root to Leaf Numbers",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 129,
+      "name": "Sum Root to Leaf Numbers",
+      "url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/description/",
+      "similar": [
+        "Path Sum",
+        "Binary Tree Maximum Path Sum"
+      ]
+    }
+  }
+}

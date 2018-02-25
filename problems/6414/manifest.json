@@ -1,0 +1,18 @@
+{
+  "name": "K-th Smallest in Lexicographical Order",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Hulu"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 440,
+      "name": "K-th Smallest in Lexicographical Order",
+      "url": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/",
+      "similar": []
+    }
+  }
+}

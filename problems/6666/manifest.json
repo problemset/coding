@@ -1,0 +1,20 @@
+{
+  "name": "Trim a Binary Search Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 669,
+      "name": "Trim a Binary Search Tree",
+      "url": "https://leetcode.com/problems/trim-a-binary-search-tree/description/",
+      "similar": []
+    }
+  }
+}

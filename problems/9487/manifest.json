@@ -1,0 +1,22 @@
+{
+  "name": "Count of Smaller Numbers After Self",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 315,
+      "name": "Count of Smaller Numbers After Self",
+      "url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/",
+      "similar": [
+        "Count of Range Sum",
+        "Queue Reconstruction by Height",
+        "Reverse Pairs"
+      ]
+    }
+  }
+}

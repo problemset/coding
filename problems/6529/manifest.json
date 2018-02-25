@@ -1,0 +1,22 @@
+{
+  "name": "Find Largest Value in Each Tree Row",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 515,
+      "name": "Find Largest Value in Each Tree Row",
+      "url": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/",
+      "similar": []
+    }
+  }
+}

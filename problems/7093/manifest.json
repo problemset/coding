@@ -1,0 +1,20 @@
+{
+  "name": "Find Right Interval",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 436,
+      "name": "Find Right Interval",
+      "url": "https://leetcode.com/problems/find-right-interval/description/",
+      "similar": [
+        "Data Stream as Disjoint Intervals"
+      ]
+    }
+  }
+}

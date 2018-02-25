@@ -1,0 +1,25 @@
+{
+  "name": "Binary Tree Paths",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Apple",
+    "Facebook"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 257,
+      "name": "Binary Tree Paths",
+      "url": "https://leetcode.com/problems/binary-tree-paths/description/",
+      "similar": [
+        "Path Sum II"
+      ]
+    }
+  }
+}

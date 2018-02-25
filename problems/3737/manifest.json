@@ -1,0 +1,21 @@
+{
+  "name": "Subsets II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 90,
+      "name": "Subsets II",
+      "url": "https://leetcode.com/problems/subsets-ii/description/",
+      "similar": []
+    }
+  }
+}

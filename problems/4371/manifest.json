@@ -1,0 +1,23 @@
+{
+  "name": "Set Matrix Zeroes",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Amazon"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 73,
+      "name": "Set Matrix Zeroes",
+      "url": "https://leetcode.com/problems/set-matrix-zeroes/description/",
+      "similar": [
+        "Game of Life"
+      ]
+    }
+  }
+}

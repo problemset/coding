@@ -1,0 +1,22 @@
+{
+  "name": "Maximum Average Subarray I",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 643,
+      "name": "Maximum Average Subarray I",
+      "url": "https://leetcode.com/problems/maximum-average-subarray-i/description/",
+      "similar": [
+        "Maximum Average Subarray II"
+      ]
+    }
+  }
+}

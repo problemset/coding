@@ -1,0 +1,20 @@
+{
+  "name": "Erect the Fence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Geometry"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 587,
+      "name": "Erect the Fence",
+      "url": "https://leetcode.com/problems/erect-the-fence/description/",
+      "similar": []
+    }
+  }
+}

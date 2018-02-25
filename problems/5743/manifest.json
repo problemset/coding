@@ -1,0 +1,25 @@
+{
+  "name": "Subarray Product Less Than K",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yatra"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 713,
+      "name": "Subarray Product Less Than K",
+      "url": "https://leetcode.com/problems/subarray-product-less-than-k/description/",
+      "similar": [
+        "Maximum Product Subarray",
+        "Maximum Size Subarray Sum Equals k",
+        "Subarray Sum Equals K"
+      ]
+    }
+  }
+}

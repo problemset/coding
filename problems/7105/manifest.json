@@ -1,0 +1,23 @@
+{
+  "name": "Min Cost Climbing Stairs",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 746,
+      "name": "Min Cost Climbing Stairs",
+      "url": "https://leetcode.com/problems/min-cost-climbing-stairs/description/",
+      "similar": [
+        "Climbing Stairs"
+      ]
+    }
+  }
+}

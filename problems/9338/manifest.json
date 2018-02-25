@@ -1,0 +1,25 @@
+{
+  "name": "Longest Univalue Path",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Tree",
+    "Recursion"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 687,
+      "name": "Longest Univalue Path",
+      "url": "https://leetcode.com/problems/longest-univalue-path/description/",
+      "similar": [
+        "Binary Tree Maximum Path Sum",
+        "Count Universal Subtrees",
+        "Path Sum III"
+      ]
+    }
+  }
+}

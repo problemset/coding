@@ -1,0 +1,20 @@
+{
+  "name": "Beautiful Arrangement II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 667,
+      "name": "Beautiful Arrangement II",
+      "url": "https://leetcode.com/problems/beautiful-arrangement-ii/description/",
+      "similar": []
+    }
+  }
+}

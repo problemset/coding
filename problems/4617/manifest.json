@@ -1,0 +1,21 @@
+{
+  "name": "Combinations",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 77,
+      "name": "Combinations",
+      "url": "https://leetcode.com/problems/combinations/description/",
+      "similar": [
+        "Combination Sum",
+        "Permutations"
+      ]
+    }
+  }
+}

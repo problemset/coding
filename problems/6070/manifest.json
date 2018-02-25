@@ -1,0 +1,24 @@
+{
+  "name": "Falling Squares",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber",
+    "Square"
+  ],
+  "topics": [
+    "Segment Tree",
+    "Binary Search Tree"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 699,
+      "name": "Falling Squares",
+      "url": "https://leetcode.com/problems/falling-squares/description/",
+      "similar": [
+        "The Skyline Problem"
+      ]
+    }
+  }
+}

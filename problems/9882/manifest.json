@@ -1,0 +1,21 @@
+{
+  "name": "Global and Local Inversions",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 775,
+      "name": "Global and Local Inversions",
+      "url": "https://leetcode.com/problems/global-and-local-inversions/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "My Calendar II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Binary Search Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 731,
+      "name": "My Calendar II",
+      "url": "https://leetcode.com/problems/my-calendar-ii/description/",
+      "similar": [
+        "My Calendar I",
+        "My Calendar III"
+      ]
+    }
+  }
+}

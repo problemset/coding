@@ -1,0 +1,26 @@
+{
+  "name": "Generate Parentheses",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber",
+    "Zenefits"
+  ],
+  "topics": [
+    "Backtracking",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 22,
+      "name": "Generate Parentheses",
+      "url": "https://leetcode.com/problems/generate-parentheses/description/",
+      "similar": [
+        "Letter Combinations of a Phone Number",
+        "Valid Parentheses"
+      ]
+    }
+  }
+}

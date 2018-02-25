@@ -1,0 +1,22 @@
+{
+  "name": "Dota2 Senate",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Valve"
+  ],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 649,
+      "name": "Dota2 Senate",
+      "url": "https://leetcode.com/problems/dota2-senate/description/",
+      "similar": [
+        "Teemo Attacking"
+      ]
+    }
+  }
+}

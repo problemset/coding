@@ -1,0 +1,20 @@
+{
+  "name": "Find the Closest Palindrome",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yelp"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 564,
+      "name": "Find the Closest Palindrome",
+      "url": "https://leetcode.com/problems/find-the-closest-palindrome/description/",
+      "similar": []
+    }
+  }
+}

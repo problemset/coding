@@ -1,0 +1,24 @@
+{
+  "name": "Implement Queue using Stacks",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Stack",
+    "Design"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 232,
+      "name": "Implement Queue using Stacks",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks/description/",
+      "similar": [
+        "Implement Stack using Queues"
+      ]
+    }
+  }
+}

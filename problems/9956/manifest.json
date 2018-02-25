@@ -1,0 +1,23 @@
+{
+  "name": "Count Different Palindromic Subsequences",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 730,
+      "name": "Count Different Palindromic Subsequences",
+      "url": "https://leetcode.com/problems/count-different-palindromic-subsequences/description/",
+      "similar": [
+        "Longest Palindromic Subsequence"
+      ]
+    }
+  }
+}

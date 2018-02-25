@@ -1,0 +1,23 @@
+{
+  "name": "Design Hit Counter",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Dropbox",
+    "Google"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 362,
+      "name": "Design Hit Counter",
+      "url": "https://leetcode.com/problems/design-hit-counter/description/",
+      "similar": [
+        "Logger Rate Limiter"
+      ]
+    }
+  }
+}

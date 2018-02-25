@@ -1,0 +1,21 @@
+{
+  "name": "Optimal Division",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 553,
+      "name": "Optimal Division",
+      "url": "https://leetcode.com/problems/optimal-division/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Maximal Square",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Apple",
+    "Airbnb",
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 221,
+      "name": "Maximal Square",
+      "url": "https://leetcode.com/problems/maximal-square/description/",
+      "similar": [
+        "Maximal Rectangle"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Burst Balloons",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Snapchat"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 312,
+      "name": "Burst Balloons",
+      "url": "https://leetcode.com/problems/burst-balloons/description/",
+      "similar": []
+    }
+  }
+}

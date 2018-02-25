@@ -1,0 +1,16 @@
+{
+  "name": "Single Element in a Sorted Array",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 540,
+      "name": "Single Element in a Sorted Array",
+      "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/description/",
+      "similar": []
+    }
+  }
+}

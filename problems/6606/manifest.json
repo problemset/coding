@@ -1,0 +1,24 @@
+{
+  "name": "Rearrange String k Distance Apart",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Heap",
+    "Greedy"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 358,
+      "name": "Rearrange String k Distance Apart",
+      "url": "https://leetcode.com/problems/rearrange-string-k-distance-apart/description/",
+      "similar": [
+        "Task Scheduler"
+      ]
+    }
+  }
+}

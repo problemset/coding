@@ -1,0 +1,18 @@
+{
+  "name": "Invert Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 226,
+      "name": "Invert Binary Tree",
+      "url": "https://leetcode.com/problems/invert-binary-tree/description/",
+      "similar": []
+    }
+  }
+}

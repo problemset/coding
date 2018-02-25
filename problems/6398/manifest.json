@@ -1,0 +1,16 @@
+{
+  "name": "Shuffle an Array",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 384,
+      "name": "Shuffle an Array",
+      "url": "https://leetcode.com/problems/shuffle-an-array/description/",
+      "similar": []
+    }
+  }
+}

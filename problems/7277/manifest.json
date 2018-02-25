@@ -1,0 +1,23 @@
+{
+  "name": "Remove Comments",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 722,
+      "name": "Remove Comments",
+      "url": "https://leetcode.com/problems/remove-comments/description/",
+      "similar": [
+        "Mini Parser",
+        "Ternary Expression Parser"
+      ]
+    }
+  }
+}

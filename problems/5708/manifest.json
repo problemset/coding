@@ -1,0 +1,22 @@
+{
+  "name": "Pyramid Transition Matrix",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Airbnb"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 756,
+      "name": "Pyramid Transition Matrix",
+      "url": "https://leetcode.com/problems/pyramid-transition-matrix/description/",
+      "similar": [
+        "Trapping Rain Water"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Binary Number with Alternating Bits",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yahoo"
+  ],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 693,
+      "name": "Binary Number with Alternating Bits",
+      "url": "https://leetcode.com/problems/binary-number-with-alternating-bits/description/",
+      "similar": [
+        "Number of 1 Bits"
+      ]
+    }
+  }
+}

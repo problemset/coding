@@ -1,0 +1,22 @@
+{
+  "name": "Count Numbers with Unique Digits",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Backtracking",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 357,
+      "name": "Count Numbers with Unique Digits",
+      "url": "https://leetcode.com/problems/count-numbers-with-unique-digits/description/",
+      "similar": []
+    }
+  }
+}

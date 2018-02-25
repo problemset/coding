@@ -1,0 +1,23 @@
+{
+  "name": "Word Squares",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Backtracking",
+    "Trie"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 425,
+      "name": "Word Squares",
+      "url": "https://leetcode.com/problems/word-squares/description/",
+      "similar": [
+        "Valid Word Square"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Special Binary String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Coursera",
+    "Quip"
+  ],
+  "topics": [
+    "String",
+    "Recursion"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 761,
+      "name": "Special Binary String",
+      "url": "https://leetcode.com/problems/special-binary-string/description/",
+      "similar": [
+        "Valid Parenthesis String"
+      ]
+    }
+  }
+}

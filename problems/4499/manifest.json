@@ -1,0 +1,28 @@
+{
+  "name": "Top K Frequent Words",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Bloomberg",
+    "Uber",
+    "Yelp",
+    "Pocket Gems"
+  ],
+  "topics": [
+    "Hash Table",
+    "Heap",
+    "Trie"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 692,
+      "name": "Top K Frequent Words",
+      "url": "https://leetcode.com/problems/top-k-frequent-words/description/",
+      "similar": [
+        "Top K Frequent Elements"
+      ]
+    }
+  }
+}

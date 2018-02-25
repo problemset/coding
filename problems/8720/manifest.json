@@ -1,0 +1,22 @@
+{
+  "name": "Count Binary Substrings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Helix"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 696,
+      "name": "Count Binary Substrings",
+      "url": "https://leetcode.com/problems/count-binary-substrings/description/",
+      "similar": [
+        "Encode and Decode Strings"
+      ]
+    }
+  }
+}

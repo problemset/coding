@@ -1,0 +1,31 @@
+{
+  "name": "Trapping Rain Water",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Twitter",
+    "Zenefits",
+    "Amazon",
+    "Apple",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Array",
+    "Stack",
+    "Two Pointers"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 42,
+      "name": "Trapping Rain Water",
+      "url": "https://leetcode.com/problems/trapping-rain-water/description/",
+      "similar": [
+        "Container With Most Water",
+        "Product of Array Except Self",
+        "Trapping Rain Water II"
+      ]
+    }
+  }
+}

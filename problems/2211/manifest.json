@@ -1,0 +1,24 @@
+{
+  "name": "Group Shifted Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber"
+  ],
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 249,
+      "name": "Group Shifted Strings",
+      "url": "https://leetcode.com/problems/group-shifted-strings/description/",
+      "similar": [
+        "Group Anagrams"
+      ]
+    }
+  }
+}

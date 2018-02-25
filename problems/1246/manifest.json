@@ -1,0 +1,24 @@
+{
+  "name": "Integer to Roman",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Twitter"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 12,
+      "name": "Integer to Roman",
+      "url": "https://leetcode.com/problems/integer-to-roman/description/",
+      "similar": [
+        "Roman to Integer",
+        "Integer to English Words"
+      ]
+    }
+  }
+}

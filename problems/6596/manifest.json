@@ -1,0 +1,22 @@
+{
+  "name": "Palindrome Pairs",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Airbnb"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 336,
+      "name": "Palindrome Pairs",
+      "url": "https://leetcode.com/problems/palindrome-pairs/description/",
+      "similar": [
+        "Longest Palindrome Substring",
+        "Shortest Palindrome"
+      ]
+    }
+  }
+}

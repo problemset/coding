@@ -1,0 +1,27 @@
+{
+  "name": "Clone Graph",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pocket Gems",
+    "Google",
+    "Uber",
+    "Facebook"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 133,
+      "name": "Clone Graph",
+      "url": "https://leetcode.com/problems/clone-graph/description/",
+      "similar": [
+        "Copy List with Random Pointer"
+      ]
+    }
+  }
+}

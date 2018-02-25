@@ -1,0 +1,20 @@
+{
+  "name": "Number Complement",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Cloudera"
+  ],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 476,
+      "name": "Number Complement",
+      "url": "https://leetcode.com/problems/number-complement/description/",
+      "similar": []
+    }
+  }
+}

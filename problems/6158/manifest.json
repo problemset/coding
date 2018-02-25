@@ -1,0 +1,21 @@
+{
+  "name": "Longest Substring with At Most K Distinct Characters",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 340,
+      "name": "Longest Substring with At Most K Distinct Characters",
+      "url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/",
+      "similar": [
+        "Longest Substring with At Most Two Distinct Characters",
+        "Longest Repeating Character Replacement"
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Merge Intervals",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Google",
+    "Facebook",
+    "Twitter",
+    "Microsoft",
+    "Bloomberg",
+    "Yelp"
+  ],
+  "topics": [
+    "Array",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 56,
+      "name": "Merge Intervals",
+      "url": "https://leetcode.com/problems/merge-intervals/description/",
+      "similar": [
+        "Insert Interval",
+        "Meeting Rooms",
+        "Meeting Rooms II",
+        "Teemo Attacking",
+        "Add Bold Tag in String"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Alien Dictionary",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Airbnb",
+    "Facebook",
+    "Twitter",
+    "Snapchat",
+    "Pocket Gems"
+  ],
+  "topics": [
+    "Graph",
+    "Topological Sort"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 269,
+      "name": "Alien Dictionary",
+      "url": "https://leetcode.com/problems/alien-dictionary/description/",
+      "similar": [
+        "Course Schedule II"
+      ]
+    }
+  }
+}

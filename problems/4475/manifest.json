@@ -1,0 +1,25 @@
+{
+  "name": "Search a 2D Matrix II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Google",
+    "Apple"
+  ],
+  "topics": [
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 240,
+      "name": "Search a 2D Matrix II",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/description/",
+      "similar": [
+        "Search a 2D Matrix"
+      ]
+    }
+  }
+}

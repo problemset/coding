@@ -1,0 +1,39 @@
+{
+  "name": "Two Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Uber",
+    "Airbnb",
+    "Facebook",
+    "Amazon",
+    "Microsoft",
+    "Apple",
+    "Yahoo",
+    "Dropbox",
+    "Bloomberg",
+    "Yelp",
+    "Adobe"
+  ],
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 1,
+      "name": "Two Sum",
+      "url": "https://leetcode.com/problems/two-sum/description/",
+      "similar": [
+        "3Sum",
+        "4Sum",
+        "Two Sum II - Input array is sorted",
+        "Two Sum III - Data structure design",
+        "Subarray Sum Equals K",
+        "Two Sum IV - Input is a BST"
+      ]
+    }
+  }
+}

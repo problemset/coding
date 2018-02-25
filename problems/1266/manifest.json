@@ -1,0 +1,26 @@
+{
+  "name": "Ugly Number II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "Heap",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 264,
+      "name": "Ugly Number II",
+      "url": "https://leetcode.com/problems/ugly-number-ii/description/",
+      "similar": [
+        "Merge k Sorted Lists",
+        "Count Primes",
+        "Ugly Number",
+        "Perfect Square",
+        "Super Ugly Number"
+      ]
+    }
+  }
+}

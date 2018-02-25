@@ -1,0 +1,24 @@
+{
+  "name": "Wiggle Sort",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 280,
+      "name": "Wiggle Sort",
+      "url": "https://leetcode.com/problems/wiggle-sort/description/",
+      "similar": [
+        "Sort Colors",
+        "Wiggle Sort II"
+      ]
+    }
+  }
+}

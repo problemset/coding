@@ -1,0 +1,25 @@
+{
+  "name": "Insert Interval",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Sort"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 57,
+      "name": "Insert Interval",
+      "url": "https://leetcode.com/problems/insert-interval/description/",
+      "similar": [
+        "Merge Intervals"
+      ]
+    }
+  }
+}

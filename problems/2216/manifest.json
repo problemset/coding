@@ -1,0 +1,32 @@
+{
+  "name": "Binary Tree Level Order Traversal",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Facebook",
+    "Amazon",
+    "Microsoft",
+    "Apple",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 102,
+      "name": "Binary Tree Level Order Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/description/",
+      "similar": [
+        "Binary Tree Zigzag Level Order Traversal",
+        "Binary Tree Level Order Traversal II",
+        "Minimum Depth of Binary Tree",
+        "Binary Tree Vertical Order Traversal",
+        "Average of Levels in Binary Tree"
+      ]
+    }
+  }
+}

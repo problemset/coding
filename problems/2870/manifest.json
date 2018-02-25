@@ -1,0 +1,23 @@
+{
+  "name": "Basic Calculator II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Airbnb"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 227,
+      "name": "Basic Calculator II",
+      "url": "https://leetcode.com/problems/basic-calculator-ii/description/",
+      "similar": [
+        "Basic Calculator",
+        "Expression Add Operators"
+      ]
+    }
+  }
+}

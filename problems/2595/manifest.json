@@ -1,0 +1,22 @@
+{
+  "name": "Surrounded Regions",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Breadth-first Search",
+    "Union Find"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 130,
+      "name": "Surrounded Regions",
+      "url": "https://leetcode.com/problems/surrounded-regions/description/",
+      "similar": [
+        "Number of Islands",
+        "Walls and Gates"
+      ]
+    }
+  }
+}

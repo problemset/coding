@@ -1,0 +1,30 @@
+{
+  "name": "Basic Calculator III",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Pocket Gems",
+    "Hulu",
+    "Houzz",
+    "DoorDash",
+    "Jingchi"
+  ],
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 772,
+      "name": "Basic Calculator III",
+      "url": "https://leetcode.com/problems/basic-calculator-iii/description/",
+      "similar": [
+        "Basic Calculator",
+        "Basic Calculator II",
+        "Basic Calculator IV"
+      ]
+    }
+  }
+}

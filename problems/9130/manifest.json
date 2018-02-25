@@ -1,0 +1,21 @@
+{
+  "name": "Shopping Offers",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 638,
+      "name": "Shopping Offers",
+      "url": "https://leetcode.com/problems/shopping-offers/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "N-Queens",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 51,
+      "name": "N-Queens",
+      "url": "https://leetcode.com/problems/n-queens/description/",
+      "similar": [
+        "N-Queens II"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Valid Palindrome II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 680,
+      "name": "Valid Palindrome II",
+      "url": "https://leetcode.com/problems/valid-palindrome-ii/description/",
+      "similar": [
+        "Valid Palindrome"
+      ]
+    }
+  }
+}

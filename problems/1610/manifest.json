@@ -1,0 +1,25 @@
+{
+  "name": "Power of Two",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 231,
+      "name": "Power of Two",
+      "url": "https://leetcode.com/problems/power-of-two/description/",
+      "similar": [
+        "Number of 1 Bits",
+        "Power of Three",
+        "Power of Four"
+      ]
+    }
+  }
+}

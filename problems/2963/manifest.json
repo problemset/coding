@@ -1,0 +1,28 @@
+{
+  "name": "Search in Rotated Sorted Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Bloomberg",
+    "Uber",
+    "Facebook",
+    "Microsoft"
+  ],
+  "topics": [
+    "Binary Search",
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 33,
+      "name": "Search in Rotated Sorted Array",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
+      "similar": [
+        "Search in Rotated Sorted Array II",
+        "Find Minimum in Rotated Sorted Array"
+      ]
+    }
+  }
+}

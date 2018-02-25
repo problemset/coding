@@ -1,0 +1,25 @@
+{
+  "name": "Walls and Gates",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 286,
+      "name": "Walls and Gates",
+      "url": "https://leetcode.com/problems/walls-and-gates/description/",
+      "similar": [
+        "Surrounded Regions",
+        "Number of Islands",
+        "Shortest Distance from All Buildings"
+      ]
+    }
+  }
+}

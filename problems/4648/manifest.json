@@ -1,0 +1,26 @@
+{
+  "name": "Path Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 112,
+      "name": "Path Sum",
+      "url": "https://leetcode.com/problems/path-sum/description/",
+      "similar": [
+        "Path Sum II",
+        "Binary Tree Maximum Path Sum",
+        "Sum Root to Leaf Numbers",
+        "Path Sum III"
+      ]
+    }
+  }
+}

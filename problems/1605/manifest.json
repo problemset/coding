@@ -1,0 +1,19 @@
+{
+  "name": "Divide Two Integers",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 29,
+      "name": "Divide Two Integers",
+      "url": "https://leetcode.com/problems/divide-two-integers/description/",
+      "similar": []
+    }
+  }
+}

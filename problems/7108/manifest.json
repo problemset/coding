@@ -1,0 +1,16 @@
+{
+  "name": "Coin Change",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 322,
+      "name": "Coin Change",
+      "url": "https://leetcode.com/problems/coin-change/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Non-negative Integers without Consecutive Ones",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pocket Gems"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 600,
+      "name": "Non-negative Integers without Consecutive Ones",
+      "url": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/",
+      "similar": [
+        "House Robber",
+        "House Robber II",
+        "Ones and Zeros"
+      ]
+    }
+  }
+}

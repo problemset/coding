@@ -1,0 +1,22 @@
+{
+  "name": "Knight Probability in Chessboard",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Goldman Sachs"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 688,
+      "name": "Knight Probability in Chessboard",
+      "url": "https://leetcode.com/problems/knight-probability-in-chessboard/description/",
+      "similar": [
+        "Out of Boundary Paths"
+      ]
+    }
+  }
+}

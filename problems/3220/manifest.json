@@ -1,0 +1,26 @@
+{
+  "name": "Reverse Words in a String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Snapchat",
+    "Apple",
+    "Bloomberg",
+    "Yelp"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 151,
+      "name": "Reverse Words in a String",
+      "url": "https://leetcode.com/problems/reverse-words-in-a-string/description/",
+      "similar": [
+        "Reverse Words in a String II"
+      ]
+    }
+  }
+}

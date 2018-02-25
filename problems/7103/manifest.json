@@ -1,0 +1,20 @@
+{
+  "name": "Brick Wall",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 554,
+      "name": "Brick Wall",
+      "url": "https://leetcode.com/problems/brick-wall/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Image Smoother",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 661,
+      "name": "Image Smoother",
+      "url": "https://leetcode.com/problems/image-smoother/description/",
+      "similar": []
+    }
+  }
+}

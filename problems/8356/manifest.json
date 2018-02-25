@@ -1,0 +1,21 @@
+{
+  "name": "Count of Range Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 327,
+      "name": "Count of Range Sum",
+      "url": "https://leetcode.com/problems/count-of-range-sum/description/",
+      "similar": [
+        "Count of Smaller Numbers After Self",
+        "Reverse Pairs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Strange Printer",
+  "input": [],
+  "output": {},
+  "companies": [
+    "NetEase"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 664,
+      "name": "Strange Printer",
+      "url": "https://leetcode.com/problems/strange-printer/description/",
+      "similar": [
+        "Remove boxes"
+      ]
+    }
+  }
+}

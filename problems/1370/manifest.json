@@ -1,0 +1,22 @@
+{
+  "name": "Majority Element II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Zenefits"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 229,
+      "name": "Majority Element II",
+      "url": "https://leetcode.com/problems/majority-element-ii/description/",
+      "similar": [
+        "Majority Element"
+      ]
+    }
+  }
+}

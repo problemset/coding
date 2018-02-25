@@ -1,0 +1,23 @@
+{
+  "name": "Decode String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 394,
+      "name": "Decode String",
+      "url": "https://leetcode.com/problems/decode-string/description/",
+      "similar": [
+        "Encode String with Shortest Length"
+      ]
+    }
+  }
+}

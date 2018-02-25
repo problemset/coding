@@ -1,0 +1,20 @@
+{
+  "name": "Non-overlapping Intervals",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 435,
+      "name": "Non-overlapping Intervals",
+      "url": "https://leetcode.com/problems/non-overlapping-intervals/description/",
+      "similar": [
+        "Minimum Number of Arrows to Burst Balloons"
+      ]
+    }
+  }
+}

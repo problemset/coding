@@ -1,0 +1,22 @@
+{
+  "name": "Swim in Rising Water",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search",
+    "Heap",
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 778,
+      "name": "Swim in Rising Water",
+      "url": "https://leetcode.com/problems/swim-in-rising-water/description/",
+      "similar": []
+    }
+  }
+}

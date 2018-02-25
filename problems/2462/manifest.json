@@ -1,0 +1,22 @@
+{
+  "name": "Isomorphic Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 205,
+      "name": "Isomorphic Strings",
+      "url": "https://leetcode.com/problems/isomorphic-strings/description/",
+      "similar": [
+        "Word Pattern"
+      ]
+    }
+  }
+}

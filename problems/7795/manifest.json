@@ -1,0 +1,21 @@
+{
+  "name": "K Empty Slots",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Binary Search Tree"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 683,
+      "name": "K Empty Slots",
+      "url": "https://leetcode.com/problems/k-empty-slots/description/",
+      "similar": []
+    }
+  }
+}

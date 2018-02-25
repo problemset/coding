@@ -1,0 +1,23 @@
+{
+  "name": "Meeting Rooms",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Sort"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 252,
+      "name": "Meeting Rooms",
+      "url": "https://leetcode.com/problems/meeting-rooms/description/",
+      "similar": [
+        "Merge Intervals",
+        "Meeting Rooms II"
+      ]
+    }
+  }
+}

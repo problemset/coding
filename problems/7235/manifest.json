@@ -1,0 +1,19 @@
+{
+  "name": "Data Stream as Disjoint Intervals",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 352,
+      "name": "Data Stream as Disjoint Intervals",
+      "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/",
+      "similar": [
+        "Summary Ranges",
+        "Find Right Interval"
+      ]
+    }
+  }
+}

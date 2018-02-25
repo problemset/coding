@@ -1,0 +1,19 @@
+{
+  "name": "Partition List",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 86,
+      "name": "Partition List",
+      "url": "https://leetcode.com/problems/partition-list/description/",
+      "similar": []
+    }
+  }
+}

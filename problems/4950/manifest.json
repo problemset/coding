@@ -1,0 +1,27 @@
+{
+  "name": "String to Integer (atoi)",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Uber"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 8,
+      "name": "String to Integer (atoi)",
+      "url": "https://leetcode.com/problems/string-to-integer-atoi/description/",
+      "similar": [
+        "Reverse Integer",
+        "Valid Number"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Meeting Rooms II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Snapchat",
+    "Facebook"
+  ],
+  "topics": [
+    "Heap",
+    "Greedy",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 253,
+      "name": "Meeting Rooms II",
+      "url": "https://leetcode.com/problems/meeting-rooms-ii/description/",
+      "similar": [
+        "Merge Intervals",
+        "Meeting Rooms",
+        "Minimum Number of Arrows to Burst Ballons"
+      ]
+    }
+  }
+}

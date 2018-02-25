@@ -1,0 +1,22 @@
+{
+  "name": "Degree of an Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "GE Digital"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 697,
+      "name": "Degree of an Array",
+      "url": "https://leetcode.com/problems/degree-of-an-array/description/",
+      "similar": [
+        "Maximum Subarray"
+      ]
+    }
+  }
+}

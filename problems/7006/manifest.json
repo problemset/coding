@@ -1,0 +1,22 @@
+{
+  "name": "Delete and Earn",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Akuna Capital"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 740,
+      "name": "Delete and Earn",
+      "url": "https://leetcode.com/problems/delete-and-earn/description/",
+      "similar": [
+        "House Robber"
+      ]
+    }
+  }
+}

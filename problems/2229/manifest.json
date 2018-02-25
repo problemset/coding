@@ -1,0 +1,18 @@
+{
+  "name": "Candy",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 135,
+      "name": "Candy",
+      "url": "https://leetcode.com/problems/candy/description/",
+      "similar": []
+    }
+  }
+}

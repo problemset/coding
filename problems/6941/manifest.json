@@ -1,0 +1,21 @@
+{
+  "name": "Power of Four",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Two Sigma"
+  ],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 342,
+      "name": "Power of Four",
+      "url": "https://leetcode.com/problems/power-of-four/description/",
+      "similar": [
+        "Power of Two",
+        "Power of Three"
+      ]
+    }
+  }
+}

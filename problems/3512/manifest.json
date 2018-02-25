@@ -1,0 +1,28 @@
+{
+  "name": "Product of Array Except Self",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "LinkedIn",
+    "Apple",
+    "Facebook",
+    "Microsoft"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 238,
+      "name": "Product of Array Except Self",
+      "url": "https://leetcode.com/problems/product-of-array-except-self/description/",
+      "similar": [
+        "Trapping Rain Water",
+        "Maximum Product Subarray",
+        "Paint House II"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Number of Digit One",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 233,
+      "name": "Number of Digit One",
+      "url": "https://leetcode.com/problems/number-of-digit-one/description/",
+      "similar": [
+        "Factorial Trailing Zeros"
+      ]
+    }
+  }
+}

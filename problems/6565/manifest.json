@@ -1,0 +1,23 @@
+{
+  "name": "Maximum Product of Three Numbers",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Intuit"
+  ],
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 628,
+      "name": "Maximum Product of Three Numbers",
+      "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/description/",
+      "similar": [
+        "Maximum Product Subarray"
+      ]
+    }
+  }
+}

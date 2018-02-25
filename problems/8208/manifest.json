@@ -1,0 +1,21 @@
+{
+  "name": "Super Washing Machines",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 517,
+      "name": "Super Washing Machines",
+      "url": "https://leetcode.com/problems/super-washing-machines/description/",
+      "similar": []
+    }
+  }
+}

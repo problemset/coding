@@ -1,0 +1,20 @@
+{
+  "name": "Count Univalue Subtrees",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 250,
+      "name": "Count Univalue Subtrees",
+      "url": "https://leetcode.com/problems/count-univalue-subtrees/description/",
+      "similar": [
+        "Subtree of Another Tree"
+      ]
+    }
+  }
+}

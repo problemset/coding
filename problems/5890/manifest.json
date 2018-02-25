@@ -1,0 +1,23 @@
+{
+  "name": "Permutation in String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 567,
+      "name": "Permutation in String",
+      "url": "https://leetcode.com/problems/find-the-closest-palindrome/description/",
+      "similar": [
+        "Minimum Window Substring",
+        "Find All Anagrams in a String"
+      ]
+    }
+  }
+}

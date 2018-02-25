@@ -1,0 +1,18 @@
+{
+  "name": "Additive Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Epic Systems"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 306,
+      "name": "Additive Number",
+      "url": "https://leetcode.com/problems/additive-number/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Minimum Window Substring",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Snapchar",
+    "Uber",
+    "Facebook"
+  ],
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 76,
+      "name": "Minimum Window Substring",
+      "url": "https://leetcode.com/problems/minimum-window-substring/description/",
+      "similar": [
+        "SUbstring with Concatenation of All Words",
+        "Minimum Size Subarray Sum",
+        "Sliding Window Maximum",
+        "Permutation in String",
+        "Smallest Range"
+      ]
+    }
+  }
+}

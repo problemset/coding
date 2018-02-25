@@ -1,0 +1,20 @@
+{
+  "name": "Number Of Corner Rectangles",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 750,
+      "name": "Number Of Corner Rectangles",
+      "url": "https://leetcode.com/problems/number-of-corner-rectangles/description/",
+      "similar": []
+    }
+  }
+}

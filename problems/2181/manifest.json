@@ -1,0 +1,25 @@
+{
+  "name": "Inorder Successor in BST",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pocket Gems",
+    "Microsoft",
+    "Facebook"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 285,
+      "name": "Inorder Successor in BST",
+      "url": "https://leetcode.com/problems/inorder-successor-in-bst/description/",
+      "similar": [
+        "Binary Tree Inorder Traversal",
+        "Binary Search Tree Iterator"
+      ]
+    }
+  }
+}

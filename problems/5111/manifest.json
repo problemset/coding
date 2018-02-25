@@ -1,0 +1,23 @@
+{
+  "name": "IP to CIDR",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Airbnb"
+  ],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 751,
+      "name": "IP to CIDR",
+      "url": "https://leetcode.com/problems/ip-to-cidr/description/",
+      "similar": [
+        "Restore IP Address",
+        "Validate IP Address"
+      ]
+    }
+  }
+}

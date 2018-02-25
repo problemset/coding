@@ -1,0 +1,16 @@
+{
+  "name": "Bulb Switcher",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 319,
+      "name": "Bulb Switcher",
+      "url": "https://leetcode.com/problems/bulb-switcher/description/",
+      "similar": []
+    }
+  }
+}

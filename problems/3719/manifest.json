@@ -1,0 +1,31 @@
+{
+  "name": "3Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Facebook",
+    "Adobe",
+    "Works Applications"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 15,
+      "name": "3Sum",
+      "url": "https://leetcode.com/problems/3sum/description/",
+      "similar": [
+        "Two Sum",
+        "3Sum Closest",
+        "4Sum",
+        "3Sum Smaller"
+      ]
+    }
+  }
+}

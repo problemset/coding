@@ -1,0 +1,22 @@
+{
+  "name": "Range Addition II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "IXL"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 598,
+      "name": "Range Addition II",
+      "url": "https://leetcode.com/problems/range-addition-ii/description/",
+      "similar": [
+        "Range Addition"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Arithmetic Slices",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Aetion",
+    "Baidu"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 413,
+      "name": "Arithmetic Slices",
+      "url": "https://leetcode.com/problems/arithmetic-slices/description/",
+      "similar": [
+        "Arithmetic Slices II - Subsequence"
+      ]
+    }
+  }
+}

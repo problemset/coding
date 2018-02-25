@@ -1,0 +1,28 @@
+{
+  "name": "Group Anagrams",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Bloomberg",
+    "Uber",
+    "Facebook",
+    "Yelp"
+  ],
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 49,
+      "name": "Group Anagrams",
+      "url": "https://leetcode.com/problems/group-anagrams/description/",
+      "similar": [
+        "Valid Anagram",
+        "Group Shifted Strings"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Number of Atoms",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Stack",
+    "Recursion"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 726,
+      "name": "Number of Atoms",
+      "url": "https://leetcode.com/problems/number-of-atoms/description/",
+      "similar": [
+        "Decode String",
+        "Encode String with Shortest Length"
+      ]
+    }
+  }
+}

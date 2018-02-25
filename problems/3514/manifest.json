@@ -1,0 +1,24 @@
+{
+  "name": "Strobogrammatic Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 246,
+      "name": "Strobogrammatic Number",
+      "url": "https://leetcode.com/problems/strobogrammatic-number/description/",
+      "similar": [
+        "Strobogrammatic Number II",
+        "Strobogrammatic Number III"
+      ]
+    }
+  }
+}

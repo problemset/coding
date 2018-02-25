@@ -1,0 +1,23 @@
+{
+  "name": "Find K Closest Elements",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 658,
+      "name": "Find K Closest Elements",
+      "url": "https://leetcode.com/problems/find-k-closest-elements/description/",
+      "similar": [
+        "Guess Number Higher or Lower",
+        "Guess Number Higher or Lower II"
+      ]
+    }
+  }
+}

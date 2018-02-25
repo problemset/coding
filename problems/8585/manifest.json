@@ -1,0 +1,20 @@
+{
+  "name": "Maximum Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 654,
+      "name": "Maximum Binary Tree",
+      "url": "https://leetcode.com/problems/maximum-binary-tree/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Water and Jug Problem",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 365,
+      "name": "Water and Jug Problem",
+      "url": "https://leetcode.com/problems/water-and-jug-problem/description/",
+      "similar": []
+    }
+  }
+}

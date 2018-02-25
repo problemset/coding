@@ -1,0 +1,25 @@
+{
+  "name": "Couples Holding Hands",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Greedy",
+    "Union Find",
+    "Graph"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 765,
+      "name": "Couples Holding Hands",
+      "url": "https://leetcode.com/problems/couples-holding-hands/description/",
+      "similar": [
+        "First Missing Positive",
+        "Missing Number"
+      ]
+    }
+  }
+}

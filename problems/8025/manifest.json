@@ -1,0 +1,20 @@
+{
+  "name": "Ransom Note",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Apple"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 383,
+      "name": "Ransom Note",
+      "url": "https://leetcode.com/problems/ransom-note/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Flatten 2D Vector",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Airbnb",
+    "Twitter",
+    "Zenefits"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 251,
+      "name": "Flatten 2D Vector",
+      "url": "https://leetcode.com/problems/flatten-2d-vector/description/",
+      "similar": [
+        "Binary Search Tree Iterator",
+        "Zigzag Iterator",
+        "Peeking Iterator",
+        "Flatten Nested List Iterator"
+      ]
+    }
+  }
+}

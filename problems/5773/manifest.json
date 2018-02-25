@@ -1,0 +1,21 @@
+{
+  "name": "Lonely Pixel I",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Depth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 531,
+      "name": "Lonely Pixel I",
+      "url": "https://leetcode.com/problems/lonely-pixel-i/description/",
+      "similar": []
+    }
+  }
+}

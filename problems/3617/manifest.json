@@ -1,0 +1,25 @@
+{
+  "name": "Zigzag Iterator",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 281,
+      "name": "Zigzag Iterator",
+      "url": "https://leetcode.com/problems/zigzag-iterator/description/",
+      "similar": [
+        "Binary Search Tree Iterator",
+        "Flatten 2D Vector",
+        "Peeking Iterator",
+        "Flatten Nested List Iterator"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Remove Duplicates from Sorted Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 26,
+      "name": "Remove Duplicates from Sorted Array",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+      "similar": [
+        "Remove Element"
+      ]
+    }
+  }
+}

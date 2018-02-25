@@ -1,0 +1,21 @@
+{
+  "name": "Sort Transformed Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Math",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 360,
+      "name": "Sort Transformed Array",
+      "url": "https://leetcode.com/problems/sort-transformed-array/description/",
+      "similar": []
+    }
+  }
+}

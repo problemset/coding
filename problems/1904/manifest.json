@@ -1,0 +1,18 @@
+{
+  "name": "Maximum Gap",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Sort"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 164,
+      "name": "Maximum Gap",
+      "url": "https://leetcode.com/problems/maximum-gap/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Convert Sorted List to Binary Search Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Zenefits"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Linked List"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 109,
+      "name": "Convert Sorted List to Binary Search Tree",
+      "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/",
+      "similar": [
+        "Convert Sorted Array to Binary Search Tree"
+      ]
+    }
+  }
+}

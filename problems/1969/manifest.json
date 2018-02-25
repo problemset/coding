@@ -1,0 +1,30 @@
+{
+  "name": "Course Schedule",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Apple",
+    "Yelp",
+    "Zenefits"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph",
+    "Topological Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 207,
+      "name": "Course Schedule",
+      "url": "https://leetcode.com/problems/course-schedule/description/",
+      "similar": [
+        "Course Schedule II",
+        "Graph Valid Tree",
+        "Minimum Height Tree",
+        "Course Schedule III"
+      ]
+    }
+  }
+}

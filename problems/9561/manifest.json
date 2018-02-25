@@ -1,0 +1,21 @@
+{
+  "name": "Shortest Unsorted Continuous Subarray",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "LiveRamp"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 581,
+      "name": "Shortest Unsorted Continuous Subarray",
+      "url": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/",
+      "similar": []
+    }
+  }
+}

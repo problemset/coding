@@ -1,0 +1,25 @@
+{
+  "name": "Decode Ways",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Uber",
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 91,
+      "name": "Decode Ways",
+      "url": "https://leetcode.com/problems/decode-ways/description/",
+      "similar": [
+        "Decode Ways II"
+      ]
+    }
+  }
+}

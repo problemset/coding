@@ -1,0 +1,23 @@
+{
+  "name": "Balanced Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 110,
+      "name": "Balanced Binary Tree",
+      "url": "https://leetcode.com/problems/balanced-binary-tree/description/",
+      "similar": [
+        "Maximum Depth of Binary Tree"
+      ]
+    }
+  }
+}

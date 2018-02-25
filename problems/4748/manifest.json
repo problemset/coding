@@ -1,0 +1,23 @@
+{
+  "name": "Sort List",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Linked List",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 148,
+      "name": "Sort List",
+      "url": "https://leetcode.com/problems/sort-list/description/",
+      "similar": [
+        "Merge Two Sorted Lists",
+        "Sort Colors",
+        "Insertion Sort List"
+      ]
+    }
+  }
+}

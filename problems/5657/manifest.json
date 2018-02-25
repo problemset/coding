@@ -1,0 +1,22 @@
+{
+  "name": "Asteroid Collision",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber"
+  ],
+  "topics": [
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 735,
+      "name": "Asteroid Collision",
+      "url": "https://leetcode.com/problems/asteroid-collision/description/",
+      "similar": [
+        "Can Place Flowers"
+      ]
+    }
+  }
+}

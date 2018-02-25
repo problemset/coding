@@ -1,0 +1,20 @@
+{
+  "name": "Design Excel Sum Formula",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 631,
+      "name": "Design Excel Sum Formula",
+      "url": "https://leetcode.com/problems/design-excel-sum-formula/description/",
+      "similar": []
+    }
+  }
+}

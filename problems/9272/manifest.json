@@ -1,0 +1,19 @@
+{
+  "name": "IPO",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Heap",
+    "Greedy"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 502,
+      "name": "IPO",
+      "url": "https://leetcode.com/problems/ipo/description/",
+      "similar": []
+    }
+  }
+}

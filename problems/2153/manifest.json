@@ -1,0 +1,23 @@
+{
+  "name": "Excel Sheet Column Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Uber"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 171,
+      "name": "Excel Sheet Column Number",
+      "url": "https://leetcode.com/problems/excel-sheet-column-number/description/",
+      "similar": [
+        "Excel Sheet Column Title"
+      ]
+    }
+  }
+}

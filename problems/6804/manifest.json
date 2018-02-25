@@ -1,0 +1,24 @@
+{
+  "name": "Remove K Digits",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Snapchat"
+  ],
+  "topics": [
+    "Stack",
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 402,
+      "name": "Remove K Digits",
+      "url": "https://leetcode.com/problems/remove-k-digits/description/",
+      "similar": [
+        "Create Maximum Number"
+      ]
+    }
+  }
+}

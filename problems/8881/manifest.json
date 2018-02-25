@@ -1,0 +1,24 @@
+{
+  "name": "Target Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 494,
+      "name": "Target Sum",
+      "url": "https://leetcode.com/problems/target-sum/description/",
+      "similar": [
+        "Expression Add Operators"
+      ]
+    }
+  }
+}

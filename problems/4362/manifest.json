@@ -1,0 +1,22 @@
+{
+  "name": "Count and Say",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 38,
+      "name": "Count and Say",
+      "url": "https://leetcode.com/problems/count-and-say/description/",
+      "similar": [
+        "Encode and Decode Strings"
+      ]
+    }
+  }
+}

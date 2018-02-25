@@ -1,0 +1,23 @@
+{
+  "name": "Construct Binary Tree from String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "String",
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 536,
+      "name": "Construct Binary Tree from String",
+      "url": "https://leetcode.com/problems/construct-binary-tree-from-string/description/",
+      "similar": [
+        "Construct String from Binary Tree"
+      ]
+    }
+  }
+}

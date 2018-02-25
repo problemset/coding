@@ -1,0 +1,20 @@
+{
+  "name": "Reach a Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "inmobi"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 754,
+      "name": "Reach a Number",
+      "url": "https://leetcode.com/problems/reach-a-number/description/",
+      "similar": []
+    }
+  }
+}

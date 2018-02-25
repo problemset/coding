@@ -1,0 +1,23 @@
+{
+  "name": "Split Linked List in Parts",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 725,
+      "name": "Split Linked List in Parts",
+      "url": "https://leetcode.com/problems/split-linked-list-in-parts/description/",
+      "similar": [
+        "Rotate List",
+        "Odd Even Linked List"
+      ]
+    }
+  }
+}

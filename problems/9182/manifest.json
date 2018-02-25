@@ -1,0 +1,24 @@
+{
+  "name": "Employee Importance",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber"
+  ],
+  "topics": [
+    "Hash Table",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 690,
+      "name": "Employee Importance",
+      "url": "https://leetcode.com/problems/employee-importance/description/",
+      "similar": [
+        "Nested List Weight Sum"
+      ]
+    }
+  }
+}

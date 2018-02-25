@@ -1,0 +1,20 @@
+{
+  "name": "Sentence Screen Fitting",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 418,
+      "name": "Sentence Screen Fitting",
+      "url": "https://leetcode.com/problems/sentence-screen-fitting/description/",
+      "similar": []
+    }
+  }
+}

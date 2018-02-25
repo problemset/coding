@@ -1,0 +1,26 @@
+{
+  "name": "Binary Tree Zigzag Level Order Traversal",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Bloomberg",
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree",
+    "Breadth-first Search",
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 103,
+      "name": "Binary Tree Zigzag Level Order Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/",
+      "similar": [
+        "Binary Tree Order Traversal"
+      ]
+    }
+  }
+}

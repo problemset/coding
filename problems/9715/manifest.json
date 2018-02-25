@@ -1,0 +1,20 @@
+{
+  "name": "Find Anagram Mappings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 760,
+      "name": "Find Anagram Mappings",
+      "url": "https://leetcode.com/problems/find-anagram-mappings/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Minimize Max Distance to Gas Station",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 774,
+      "name": "Minimize Max Distance to Gas Station",
+      "url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/",
+      "similar": []
+    }
+  }
+}

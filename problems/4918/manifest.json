@@ -1,0 +1,30 @@
+{
+  "name": "String Compression",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg",
+    "Snapchat",
+    "Yelp",
+    "Expedia",
+    "GoDaddy",
+    "Lyft"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 443,
+      "name": "String Compression",
+      "url": "https://leetcode.com/problems/string-compression/description/",
+      "similar": [
+        "Count and Say",
+        "Encode and Decode Strings",
+        "Design Compressed String Iterator"
+      ]
+    }
+  }
+}

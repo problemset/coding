@@ -1,0 +1,22 @@
+{
+  "name": "Range Sum Query - Mutable",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Segment Tree",
+    "Binary Indexed Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 307,
+      "name": "Range Sum Query - Mutable",
+      "url": "https://leetcode.com/problems/range-sum-query-mutable/description/",
+      "similar": [
+        "Range Sum Query - Immutable",
+        "Range Sum Query 2D - Mutable"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Is Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pinterest"
+  ],
+  "topics": [
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 392,
+      "name": "Is Subsequence",
+      "url": "https://leetcode.com/problems/is-subsequence/description/",
+      "similar": []
+    }
+  }
+}

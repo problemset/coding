@@ -1,0 +1,20 @@
+{
+  "name": "24 Game",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 679,
+      "name": "24 Game",
+      "url": "https://leetcode.com/problems/24-game/description/",
+      "similar": []
+    }
+  }
+}

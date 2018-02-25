@@ -1,0 +1,18 @@
+{
+  "name": "Length of Last Word",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 58,
+      "name": "Length of Last Word",
+      "url": "https://leetcode.com/problems/length-of-last-word/description/",
+      "similar": []
+    }
+  }
+}

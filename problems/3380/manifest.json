@@ -1,0 +1,18 @@
+{
+  "name": "Rectangle Area",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 223,
+      "name": "Rectangle Area",
+      "url": "https://leetcode.com/problems/rectangle-area/description/",
+      "similar": []
+    }
+  }
+}

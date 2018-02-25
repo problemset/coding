@@ -1,0 +1,29 @@
+{
+  "name": "Combination Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Snapchat",
+    "Uber"
+  ],
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 39,
+      "name": "Combination Sum",
+      "url": "https://leetcode.com/problems/combination-sum/description/",
+      "similar": [
+        "Letter Combination of a Phone Number",
+        "Combination Sum II",
+        "Combinations",
+        "Combination Sum III",
+        "Factor Combination",
+        "Combination IV"
+      ]
+    }
+  }
+}

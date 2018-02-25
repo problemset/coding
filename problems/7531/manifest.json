@@ -1,0 +1,20 @@
+{
+  "name": "Island Perimeter",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 463,
+      "name": "Island Perimeter",
+      "url": "https://leetcode.com/problems/island-perimeter/description/",
+      "similar": []
+    }
+  }
+}

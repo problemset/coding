@@ -1,0 +1,22 @@
+{
+  "name": "Number of Boomerangs",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 447,
+      "name": "Number of Boomerangs",
+      "url": "https://leetcode.com/problems/number-of-boomerangs/description/",
+      "similar": [
+        "Line Reflection"
+      ]
+    }
+  }
+}

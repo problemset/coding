@@ -1,0 +1,21 @@
+{
+  "name": "Repeated DNA Sequences",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 187,
+      "name": "Repeated DNA Sequences",
+      "url": "https://leetcode.com/problems/repeated-dna-sequences/description/",
+      "similar": []
+    }
+  }
+}

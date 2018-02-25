@@ -1,0 +1,20 @@
+{
+  "name": "Bold Words in String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 758,
+      "name": "Bold Words in String",
+      "url": "https://leetcode.com/problems/bold-words-in-string/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Integer Replacement",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Baidu"
+  ],
+  "topics": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 397,
+      "name": "Integer Replacement",
+      "url": "https://leetcode.com/problems/integer-replacement/description/",
+      "similar": []
+    }
+  }
+}

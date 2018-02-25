@@ -1,0 +1,24 @@
+{
+  "name": "Sentence Similarity",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 734,
+      "name": "Sentence Similarity",
+      "url": "https://leetcode.com/problems/sentence-similarity/description/",
+      "similar": [
+        "Frinend Circle",
+        "Accounts Merge",
+        "Sentence Similarity II"
+      ]
+    }
+  }
+}

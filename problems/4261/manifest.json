@@ -1,0 +1,23 @@
+{
+  "name": "Word Pattern II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Dropbox",
+    "Uber"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 291,
+      "name": "Word Pattern II",
+      "url": "https://leetcode.com/problems/word-pattern-ii/description/",
+      "similar": [
+        "Word Pattern"
+      ]
+    }
+  }
+}

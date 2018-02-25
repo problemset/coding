@@ -1,0 +1,22 @@
+{
+  "name": "Different Ways to Add Parentheses",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Divide and Conquer"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 241,
+      "name": "Different Ways to Add Parentheses",
+      "url": "https://leetcode.com/problems/different-ways-to-add-parentheses/description/",
+      "similar": [
+        "Unique Binary Search Trees II",
+        "Basic Calculator",
+        "Expression Add Operators"
+      ]
+    }
+  }
+}

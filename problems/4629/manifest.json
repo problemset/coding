@@ -1,0 +1,30 @@
+{
+  "name": "Implement Trie (Prefix Tree)",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber",
+    "Facebook",
+    "Twitter",
+    "Microsoft",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Design",
+    "Trie"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 208,
+      "name": "Implement Trie (Prefix Tree)",
+      "url": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
+      "similar": [
+        "Add and Search Word-Data structure design",
+        "Design Search Autocomplete System",
+        "Replace Words"
+      ]
+    }
+  }
+}

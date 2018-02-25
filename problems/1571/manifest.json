@@ -1,0 +1,27 @@
+{
+  "name": "Validate Binary Search Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Facebook"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 98,
+      "name": "Validate Binary Search Tree",
+      "url": "https://leetcode.com/problems/validate-binary-search-tree/description/",
+      "similar": [
+        "Binary Tree Inorder Traversal",
+        "Find Mode in Binary Search Tree"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Perfect Squares",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Breadth-first Search",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 279,
+      "name": "Perfect Squares",
+      "url": "https://leetcode.com/problems/perfect-squares/description/",
+      "similar": [
+        "Count Primes",
+        "Ugly Number II"
+      ]
+    }
+  }
+}

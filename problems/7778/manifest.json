@@ -1,0 +1,24 @@
+{
+  "name": "Subarray Sum Equals K",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Map"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 560,
+      "name": "Subarray Sum Equals K",
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+      "similar": [
+        "Two Sum",
+        "Continuous Subarray Sum"
+      ]
+    }
+  }
+}

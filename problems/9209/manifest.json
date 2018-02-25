@@ -1,0 +1,23 @@
+{
+  "name": "Maximum Size Subarray Sum Equals k",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Palantir",
+    "Facebook"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 325,
+      "name": "Maximum Size Subarray Sum Equals k",
+      "url": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/",
+      "similar": [
+        "Minimum Size Subarray Sum",
+        "Range Sum Query - Immutable",
+        "Contiguous Array"
+      ]
+    }
+  }
+}

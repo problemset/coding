@@ -1,0 +1,22 @@
+{
+  "name": "Student Attendance Record I",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 551,
+      "name": "Student Attendance Record I",
+      "url": "https://leetcode.com/problems/student-attendance-record-i/description/",
+      "similar": [
+        "Student Attendance Record II"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Reverse String II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 541,
+      "name": "Reverse String II",
+      "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/description/",
+      "similar": [
+        "Reverse String",
+        "Reverse Words in a String III"
+      ]
+    }
+  }
+}

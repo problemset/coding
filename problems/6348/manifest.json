@@ -1,0 +1,18 @@
+{
+  "name": "Android Unlock Patterns",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 351,
+      "name": "Android Unlock Patterns",
+      "url": "https://leetcode.com/problems/android-unlock-patterns/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Interleaving String",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 97,
+      "name": "Interleaving String",
+      "url": "https://leetcode.com/problems/interleaving-string/description/",
+      "similar": []
+    }
+  }
+}

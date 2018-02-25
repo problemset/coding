@@ -1,0 +1,22 @@
+{
+  "name": "Edit Distance",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 72,
+      "name": "Edit Distance",
+      "url": "https://leetcode.com/problems/edit-distance/description/",
+      "similar": [
+        "One Edit Distance",
+        "Delete Operations for Two Strings"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Word Abbreviation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Snapchat"
+  ],
+  "topics": [
+    "String",
+    "Sort"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 527,
+      "name": "Word Abbreviation",
+      "url": "https://leetcode.com/problems/word-abbreviation/description/",
+      "similar": [
+        "Valid Word Abbreviation",
+        "Minimum Unique Word Abbreviation"
+      ]
+    }
+  }
+}

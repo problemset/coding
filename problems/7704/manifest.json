@@ -1,0 +1,16 @@
+{
+  "name": "Letter Case Permutation",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 784,
+      "name": "Letter Case Permutation",
+      "url": "https://leetcode.com/problems/letter-case-permutation/description/",
+      "similar": []
+    }
+  }
+}

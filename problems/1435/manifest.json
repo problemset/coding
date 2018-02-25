@@ -1,0 +1,28 @@
+{
+  "name": "Graph Valid Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook",
+    "Zenefits"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph",
+    "Union Find"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 261,
+      "name": "Graph Valid Tree",
+      "url": "https://leetcode.com/problems/graph-valid-tree/description/",
+      "similar": [
+        "Course Schedule",
+        "Number of Connected Components in an Undirected Graph"
+      ]
+    }
+  }
+}

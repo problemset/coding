@@ -1,0 +1,22 @@
+{
+  "name": "Find Mode in Binary Search Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 501,
+      "name": "Find Mode in Binary Search Tree",
+      "url": "https://leetcode.com/problems/find-mode-in-binary-search-tree/description/",
+      "similar": [
+        "Validate Binary Search Tree"
+      ]
+    }
+  }
+}

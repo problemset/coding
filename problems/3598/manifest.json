@@ -1,0 +1,22 @@
+{
+  "name": "H-Index II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 275,
+      "name": "H-Index II",
+      "url": "https://leetcode.com/problems/h-index-ii/description/",
+      "similar": [
+        "H-Index"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Peeking Iterator",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Apple",
+    "Yahoo"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 284,
+      "name": "Peeking Iterator",
+      "url": "https://leetcode.com/problems/peeking-iterator/description/",
+      "similar": [
+        "Binary Search Tree Iterator",
+        "Flatten 2D Vector",
+        "Zigzag Iterator"
+      ]
+    }
+  }
+}

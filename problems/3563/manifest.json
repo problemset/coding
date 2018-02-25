@@ -1,0 +1,22 @@
+{
+  "name": "Simplify Path",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Facebook"
+  ],
+  "topics": [
+    "Stack",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 71,
+      "name": "Simplify Path",
+      "url": "https://leetcode.com/problems/simplify-path/description/",
+      "similar": []
+    }
+  }
+}

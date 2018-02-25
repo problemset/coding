@@ -1,0 +1,23 @@
+{
+  "name": "Coin Path",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 656,
+      "name": "Coin Path",
+      "url": "https://leetcode.com/problems/coin-path/description/",
+      "similar": [
+        "House Robber",
+        "House Robber II"
+      ]
+    }
+  }
+}

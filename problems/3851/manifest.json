@@ -1,0 +1,25 @@
+{
+  "name": "Lowest Common Ancestor of a Binary Search Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Facebook",
+    "Twitter"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 235,
+      "name": "Lowest Common Ancestor of a Binary Search Tree",
+      "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/",
+      "similar": [
+        "Lowest Common Ancestor of a Binary Tree"
+      ]
+    }
+  }
+}

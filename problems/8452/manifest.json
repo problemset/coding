@@ -1,0 +1,22 @@
+{
+  "name": "Monotone Increasing Digits",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 738,
+      "name": "Monotone Increasing Digits",
+      "url": "https://leetcode.com/problems/monotone-increasing-digits/description/",
+      "similar": [
+        "Remove K Digits"
+      ]
+    }
+  }
+}

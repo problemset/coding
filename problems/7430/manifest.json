@@ -1,0 +1,23 @@
+{
+  "name": "Replace Words",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber"
+  ],
+  "topics": [
+    "Hash Table",
+    "Trie"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 648,
+      "name": "Replace Words",
+      "url": "https://leetcode.com/problems/replace-words/description/",
+      "similar": [
+        "Implement Trie(Prefix Tree)"
+      ]
+    }
+  }
+}

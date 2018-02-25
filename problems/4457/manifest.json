@@ -1,0 +1,24 @@
+{
+  "name": "4Sum",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 18,
+      "name": "4Sum",
+      "url": "https://leetcode.com/problems/4sum/description/",
+      "similar": [
+        "Two Sum",
+        "3Sum",
+        "4Sum II"
+      ]
+    }
+  }
+}

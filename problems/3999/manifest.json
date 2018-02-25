@@ -1,0 +1,22 @@
+{
+  "name": "Read N Characters Given Read4",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 157,
+      "name": "Read N Characters Given Read4",
+      "url": "https://leetcode.com/problems/read-n-characters-given-read4/description/",
+      "similar": [
+        "Read N Characters Given Read4 II - Call multiple times"
+      ]
+    }
+  }
+}

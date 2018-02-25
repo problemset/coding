@@ -1,0 +1,23 @@
+{
+  "name": "Most Frequent Subtree Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Hash Table",
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 508,
+      "name": "Most Frequent Subtree Sum",
+      "url": "https://leetcode.com/problems/most-frequent-subtree-sum/description/",
+      "similar": [
+        "Subtree of Another Tree"
+      ]
+    }
+  }
+}

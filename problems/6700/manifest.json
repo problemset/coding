@@ -1,0 +1,22 @@
+{
+  "name": "Longest Continuous Increasing Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 674,
+      "name": "Longest Continuous Increasing Subsequence",
+      "url": "https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/",
+      "similar": [
+        "Number of Longest Increasing Subsequence"
+      ]
+    }
+  }
+}

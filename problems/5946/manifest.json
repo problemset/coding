@@ -1,0 +1,22 @@
+{
+  "name": "Judge Route Circle",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 657,
+      "name": "Judge Route Circle",
+      "url": "https://leetcode.com/problems/judge-route-circle/description/",
+      "similar": [
+        "Friend Circle"
+      ]
+    }
+  }
+}

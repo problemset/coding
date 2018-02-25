@@ -1,0 +1,20 @@
+{
+  "name": "Add One Row to Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Gilt Groupe"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 623,
+      "name": "Add One Row to Tree",
+      "url": "https://leetcode.com/problems/add-bold-tag-in-string/description/",
+      "similar": []
+    }
+  }
+}

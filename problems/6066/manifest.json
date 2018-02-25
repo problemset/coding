@@ -1,0 +1,24 @@
+{
+  "name": "Design Search Autocomplete System",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook",
+    "Microsoft"
+  ],
+  "topics": [
+    "Desgin",
+    "Trie"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 642,
+      "name": "Design Search Autocomplete System",
+      "url": "https://leetcode.com/problems/design-search-autocomplete-system/description/",
+      "similar": [
+        "Implement Trie(Prefix Tree)"
+      ]
+    }
+  }
+}

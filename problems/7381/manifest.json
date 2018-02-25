@@ -1,0 +1,23 @@
+{
+  "name": "Next Greater Element II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 503,
+      "name": "Next Greater Element II",
+      "url": "https://leetcode.com/problems/next-greater-element-ii/description/",
+      "similar": [
+        "Next Greater Element I",
+        "Next Greater Element III"
+      ]
+    }
+  }
+}

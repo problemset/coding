@@ -1,0 +1,26 @@
+{
+  "name": "Longest Substring with At Most Two Distinct Characters",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 159,
+      "name": "Longest Substring with At Most Two Distinct Characters",
+      "url": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/",
+      "similar": [
+        "Longest Substring Without Repeating Characters",
+        "Sliding Window Maximum",
+        "Longest Substring with At Most K Distinct Characters"
+      ]
+    }
+  }
+}

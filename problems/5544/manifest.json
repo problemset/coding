@@ -1,0 +1,27 @@
+{
+  "name": "Range Module",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Coupang",
+    "Machine Zone"
+  ],
+  "topics": [
+    "Array",
+    "Segment Tree",
+    "Binary Search Tree"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 715,
+      "name": "Range Module",
+      "url": "https://leetcode.com/problems/range-module/description/",
+      "similar": [
+        "Merge Intervals",
+        "Insert Interval",
+        "Data Stream as Disjoint Intervals"
+      ]
+    }
+  }
+}

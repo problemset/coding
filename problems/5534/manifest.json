@@ -1,0 +1,24 @@
+{
+  "name": "Friend Circles",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Two Sigma"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 547,
+      "name": "Friend Circles",
+      "url": "https://leetcode.com/problems/friend-circles/description/",
+      "similar": [
+        "Number of Connected Components in an Undirected Graph",
+        "Judge Route Circle"
+      ]
+    }
+  }
+}

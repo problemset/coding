@@ -1,0 +1,19 @@
+{
+  "name": "Sparse Matrix Multiplication",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Facebook"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 311,
+      "name": "Sparse Matrix Multiplication",
+      "url": "https://leetcode.com/problems/sparse-matrix-multiplication/description/",
+      "similar": []
+    }
+  }
+}

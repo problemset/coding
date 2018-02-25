@@ -1,0 +1,20 @@
+{
+  "name": "Squirrel Simulation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Square"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 573,
+      "name": "Squirrel Simulation",
+      "url": "https://leetcode.com/problems/squirrel-simulation/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Binary Tree Tilt",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Indeed"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 563,
+      "name": "Binary Tree Tilt",
+      "url": "https://leetcode.com/problems/binary-tree-tilt/description/",
+      "similar": []
+    }
+  }
+}

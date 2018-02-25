@@ -1,0 +1,22 @@
+{
+  "name": "Word Ladder",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "LinkedIn",
+    "Snapchat",
+    "Facebook",
+    "Yelp"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 127,
+      "name": "Word Ladder",
+      "url": "https://leetcode.com/problems/word-ladder/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Maximal Rectangle",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 85,
+      "name": "Maximal Rectangle",
+      "url": "https://leetcode.com/problems/maximal-rectangle/description/",
+      "similar": [
+        "Largest Rectangle in Histogram",
+        "Maximal Square"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Regular Expression Matching",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber",
+    "Airbnb",
+    "Facebook",
+    "Twitter"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Backtracking",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 10,
+      "name": "Regular Expression Matching",
+      "url": "https://leetcode.com/problems/regular-expression-matching/description/",
+      "similar": [
+        "Wildcard Matching"
+      ]
+    }
+  }
+}

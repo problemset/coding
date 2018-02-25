@@ -1,0 +1,22 @@
+{
+  "name": "Linked List Random Node",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Reservoir Sampling"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 382,
+      "name": "Linked List Random Node",
+      "url": "https://leetcode.com/problems/linked-list-random-node/description/",
+      "similar": [
+        "Random Pick Index"
+      ]
+    }
+  }
+}

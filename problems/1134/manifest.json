@@ -1,0 +1,28 @@
+{
+  "name": "Single Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Palantir",
+    "Airbnb"
+  ],
+  "topics": [
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 136,
+      "name": "Single Number",
+      "url": "https://leetcode.com/problems/single-number/description/",
+      "similar": [
+        "Single Number II",
+        "Single Number III",
+        "Missing Number",
+        "Find the Duplication Number",
+        "Find the Difference"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Output Contest Matches",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String",
+    "Recursion"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 544,
+      "name": "Output Contest Matches",
+      "url": "https://leetcode.com/problems/output-contest-matches/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Reverse Linked List",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber",
+    "Facebook",
+    "Twitter",
+    "Zenefits",
+    "Amazon",
+    "Microsoft",
+    "Snapchat",
+    "Apple",
+    "Yahoo",
+    "Bloomberg",
+    "Yelp",
+    "Adobe"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 206,
+      "name": "Reverse Linked List",
+      "url": "https://leetcode.com/problems/reverse-linked-list/description/",
+      "similar": [
+        "Reverse Linked List II",
+        "Binary Tree Upside Down",
+        "Palindrome Linked List"
+      ]
+    }
+  }
+}

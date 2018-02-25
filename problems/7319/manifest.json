@@ -1,0 +1,22 @@
+{
+  "name": "Repeated String Match",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 686,
+      "name": "Repeated String Match",
+      "url": "https://leetcode.com/problems/repeated-string-match/description/",
+      "similar": [
+        "Repeated Substring Pattern"
+      ]
+    }
+  }
+}

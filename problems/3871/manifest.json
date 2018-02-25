@@ -1,0 +1,21 @@
+{
+  "name": "Largest Rectangle in Histogram",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Stack"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 84,
+      "name": "Largest Rectangle in Histogram",
+      "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/",
+      "similar": [
+        "Maximal Rectangle"
+      ]
+    }
+  }
+}

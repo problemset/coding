@@ -1,0 +1,23 @@
+{
+  "name": "Shortest Word Distance III",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 245,
+      "name": "Shortest Word Distance III",
+      "url": "https://leetcode.com/problems/shortest-word-distance-iii/description/",
+      "similar": [
+        "Shortest Word Distance",
+        "Shortest Word Distance II"
+      ]
+    }
+  }
+}

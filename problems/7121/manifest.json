@@ -1,0 +1,24 @@
+{
+  "name": "LFU Cache",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Amazon"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 460,
+      "name": "LFU Cache",
+      "url": "https://leetcode.com/problems/lfu-cache/description/",
+      "similar": [
+        "LRU Cache",
+        "Design In-Memory File System"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Intersection of Two Linked Lists",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Airbnb"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 160,
+      "name": "Intersection of Two Linked Lists",
+      "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/description/",
+      "similar": [
+        "Minimum Index Sum of Two Lists"
+      ]
+    }
+  }
+}

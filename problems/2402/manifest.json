@@ -1,0 +1,24 @@
+{
+  "name": "Dungeon Game",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 174,
+      "name": "Dungeon Game",
+      "url": "https://leetcode.com/problems/dungeon-game/description/",
+      "similar": [
+        "Unique Paths",
+        "Minimum Path Sum"
+      ]
+    }
+  }
+}

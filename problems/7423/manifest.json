@@ -1,0 +1,20 @@
+{
+  "name": "Convex Polygon",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 469,
+      "name": "Convex Polygon",
+      "url": "https://leetcode.com/problems/convex-polygon/description/",
+      "similar": []
+    }
+  }
+}

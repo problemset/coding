@@ -1,0 +1,21 @@
+{
+  "name": "Candy Crush",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Rubrik"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 723,
+      "name": "Candy Crush",
+      "url": "https://leetcode.com/problems/candy-crush/description/",
+      "similar": []
+    }
+  }
+}

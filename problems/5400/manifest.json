@@ -1,0 +1,21 @@
+{
+  "name": "Minimum Factorization",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Tencent"
+  ],
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 625,
+      "name": "Minimum Factorization",
+      "url": "https://leetcode.com/problems/minimum-factorization/description/",
+      "similar": []
+    }
+  }
+}

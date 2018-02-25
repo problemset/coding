@@ -1,0 +1,20 @@
+{
+  "name": "Frog Jump",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Snapchat"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 403,
+      "name": "Frog Jump",
+      "url": "https://leetcode.com/problems/frog-jump/description/",
+      "similar": []
+    }
+  }
+}

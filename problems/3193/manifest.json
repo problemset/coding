@@ -1,0 +1,23 @@
+{
+  "name": "Unique Paths II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 63,
+      "name": "Unique Paths II",
+      "url": "https://leetcode.com/problems/unique-paths-ii/description/",
+      "similar": [
+        "Unique Paths"
+      ]
+    }
+  }
+}

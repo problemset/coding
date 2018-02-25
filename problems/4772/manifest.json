@@ -1,0 +1,31 @@
+{
+  "name": "Binary Search Tree Iterator",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Google",
+    "Facebook",
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree",
+    "Stack",
+    "Design"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 173,
+      "name": "Binary Search Tree Iterator",
+      "url": "https://leetcode.com/problems/binary-search-tree-iterator/description/",
+      "similar": [
+        "Binary Tree Inorder Traversal",
+        "Flatten 2D Vector",
+        "Zigzag Iterator",
+        "Peeking Iterator",
+        "Inorder Successor in BST"
+      ]
+    }
+  }
+}

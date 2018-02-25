@@ -1,0 +1,21 @@
+{
+  "name": "Rotate List",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Linked List",
+    "Two Pointer"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 61,
+      "name": "Rotate List",
+      "url": "https://leetcode.com/problems/rotate-list/description/",
+      "similar": [
+        "Rotate Array"
+      ]
+    }
+  }
+}

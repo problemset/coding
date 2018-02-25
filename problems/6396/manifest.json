@@ -1,0 +1,21 @@
+{
+  "name": "01 Matrix",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 542,
+      "name": "01 Matrix",
+      "url": "https://leetcode.com/problems/01-matrix/description/",
+      "similar": []
+    }
+  }
+}

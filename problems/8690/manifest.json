@@ -1,0 +1,21 @@
+{
+  "name": "Maximum Distance in Arrays",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yahoo"
+  ],
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 624,
+      "name": "Maximum Distance in Arrays",
+      "url": "https://leetcode.com/problems/add-bold-tag-in-string/description/",
+      "similar": []
+    }
+  }
+}

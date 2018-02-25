@@ -1,0 +1,25 @@
+{
+  "name": "Shortest Palindrome",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pocket Gems",
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 214,
+      "name": "Shortest Palindrome",
+      "url": "https://leetcode.com/problems/shortest-palindrome/description/",
+      "similar": [
+        "Longest Palindromic Substring",
+        "Implment strStr()",
+        "Palindrome Pairs"
+      ]
+    }
+  }
+}

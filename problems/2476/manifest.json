@@ -1,0 +1,24 @@
+{
+  "name": "Closest Binary Search Tree Value II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Tree",
+    "Stack"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 272,
+      "name": "Closest Binary Search Tree Value II",
+      "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/",
+      "similar": [
+        "Binary Tree Inorder Traversal",
+        "Closest Binary Search Tree Value"
+      ]
+    }
+  }
+}

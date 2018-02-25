@@ -1,0 +1,23 @@
+{
+  "name": "Next Greater Element III",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 556,
+      "name": "Next Greater Element III",
+      "url": "https://leetcode.com/problems/next-greater-element-iii/description/",
+      "similar": [
+        "Next Greater Element I",
+        "Next Greater Element II"
+      ]
+    }
+  }
+}

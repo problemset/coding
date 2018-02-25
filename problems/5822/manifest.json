@@ -1,0 +1,23 @@
+{
+  "name": "Split BST",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Coupang"
+  ],
+  "topics": [
+    "Binary Search Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 776,
+      "name": "Split BST",
+      "url": "https://leetcode.com/problems/split-bst/description/",
+      "similar": [
+        "Delete Node in a BST"
+      ]
+    }
+  }
+}

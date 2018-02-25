@@ -1,0 +1,25 @@
+{
+  "name": "Game of Life",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Dropbox",
+    "Google",
+    "Two Sigma",
+    "Snapchat"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 289,
+      "name": "Game of Life",
+      "url": "https://leetcode.com/problems/game-of-life/description/",
+      "similar": [
+        "Set Matrix Zeros"
+      ]
+    }
+  }
+}

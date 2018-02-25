@@ -1,0 +1,22 @@
+{
+  "name": "Path Sum III",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 437,
+      "name": "Path Sum III",
+      "url": "https://leetcode.com/problems/path-sum-iii/description/",
+      "similar": [
+        "Path Sum",
+        "Path Sum II",
+        "Path Sum IV"
+      ]
+    }
+  }
+}

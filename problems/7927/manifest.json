@@ -1,0 +1,25 @@
+{
+  "name": "Palindromic Substrings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 647,
+      "name": "Palindromic Substrings",
+      "url": "https://leetcode.com/problems/palindromic-substrings/description/",
+      "similar": [
+        "Longest Palindromic Substring",
+        "Longest Palindromic Subsequence",
+        "Palindromic Substrings"
+      ]
+    }
+  }
+}

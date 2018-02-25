@@ -1,0 +1,28 @@
+{
+  "name": "Median of Two Sorted Arrays",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Zenefits",
+    "Microsoft",
+    "Apple",
+    "Yahoo",
+    "Dropbox",
+    "Adobe"
+  ],
+  "topics": [
+    "Binary search",
+    "Array",
+    "Divide and Conquer"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 4,
+      "name": "Median of Two Sorted Arrays",
+      "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/",
+      "similar": []
+    }
+  }
+}

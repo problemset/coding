@@ -1,0 +1,22 @@
+{
+  "name": "Queue Reconstruction by Height",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 406,
+      "name": "Queue Reconstruction by Height",
+      "url": "https://leetcode.com/problems/queue-reconstruction-by-height/description/",
+      "similar": [
+        "Count of Smaller Numbers After Self"
+      ]
+    }
+  }
+}

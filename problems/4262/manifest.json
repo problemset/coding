@@ -1,0 +1,30 @@
+{
+  "name": "Course Schedule II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook",
+    "Zenefits"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph",
+    "Topological Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 210,
+      "name": "Course Schedule II",
+      "url": "https://leetcode.com/problems/course-schedule-ii/description/",
+      "similar": [
+        "Course Schedule",
+        "Alien Dictionary",
+        "Minimum Height Tree",
+        "Sequence Reconstruction",
+        "Course Schedule III"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Valid Parenthesis String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Alibaba"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 678,
+      "name": "Valid Parenthesis String",
+      "url": "https://leetcode.com/problems/valid-parenthesis-string/description/",
+      "similar": []
+    }
+  }
+}

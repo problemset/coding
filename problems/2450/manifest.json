@@ -1,0 +1,23 @@
+{
+  "name": "Encode and Decode Strings",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 271,
+      "name": "Encode and Decode Strings",
+      "url": "https://leetcode.com/problems/encode-and-decode-strings/description/",
+      "similar": [
+        "Count and Say",
+        "Serialize and Deserialize Binary Tree"
+      ]
+    }
+  }
+}

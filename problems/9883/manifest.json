@@ -1,0 +1,25 @@
+{
+  "name": "Kth Smallest Element in a Sorted Matrix",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Twitter"
+  ],
+  "topics": [
+    "Binary Search",
+    "Heap"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 378,
+      "name": "Kth Smallest Element in a Sorted Matrix",
+      "url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/",
+      "similar": [
+        "Find K Pairs with Smallest Sums",
+        "Kth Smallest Number in Multiplication Table"
+      ]
+    }
+  }
+}

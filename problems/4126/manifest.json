@@ -1,0 +1,19 @@
+{
+  "name": "Restore IP Addresses",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Backtracking",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 93,
+      "name": "Restore IP Addresses",
+      "url": "https://leetcode.com/problems/restore-ip-addresses/description/",
+      "similar": []
+    }
+  }
+}

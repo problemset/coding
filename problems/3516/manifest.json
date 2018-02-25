@@ -1,0 +1,24 @@
+{
+  "name": "First Bad Version",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 278,
+      "name": "First Bad Version",
+      "url": "https://leetcode.com/problems/find-the-celebrity/description/",
+      "similar": [
+        "Search for a Range",
+        "Search Insert Position",
+        "Guess Number Higher or Lower"
+      ]
+    }
+  }
+}

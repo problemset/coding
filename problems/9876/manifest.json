@@ -1,0 +1,20 @@
+{
+  "name": "Maximum Vacation Days",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 568,
+      "name": "Maximum Vacation Days",
+      "url": "https://leetcode.com/problems/maximum-vacation-days/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Gas Station",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 134,
+      "name": "Gas Station",
+      "url": "https://leetcode.com/problems/gas-station/description/",
+      "similar": []
+    }
+  }
+}

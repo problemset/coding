@@ -1,0 +1,22 @@
+{
+  "name": "Minimum Path Sum",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 64,
+      "name": "Minimum Path Sum",
+      "url": "https://leetcode.com/problems/minimum-path-sum/description/",
+      "similar": [
+        "Unique Paths",
+        "Dungeon Game"
+      ]
+    }
+  }
+}

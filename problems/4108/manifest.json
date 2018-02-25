@@ -1,0 +1,26 @@
+{
+  "name": "Happy Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber",
+    "Airbnb",
+    "Twitter"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 202,
+      "name": "Happy Number",
+      "url": "https://leetcode.com/problems/happy-number/description/",
+      "similar": [
+        "Add Digits",
+        "Ugly Number"
+      ]
+    }
+  }
+}

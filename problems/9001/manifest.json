@@ -1,0 +1,22 @@
+{
+  "name": "Range Addition",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 370,
+      "name": "Range Addition",
+      "url": "https://leetcode.com/problems/range-addition/description/",
+      "similar": [
+        "Range Addition II"
+      ]
+    }
+  }
+}

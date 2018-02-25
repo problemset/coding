@@ -1,0 +1,23 @@
+{
+  "name": "Set Mismatch",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 645,
+      "name": "Set Mismatch",
+      "url": "https://leetcode.com/problems/set-mismatch/description/",
+      "similar": [
+        "Find the Duplicate Number"
+      ]
+    }
+  }
+}

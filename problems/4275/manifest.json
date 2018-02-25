@@ -1,0 +1,27 @@
+{
+  "name": "The Skyline Problem",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Google",
+    "Facebook",
+    "Twitter",
+    "Yelp"
+  ],
+  "topics": [
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Heap",
+    "Divide and Conquer"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 218,
+      "name": "The Skyline Problem",
+      "url": "https://leetcode.com/problems/the-skyline-problem/description/",
+      "similar": []
+    }
+  }
+}

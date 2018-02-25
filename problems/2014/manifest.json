@@ -1,0 +1,22 @@
+{
+  "name": "Best Time to Buy and Sell Stock IV",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 188,
+      "name": "Best Time to Buy and Sell Stock IV",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/",
+      "similar": [
+        "Best Time to Buy and Sell Stock",
+        "Best Time to Buy and Sell Stock II",
+        "Best Time to Buy and Sell Stock III"
+      ]
+    }
+  }
+}

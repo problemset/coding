@@ -1,0 +1,16 @@
+{
+  "name": "Is Graph Bipartite?",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 785,
+      "name": "Is Graph Bipartite?",
+      "url": "https://leetcode.com/problems/is-graph-bipartite/description/",
+      "similar": []
+    }
+  }
+}

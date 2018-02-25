@@ -1,0 +1,23 @@
+{
+  "name": "Maximum Length of Pair Chain",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 646,
+      "name": "Maximum Length of Pair Chain",
+      "url": "https://leetcode.com/problems/maximum-length-of-pair-chain/description/",
+      "similar": [
+        "Longest Increasing Subsequence",
+        "Increasing Subsequences"
+      ]
+    }
+  }
+}

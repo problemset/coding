@@ -1,0 +1,24 @@
+{
+  "name": "Line Reflection",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 356,
+      "name": "Line Reflection",
+      "url": "https://leetcode.com/problems/line-reflection/description/",
+      "similar": [
+        "Max Points on a Line",
+        "Number of Bommerangs"
+      ]
+    }
+  }
+}

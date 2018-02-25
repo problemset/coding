@@ -1,0 +1,20 @@
+{
+  "name": "Split Array with Equal Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Alibaba"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 548,
+      "name": "Split Array with Equal Sum",
+      "url": "https://leetcode.com/problems/split-array-with-equal-sum/description/",
+      "similar": []
+    }
+  }
+}

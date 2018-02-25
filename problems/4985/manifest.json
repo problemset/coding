@@ -1,0 +1,27 @@
+{
+  "name": "Longest Substring Without Repeating Characters",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Adobe",
+    "Bloomberg",
+    "Yelp"
+  ],
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 3,
+      "name": "Longest Substring Without Repeating Characters",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+      "similar": [
+        "Longest Substring with At Most Two Distinct Characters"
+      ]
+    }
+  }
+}

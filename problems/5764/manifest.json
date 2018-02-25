@@ -1,0 +1,21 @@
+{
+  "name": "Out of Boundary Paths",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Baidu"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 576,
+      "name": "Out of Boundary Paths",
+      "url": "https://leetcode.com/problems/out-of-boundary-paths/description/",
+      "similar": []
+    }
+  }
+}

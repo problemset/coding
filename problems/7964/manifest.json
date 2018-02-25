@@ -1,0 +1,16 @@
+{
+  "name": "Construct the Rectangle",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 492,
+      "name": "Construct the Rectangle",
+      "url": "https://leetcode.com/problems/construct-the-rectangle/description/",
+      "similar": []
+    }
+  }
+}

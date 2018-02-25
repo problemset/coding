@@ -1,0 +1,21 @@
+{
+  "name": "Combination Sum III",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 216,
+      "name": "Combination Sum III",
+      "url": "https://leetcode.com/problems/combination-sum-iii/description/",
+      "similar": [
+        "Combination Sum"
+      ]
+    }
+  }
+}

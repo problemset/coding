@@ -1,0 +1,20 @@
+{
+  "name": "Heaters",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 475,
+      "name": "Heaters",
+      "url": "https://leetcode.com/problems/heaters/description/",
+      "similar": []
+    }
+  }
+}

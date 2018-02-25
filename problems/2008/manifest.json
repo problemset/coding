@@ -1,0 +1,25 @@
+{
+  "name": "3Sum Smaller",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 259,
+      "name": "3Sum Smaller",
+      "url": "https://leetcode.com/problems/3sum-smaller/description/",
+      "similar": [
+        "3Sum",
+        "3Sum CLosest",
+        "Valid Triangle Number"
+      ]
+    }
+  }
+}

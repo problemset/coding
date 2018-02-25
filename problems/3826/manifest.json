@@ -1,0 +1,23 @@
+{
+  "name": "Verify Preorder Sequence in Binary Search Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Zenefits"
+  ],
+  "topics": [
+    "Tree",
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 255,
+      "name": "Verify Preorder Sequence in Binary Search Tree",
+      "url": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/",
+      "similar": [
+        "Binary Tree Preorder Traversal"
+      ]
+    }
+  }
+}

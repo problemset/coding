@@ -1,0 +1,25 @@
+{
+  "name": "Paint House II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 265,
+      "name": "Paint House II",
+      "url": "https://leetcode.com/problems/paint-house-ii/description/",
+      "similar": [
+        "Product of Array Except Self",
+        "Sliding Window Maximum",
+        "Paint House",
+        "Paint Fence"
+      ]
+    }
+  }
+}

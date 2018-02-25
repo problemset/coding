@@ -1,0 +1,26 @@
+{
+  "name": "Closest Binary Search Tree Value",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Google",
+    "Snapchat"
+  ],
+  "topics": [
+    "Tree",
+    "Binary Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 270,
+      "name": "Closest Binary Search Tree Value",
+      "url": "https://leetcode.com/problems/closest-binary-search-tree-value/description/",
+      "similar": [
+        "Count Complete Tree Nodes",
+        "Closest Binary Search Tree Value II"
+      ]
+    }
+  }
+}

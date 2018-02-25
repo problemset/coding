@@ -1,0 +1,22 @@
+{
+  "name": "Arithmetic Slices II - Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Baidu"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 446,
+      "name": "Arithmetic Slices II - Subsequence",
+      "url": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/",
+      "similar": [
+        "Arithmetic Slices"
+      ]
+    }
+  }
+}

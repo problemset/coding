@@ -1,0 +1,21 @@
+{
+  "name": "House Robber III",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 337,
+      "name": "House Robber III",
+      "url": "https://leetcode.com/problems/house-robber-iii/description/",
+      "similar": [
+        "House Robber",
+        "House Robber II"
+      ]
+    }
+  }
+}

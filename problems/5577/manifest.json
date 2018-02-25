@@ -1,0 +1,22 @@
+{
+  "name": "Max Stack",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 716,
+      "name": "Max Stack",
+      "url": "https://leetcode.com/problems/max-stack/description/",
+      "similar": [
+        "Min Stack"
+      ]
+    }
+  }
+}

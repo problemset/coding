@@ -1,0 +1,18 @@
+{
+  "name": "Reconstruct Original Digits from English",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 423,
+      "name": "Reconstruct Original Digits from English",
+      "url": "https://leetcode.com/problems/reconstruct-original-digits-from-english/description/",
+      "similar": []
+    }
+  }
+}

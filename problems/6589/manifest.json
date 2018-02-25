@@ -1,0 +1,22 @@
+{
+  "name": "Longest Palindrome",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 409,
+      "name": "Longest Palindrome",
+      "url": "https://leetcode.com/problems/longest-palindrome/description/",
+      "similar": [
+        "Palindrome Permutation"
+      ]
+    }
+  }
+}

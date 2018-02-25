@@ -1,0 +1,21 @@
+{
+  "name": "Diameter of Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 543,
+      "name": "Diameter of Binary Tree",
+      "url": "https://leetcode.com/problems/diameter-of-binary-tree/description/",
+      "similar": []
+    }
+  }
+}

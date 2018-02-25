@@ -1,0 +1,24 @@
+{
+  "name": "Mini Parser",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Airbnb"
+  ],
+  "topics": [
+    "Stack",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 385,
+      "name": "Mini Parser",
+      "url": "https://leetcode.com/problems/mini-parser/description/",
+      "similar": [
+        "Flatten Nested List Iterator",
+        "Ternary Expression Parser"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Palindrome Linked List",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Facebook"
+  ],
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 234,
+      "name": "Palindrome Linked List",
+      "url": "https://leetcode.com/problems/palindrome-linked-list/description/",
+      "similar": [
+        "Palindrome Number",
+        "Valid Palindrome",
+        "Reverse Linked List"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Summary Ranges",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 228,
+      "name": "Summary Ranges",
+      "url": "https://leetcode.com/problems/summary-ranges/description/",
+      "similar": [
+        "Missing Ranges",
+        "Data Stream as Disjoint Intervals"
+      ]
+    }
+  }
+}

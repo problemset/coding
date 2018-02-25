@@ -1,0 +1,21 @@
+{
+  "name": "Smallest Good Base",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 483,
+      "name": "Smallest Good Base",
+      "url": "https://leetcode.com/problems/smallest-good-base/description/",
+      "similar": []
+    }
+  }
+}

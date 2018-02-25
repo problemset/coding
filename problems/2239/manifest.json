@@ -1,0 +1,26 @@
+{
+  "name": "Basic Calculator",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Stack",
+    "Math"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 224,
+      "name": "Basic Calculator",
+      "url": "https://leetcode.com/problems/basic-calculator/description/",
+      "similar": [
+        "Evaluate Reverse Polish Notation",
+        "Basic Calculator II",
+        "Different Ways to Add Parentheses",
+        "Expression Add Operators"
+      ]
+    }
+  }
+}

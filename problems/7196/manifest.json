@@ -1,0 +1,23 @@
+{
+  "name": "Employee Free Time",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Airbnb"
+  ],
+  "topics": [
+    "Heap",
+    "Greedy"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 759,
+      "name": "Employee Free Time",
+      "url": "https://leetcode.com/problems/employee-free-time/description/",
+      "similar": [
+        "Merge Intervals"
+      ]
+    }
+  }
+}

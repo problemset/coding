@@ -1,0 +1,28 @@
+{
+  "name": "Sort Colors",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pocket Gems",
+    "Microsoft",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 75,
+      "name": "Sort Colors",
+      "url": "https://leetcode.com/problems/sort-colors/description/",
+      "similar": [
+        "Sort List",
+        "Wiggle Sort",
+        "Wiggle Sort II"
+      ]
+    }
+  }
+}

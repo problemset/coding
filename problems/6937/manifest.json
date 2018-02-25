@@ -1,0 +1,23 @@
+{
+  "name": "Serialize and Deserialize BST",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 449,
+      "name": "Serialize and Deserialize BST",
+      "url": "https://leetcode.com/problems/serialize-and-deserialize-bst/description/",
+      "similar": [
+        "Serialize and Deserialize Binary Tree",
+        "Find Duplicate Subtrees"
+      ]
+    }
+  }
+}

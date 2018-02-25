@@ -1,0 +1,23 @@
+{
+  "name": "Split Array into Consecutive Subsequences",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Heap",
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 659,
+      "name": "Split Array into Consecutive Subsequences",
+      "url": "https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/",
+      "similar": [
+        "Top K Frequent Elements"
+      ]
+    }
+  }
+}

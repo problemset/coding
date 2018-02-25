@@ -1,0 +1,22 @@
+{
+  "name": "2 Keys Keyboard",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 650,
+      "name": "2 Keys Keyboard",
+      "url": "https://leetcode.com/problems/2-keys-keyboard/description/",
+      "similar": [
+        "4 Keys Keyboard"
+      ]
+    }
+  }
+}

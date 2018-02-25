@@ -1,0 +1,27 @@
+{
+  "name": "Find K-th Smallest Pair Distance",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Heap"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 719,
+      "name": "Find K-th Smallest Pair Distance",
+      "url": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/",
+      "similar": [
+        "Find K Pairs with Smallest Sums",
+        "Kth Smallest Element in a Sorted Matrix",
+        "Find K Closest Elements",
+        "Kth Smallest Number in Multiplication Table"
+      ]
+    }
+  }
+}

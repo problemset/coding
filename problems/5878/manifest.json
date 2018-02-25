@@ -1,0 +1,20 @@
+{
+  "name": "Longest Repeating Character Replacement",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Pocket Gems"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 424,
+      "name": "Longest Repeating Character Replacement",
+      "url": "https://leetcode.com/problems/longest-repeating-character-replacement/description/",
+      "similar": [
+        "Longest Substring with At Most K Distinct Characters"
+      ]
+    }
+  }
+}

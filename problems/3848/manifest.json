@@ -1,0 +1,24 @@
+{
+  "name": "Best Meeting Point",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Twitter"
+  ],
+  "topics": [
+    "Math",
+    "Sort"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 296,
+      "name": "Best Meeting Point",
+      "url": "https://leetcode.com/problems/best-meeting-point/description/",
+      "similar": [
+        "Shortest Distance from All Buildings",
+        "Minimum Moves to Equal Array Elements II"
+      ]
+    }
+  }
+}

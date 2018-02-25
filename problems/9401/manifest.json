@@ -1,0 +1,23 @@
+{
+  "name": "Hamming Distance",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 461,
+      "name": "Hamming Distance",
+      "url": "https://leetcode.com/problems/hamming-distance/description/",
+      "similar": [
+        "Number of 1 Bits",
+        "Total Hamming Distance"
+      ]
+    }
+  }
+}

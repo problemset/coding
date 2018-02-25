@@ -1,0 +1,24 @@
+{
+  "name": "Valid Sudoku",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Snapchat",
+    "Uber",
+    "Apple"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 36,
+      "name": "Valid Sudoku",
+      "url": "https://leetcode.com/problems/valid-sudoku/description/",
+      "similar": [
+        "Sudoku Solver"
+      ]
+    }
+  }
+}

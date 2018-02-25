@@ -1,0 +1,25 @@
+{
+  "name": "Permutations II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Microsoft"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 46,
+      "name": "Permutations II",
+      "url": "https://leetcode.com/problems/permutations-ii/description/",
+      "similar": [
+        "Next Permutation",
+        "Permutation",
+        "Palindrome Permuration II"
+      ]
+    }
+  }
+}

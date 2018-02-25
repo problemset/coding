@@ -1,0 +1,16 @@
+{
+  "name": "Base 7",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 504,
+      "name": "Base 7",
+      "url": "https://leetcode.com/problems/base-7/description/",
+      "similar": []
+    }
+  }
+}

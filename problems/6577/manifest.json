@@ -1,0 +1,21 @@
+{
+  "name": "Range Sum Query 2D - Immutable",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 304,
+      "name": "Range Sum Query 2D - Immutable",
+      "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/description/",
+      "similar": [
+        "Range Sum Query - Immutable",
+        "Range Sum Query 2D - Mutable"
+      ]
+    }
+  }
+}

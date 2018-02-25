@@ -1,0 +1,22 @@
+{
+  "name": "Rotate Image",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Apple"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 48,
+      "name": "Rotate Image",
+      "url": "https://leetcode.com/problems/rotate-image/description/",
+      "similar": []
+    }
+  }
+}

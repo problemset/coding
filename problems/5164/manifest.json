@@ -1,0 +1,23 @@
+{
+  "name": "Minimum Number of Arrows to Burst Balloons",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Greedy"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 452,
+      "name": "Minimum Number of Arrows to Burst Balloons",
+      "url": "https://leetcode.com/problems/sort-characters-by-frequency/description/",
+      "similar": [
+        "Meeting Rooms II",
+        "NOn-overlapping Intervals"
+      ]
+    }
+  }
+}

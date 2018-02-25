@@ -1,0 +1,21 @@
+{
+  "name": "Best Time to Buy and Sell Stock with Cooldown",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 309,
+      "name": "Best Time to Buy and Sell Stock with Cooldown",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/",
+      "similar": [
+        "Best Time to Buy and Sell Stock",
+        "Best Time to Buy and Sell Stock II"
+      ]
+    }
+  }
+}

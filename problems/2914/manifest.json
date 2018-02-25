@@ -1,0 +1,24 @@
+{
+  "name": "Best Time to Buy and Sell Stock III",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 123,
+      "name": "Best Time to Buy and Sell Stock III",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+      "similar": [
+        "Best Time to Buy and Sell Stock",
+        "Best Time to Buy and Sell Stock II",
+        "Best Time to Buy and Sell Stock IV",
+        "Best Time to Buy and Sell Stock with Cooldown"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Paint Fence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 276,
+      "name": "Paint Fence",
+      "url": "https://leetcode.com/problems/paint-fence/description/",
+      "similar": [
+        "House Robber",
+        "House Robber II",
+        "Paint House",
+        "Paint House II"
+      ]
+    }
+  }
+}

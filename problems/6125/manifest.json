@@ -1,0 +1,24 @@
+{
+  "name": "Array Nesting",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Apple"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 565,
+      "name": "Array Nesting",
+      "url": "https://leetcode.com/problems/find-the-closest-palindrome/description/",
+      "similar": [
+        "Nested List Weight Sum",
+        "Flatten Nested List Iterator",
+        "Nested List Weight Sum II"
+      ]
+    }
+  }
+}

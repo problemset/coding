@@ -1,0 +1,24 @@
+{
+  "name": "Construct String from Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "String",
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 606,
+      "name": "Construct String from Binary Tree",
+      "url": "https://leetcode.com/problems/construct-string-from-binary-tree/description/",
+      "similar": [
+        "Construct Binary Tree from String",
+        "Find Duplicate Subtrees"
+      ]
+    }
+  }
+}

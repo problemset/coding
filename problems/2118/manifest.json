@@ -1,0 +1,19 @@
+{
+  "name": "Jump Game II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 45,
+      "name": "Jump Game II",
+      "url": "https://leetcode.com/problems/jump-game-ii/description/",
+      "similar": []
+    }
+  }
+}

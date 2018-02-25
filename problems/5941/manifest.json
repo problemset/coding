@@ -1,0 +1,23 @@
+{
+  "name": "Number of Longest Increasing Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 673,
+      "name": "Number of Longest Increasing Subsequence",
+      "url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/",
+      "similar": [
+        "Longest Increasing Subsequence",
+        "Longest Continuous Increasing Subsequence"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pow(x, n)",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Google",
+    "Bloomberg",
+    "Facebook"
+  ],
+  "topics": [
+    "Binary Search",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 50,
+      "name": "Pow(x, n)",
+      "url": "https://leetcode.com/problems/powx-n/description/",
+      "similar": [
+        "Sqrt(x)",
+        "Super Pow"
+      ]
+    }
+  }
+}

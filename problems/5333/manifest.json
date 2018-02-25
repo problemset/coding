@@ -1,0 +1,23 @@
+{
+  "name": "Add Bold Tag in String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 616,
+      "name": "Add Bold Tag in String",
+      "url": "https://leetcode.com/problems/add-bold-tag-in-string/description/",
+      "similar": [
+        "Merge Intervals",
+        "Tag Validator"
+      ]
+    }
+  }
+}

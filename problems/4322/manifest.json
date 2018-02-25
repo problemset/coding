@@ -1,0 +1,24 @@
+{
+  "name": "Word Pattern",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Dropbox",
+    "Uber"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 290,
+      "name": "Word Pattern",
+      "url": "https://leetcode.com/problems/word-pattern/description/",
+      "similar": [
+        "Isomorphic Strings",
+        "Word Pattern II"
+      ]
+    }
+  }
+}

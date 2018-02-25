@@ -1,0 +1,21 @@
+{
+  "name": "Flatten Binary Tree to Linked List",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 114,
+      "name": "Flatten Binary Tree to Linked List",
+      "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/",
+      "similar": []
+    }
+  }
+}

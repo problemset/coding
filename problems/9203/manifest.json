@@ -1,0 +1,20 @@
+{
+  "name": "Minimum Time Difference",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Palantir"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 539,
+      "name": "Minimum Time Difference",
+      "url": "https://leetcode.com/problems/minimum-time-difference/description/",
+      "similar": []
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pascal's Triangle",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Apple",
+    "Twitter"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 118,
+      "name": "Pascal's Triangle",
+      "url": "https://leetcode.com/problems/pascals-triangle/description/",
+      "similar": [
+        "Pascal's Triangle II"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Reverse Words in a String III",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Zappos"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 557,
+      "name": "Reverse Words in a String III",
+      "url": "https://leetcode.com/problems/reverse-words-in-a-string-iii/description/",
+      "similar": [
+        "Reverse String II"
+      ]
+    }
+  }
+}

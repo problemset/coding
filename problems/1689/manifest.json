@@ -1,0 +1,25 @@
+{
+  "name": "Add Binary",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 67,
+      "name": "Add Binary",
+      "url": "https://leetcode.com/problems/add-binary/description/",
+      "similar": [
+        "Add Two Numbers",
+        "Multiply Strings",
+        "Plus One"
+      ]
+    }
+  }
+}

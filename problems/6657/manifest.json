@@ -1,0 +1,20 @@
+{
+  "name": "Unique Substrings in Wraparound String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "MAQ Software"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 467,
+      "name": "Unique Substrings in Wraparound String",
+      "url": "https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/",
+      "similar": []
+    }
+  }
+}

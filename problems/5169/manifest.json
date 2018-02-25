@@ -1,0 +1,22 @@
+{
+  "name": "Max Consecutive Ones II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 487,
+      "name": "Max Consecutive Ones II",
+      "url": "https://leetcode.com/problems/max-consecutive-ones-ii/description/",
+      "similar": [
+        "Max Consecutive Ones"
+      ]
+    }
+  }
+}

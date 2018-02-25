@@ -1,0 +1,22 @@
+{
+  "name": "Generalized Abbreviation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 320,
+      "name": "Generalized Abbreviation",
+      "url": "https://leetcode.com/problems/generalized-abbreviation/description/",
+      "similar": [
+        "Subsets",
+        "Unique Word Abbreviation",
+        "Minimum Unique Word Abbreviation"
+      ]
+    }
+  }
+}

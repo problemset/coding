@@ -1,0 +1,22 @@
+{
+  "name": "Decode Ways II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 639,
+      "name": "Decode Ways II",
+      "url": "https://leetcode.com/problems/decode-ways-ii/description/",
+      "similar": [
+        "Decode Ways"
+      ]
+    }
+  }
+}

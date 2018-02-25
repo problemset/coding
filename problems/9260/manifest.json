@@ -1,0 +1,20 @@
+{
+  "name": "Remove 9",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Houzz"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 660,
+      "name": "Remove 9",
+      "url": "https://leetcode.com/problems/remove-9/description/",
+      "similar": []
+    }
+  }
+}

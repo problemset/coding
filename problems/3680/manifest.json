@@ -1,0 +1,25 @@
+{
+  "name": "Next Permutation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 31,
+      "name": "Next Permutation",
+      "url": "https://leetcode.com/problems/next-permutation/description/",
+      "similar": [
+        "Permutation",
+        "Permutation II",
+        "Permutation Sequence",
+        "Palindrome Permutation II"
+      ]
+    }
+  }
+}

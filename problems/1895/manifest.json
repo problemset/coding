@@ -1,0 +1,26 @@
+{
+  "name": "Best Time to Buy and Sell Stock II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 122,
+      "name": "Best Time to Buy and Sell Stock II",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
+      "similar": [
+        "Best Time to Buy and Sell Stock",
+        "Best Time to Buy and Sell Stock III",
+        "Best Time to Buy and Sell Stock IV",
+        "Best Time to Buy and Sell Stock with Cooldown"
+      ]
+    }
+  }
+}

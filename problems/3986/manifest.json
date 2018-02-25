@@ -1,0 +1,24 @@
+{
+  "name": "Delete Node in a Linked List",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Adobe",
+    "Apple",
+    "Microsoft"
+  ],
+  "topics": [
+    "Linked List"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 237,
+      "name": "Delete Node in a Linked List",
+      "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/description/",
+      "similar": [
+        "Remove Linked List Elements"
+      ]
+    }
+  }
+}

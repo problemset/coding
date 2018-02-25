@@ -1,0 +1,24 @@
+{
+  "name": "3Sum Closest",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 16,
+      "name": "3Sum Closest",
+      "url": "https://leetcode.com/problems/3sum-closest/description/",
+      "similar": [
+        "3Sum",
+        "3Sum Smaller"
+      ]
+    }
+  }
+}

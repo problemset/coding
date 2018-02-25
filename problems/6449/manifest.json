@@ -1,0 +1,23 @@
+{
+  "name": "Sequence Reconstruction",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Graph",
+    "Topological Sort"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 444,
+      "name": "Sequence Reconstruction",
+      "url": "https://leetcode.com/problems/sequence-reconstruction/description/",
+      "similar": [
+        "Course Schedule II"
+      ]
+    }
+  }
+}

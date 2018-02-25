@@ -1,0 +1,16 @@
+{
+  "name": "Reverse Pairs",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 493,
+      "name": "Reverse Pairs",
+      "url": "https://leetcode.com/problems/reverse-pairs/description/",
+      "similar": []
+    }
+  }
+}

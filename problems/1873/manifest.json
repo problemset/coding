@@ -1,0 +1,24 @@
+{
+  "name": "Longest Consecutive Sequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Union Find"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 128,
+      "name": "Longest Consecutive Sequence",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
+      "similar": [
+        "Binary Tree Longest Consecutive Sequence"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Same Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 100,
+      "name": "Same Tree",
+      "url": "https://leetcode.com/problems/same-tree/description/",
+      "similar": []
+    }
+  }
+}

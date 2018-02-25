@@ -1,0 +1,20 @@
+{
+  "name": "Path Sum IV",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Alibaba"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 666,
+      "name": "Path Sum IV",
+      "url": "https://leetcode.com/problems/path-sum-iv/description/",
+      "similar": []
+    }
+  }
+}

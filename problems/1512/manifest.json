@@ -1,0 +1,28 @@
+{
+  "name": "Longest Palindromic Substring",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 5,
+      "name": "Longest Palindromic Substring",
+      "url": "https://leetcode.com/problems/longest-palindromic-substring/description/",
+      "similar": [
+        "Shortest Palindrome",
+        "Palindrome Permutation",
+        "Palindrome Pairs",
+        "Longest Palindromic Subsequence",
+        "Palindromic Substrings"
+      ]
+    }
+  }
+}

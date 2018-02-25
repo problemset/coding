@@ -1,0 +1,24 @@
+{
+  "name": "Unique Word Abbreviation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Design"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 288,
+      "name": "Unique Word Abbreviation",
+      "url": "https://leetcode.com/problems/unique-word-abbreviation/description/",
+      "similar": [
+        "Two Sum III - Data structure design",
+        "Generalized Abbreviation"
+      ]
+    }
+  }
+}

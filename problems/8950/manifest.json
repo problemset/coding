@@ -1,0 +1,16 @@
+{
+  "name": "Elimination Game",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 390,
+      "name": "Elimination Game",
+      "url": "https://leetcode.com/problems/elimination-game/description/",
+      "similar": []
+    }
+  }
+}

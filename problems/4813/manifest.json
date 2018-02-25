@@ -1,0 +1,23 @@
+{
+  "name": "Combination Sum II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Snapchat"
+  ],
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 40,
+      "name": "Combination Sum II",
+      "url": "https://leetcode.com/problems/combination-sum-ii/description/",
+      "similar": [
+        "Combination Sum"
+      ]
+    }
+  }
+}

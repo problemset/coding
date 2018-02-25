@@ -1,0 +1,21 @@
+{
+  "name": "Minesweeper",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 529,
+      "name": "Minesweeper",
+      "url": "https://leetcode.com/problems/minesweeper/description/",
+      "similar": []
+    }
+  }
+}

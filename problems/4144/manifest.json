@@ -1,0 +1,29 @@
+{
+  "name": "Letter Combinations of a Phone Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Dropbox",
+    "Google",
+    "Uber",
+    "Facebook"
+  ],
+  "topics": [
+    "Backtracking",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 17,
+      "name": "Letter Combinations of a Phone Number",
+      "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/",
+      "similar": [
+        "Generate Parentheses",
+        "Combination",
+        "Binary Watch"
+      ]
+    }
+  }
+}

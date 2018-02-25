@@ -1,0 +1,22 @@
+{
+  "name": "Bulb Switcher II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 672,
+      "name": "Bulb Switcher II",
+      "url": "https://leetcode.com/problems/bulb-switcher-ii/description/",
+      "similar": [
+        "Bulb Switcher"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Minimum Index Sum of Two Lists",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yelp"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 599,
+      "name": "Minimum Index Sum of Two Lists",
+      "url": "https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/",
+      "similar": [
+        "Intersection of Two Linked Lists"
+      ]
+    }
+  }
+}

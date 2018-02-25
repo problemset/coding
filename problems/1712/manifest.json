@@ -1,0 +1,25 @@
+{
+  "name": "Binary Tree Maximum Path Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Baidu"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 124,
+      "name": "Binary Tree Maximum Path Sum",
+      "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/description/",
+      "similar": [
+        "Path Sum",
+        "Sum Root to Leaf Numbers"
+      ]
+    }
+  }
+}

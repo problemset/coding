@@ -1,0 +1,20 @@
+{
+  "name": "All O`one Data Structure",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Uber"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 432,
+      "name": "All O`one Data Structure",
+      "url": "https://leetcode.com/problems/all-oone-data-structure/description/",
+      "similar": []
+    }
+  }
+}

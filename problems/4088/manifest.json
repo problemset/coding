@@ -1,0 +1,19 @@
+{
+  "name": "Recover Binary Search Tree",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 99,
+      "name": "Recover Binary Search Tree",
+      "url": "https://leetcode.com/problems/recover-binary-search-tree/description/",
+      "similar": []
+    }
+  }
+}

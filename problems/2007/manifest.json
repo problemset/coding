@@ -1,0 +1,32 @@
+{
+  "name": "Valid Parentheses",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Airbnb",
+    "Facebook",
+    "Twitter",
+    "Zenefits",
+    "Amazon",
+    "Microsoft",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Stack",
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 20,
+      "name": "Valid Parentheses",
+      "url": "https://leetcode.com/problems/valid-parentheses/description/",
+      "similar": [
+        "Generate Parentheses",
+        "Longest Valid Parentheses",
+        "Remove Invalid Parentheses"
+      ]
+    }
+  }
+}

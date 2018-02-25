@@ -1,0 +1,24 @@
+{
+  "name": "Longest Palindromic Subsequence",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Uber"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 516,
+      "name": "Longest Palindromic Subsequence",
+      "url": "https://leetcode.com/problems/longest-palindromic-subsequence/description/",
+      "similar": [
+        "Longest Palindromic Substring",
+        "Palindromic Substrings"
+      ]
+    }
+  }
+}

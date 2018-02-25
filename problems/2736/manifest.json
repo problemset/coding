@@ -1,0 +1,27 @@
+{
+  "name": "Maximum Subarray",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Bloomberg",
+    "Microsoft"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Divide and Conquer"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 53,
+      "name": "Maximum Subarray",
+      "url": "https://leetcode.com/problems/maximum-subarray/description/",
+      "similar": [
+        "Best Time to Buy and Sell Stock",
+        "Maximum Product Subarray"
+      ]
+    }
+  }
+}

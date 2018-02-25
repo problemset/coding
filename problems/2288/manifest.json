@@ -1,0 +1,24 @@
+{
+  "name": "Strobogrammatic Number II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Math",
+    "Recursion"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 247,
+      "name": "Strobogrammatic Number II",
+      "url": "https://leetcode.com/problems/strobogrammatic-number-ii/description/",
+      "similar": [
+        "Strobogrammatic Number",
+        "Strobogrammatic Number III"
+      ]
+    }
+  }
+}

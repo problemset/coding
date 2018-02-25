@@ -1,0 +1,22 @@
+{
+  "name": "Largest Plus Sign",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 764,
+      "name": "Largest Plus Sign",
+      "url": "https://leetcode.com/problems/largest-plus-sign/description/",
+      "similar": [
+        "Maximal Square"
+      ]
+    }
+  }
+}

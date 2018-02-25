@@ -1,0 +1,25 @@
+{
+  "name": "Sentence Similarity II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 737,
+      "name": "Sentence Similarity II",
+      "url": "https://leetcode.com/problems/sentence-similarity-ii/description/",
+      "similar": [
+        "Friend Circles",
+        "Accounts Merge",
+        "Sentence Similarity"
+      ]
+    }
+  }
+}

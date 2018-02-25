@@ -1,0 +1,27 @@
+{
+  "name": "Sqrt(x)",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg",
+    "Apple",
+    "Facebook"
+  ],
+  "topics": [
+    "Binary Search",
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 69,
+      "name": "Sqrt(x)",
+      "url": "https://leetcode.com/problems/sqrtx/description/",
+      "similar": [
+        "Pow(x",
+        "n)",
+        "Valid Perfect Square"
+      ]
+    }
+  }
+}

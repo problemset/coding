@@ -1,0 +1,18 @@
+{
+  "name": "Bitwise AND of Numbers Range",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 201,
+      "name": "Bitwise AND of Numbers Range",
+      "url": "https://leetcode.com/problems/bitwise-and-of-numbers-range/description/",
+      "similar": []
+    }
+  }
+}

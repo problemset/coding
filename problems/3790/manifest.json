@@ -1,0 +1,23 @@
+{
+  "name": "Evaluate Reverse Polish Notation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 150,
+      "name": "Evaluate Reverse Polish Notation",
+      "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/",
+      "similar": [
+        "Basic Calculator",
+        "Expression Add Operators"
+      ]
+    }
+  }
+}

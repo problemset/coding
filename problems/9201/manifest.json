@@ -1,0 +1,18 @@
+{
+  "name": "Convert a Number to Hexadecimal",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 405,
+      "name": "Convert a Number to Hexadecimal",
+      "url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/",
+      "similar": []
+    }
+  }
+}

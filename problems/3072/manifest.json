@@ -1,0 +1,19 @@
+{
+  "name": "Scramble String",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 87,
+      "name": "Scramble String",
+      "url": "https://leetcode.com/problems/scramble-string/description/",
+      "similar": []
+    }
+  }
+}

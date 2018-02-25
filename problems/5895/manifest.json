@@ -1,0 +1,25 @@
+{
+  "name": "Accounts Merge",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 721,
+      "name": "Accounts Merge",
+      "url": "https://leetcode.com/problems/accounts-merge/description/",
+      "similar": [
+        "Redundant Connection",
+        "Sentence Similarity",
+        "Sentence Similarity II"
+      ]
+    }
+  }
+}

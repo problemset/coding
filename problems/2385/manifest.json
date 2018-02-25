@@ -1,0 +1,27 @@
+{
+  "name": "Expression Add Operators",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Divide and Conquer"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 282,
+      "name": "Expression Add Operators",
+      "url": "https://leetcode.com/problems/expression-add-operators/description/",
+      "similar": [
+        "Evaluate Reverse Polish Notation",
+        "Basic Calculator",
+        "Basic Calculator II",
+        "Different Ways to Add Parentheses",
+        "Target Sum"
+      ]
+    }
+  }
+}

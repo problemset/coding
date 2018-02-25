@@ -1,0 +1,20 @@
+{
+  "name": "Jewels and Stones",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 771,
+      "name": "Jewels and Stones",
+      "url": "https://leetcode.com/problems/jewels-and-stones/description/",
+      "similar": []
+    }
+  }
+}

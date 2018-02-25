@@ -1,0 +1,24 @@
+{
+  "name": "Maximum Sum of 3 Non-Overlapping Subarrays",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 689,
+      "name": "Maximum Sum of 3 Non-Overlapping Subarrays",
+      "url": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/",
+      "similar": [
+        "Best Time to Buy and Sell Stock III"
+      ]
+    }
+  }
+}

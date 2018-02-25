@@ -1,0 +1,20 @@
+{
+  "name": "Rotate Function",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 396,
+      "name": "Rotate Function",
+      "url": "https://leetcode.com/problems/rotate-function/description/",
+      "similar": []
+    }
+  }
+}

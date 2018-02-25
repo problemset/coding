@@ -1,0 +1,21 @@
+{
+  "name": "Longest Valid Parentheses",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Dynamic Programming",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 32,
+      "name": "Longest Valid Parentheses",
+      "url": "https://leetcode.com/problems/longest-valid-parentheses/description/",
+      "similar": [
+        "Valid Parentheses"
+      ]
+    }
+  }
+}

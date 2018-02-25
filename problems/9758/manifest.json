@@ -1,0 +1,20 @@
+{
+  "name": "Longest Line of Consecutive One in Matrix",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 562,
+      "name": "Longest Line of Consecutive One in Matrix",
+      "url": "https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/",
+      "similar": []
+    }
+  }
+}

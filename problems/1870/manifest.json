@@ -1,0 +1,24 @@
+{
+  "name": "Excel Sheet Column Title",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Facebook",
+    "Zenefits"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 168,
+      "name": "Excel Sheet Column Title",
+      "url": "https://leetcode.com/problems/excel-sheet-column-title/description/",
+      "similar": [
+        "Excel Sheet Column Number"
+      ]
+    }
+  }
+}

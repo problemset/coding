@@ -1,0 +1,25 @@
+{
+  "name": "Flatten Nested List Iterator",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook",
+    "Twitter"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 341,
+      "name": "Flatten Nested List Iterator",
+      "url": "https://leetcode.com/problems/flatten-nested-list-iterator/description/",
+      "similar": [
+        "Flatten 2D Vector",
+        "Zigzag Iterator",
+        "Mini Parser",
+        "Array Nesting"
+      ]
+    }
+  }
+}

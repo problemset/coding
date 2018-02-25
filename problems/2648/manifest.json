@@ -1,0 +1,24 @@
+{
+  "name": "Integer to English Words",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Facebook"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 273,
+      "name": "Integer to English Words",
+      "url": "https://leetcode.com/problems/integer-to-english-words/description/",
+      "similar": [
+        "Integer to Roman"
+      ]
+    }
+  }
+}

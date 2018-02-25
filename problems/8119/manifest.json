@@ -1,0 +1,24 @@
+{
+  "name": "Find Duplicate Subtrees",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 652,
+      "name": "Find Duplicate Subtrees",
+      "url": "https://leetcode.com/problems/find-duplicate-subtrees/description/",
+      "similar": [
+        "Serialize and Deserialize Binary Tree",
+        "Serialize and Deserialize BST",
+        "COnstruct String from Binary Tree"
+      ]
+    }
+  }
+}

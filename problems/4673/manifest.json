@@ -1,0 +1,25 @@
+{
+  "name": "Unique Paths",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 62,
+      "name": "Unique Paths",
+      "url": "https://leetcode.com/problems/unique-paths/description/",
+      "similar": [
+        "Unique Paths II",
+        "Minimum Path Sum",
+        "Dungeon Game"
+      ]
+    }
+  }
+}

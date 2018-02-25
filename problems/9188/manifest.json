@@ -1,0 +1,22 @@
+{
+  "name": "Third Maximum Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 414,
+      "name": "Third Maximum Number",
+      "url": "https://leetcode.com/problems/third-maximum-number/description/",
+      "similar": [
+        "Kth Largest Element in an Array"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Contains Duplicate III",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Palantir",
+    "Airbnb"
+  ],
+  "topics": [
+    "Binary Search Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 220,
+      "name": "Contains Duplicate III",
+      "url": "https://leetcode.com/problems/contains-duplicate-iii/description/",
+      "similar": [
+        "Contains Duplicate",
+        "Contains Duplicate II"
+      ]
+    }
+  }
+}

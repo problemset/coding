@@ -1,0 +1,20 @@
+{
+  "name": "Sliding Puzzle",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Airbnb"
+  ],
+  "topics": [
+    "Breadth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 773,
+      "name": "Sliding Puzzle",
+      "url": "https://leetcode.com/problems/sliding-puzzle/description/",
+      "similar": []
+    }
+  }
+}

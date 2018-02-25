@@ -1,0 +1,20 @@
+{
+  "name": "K Inverse Pairs Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Work Applications"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 629,
+      "name": "K Inverse Pairs Array",
+      "url": "https://leetcode.com/problems/k-inverse-pairs-array/description/",
+      "similar": []
+    }
+  }
+}

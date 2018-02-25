@@ -1,0 +1,21 @@
+{
+  "name": "Climbing Stairs",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Adobe",
+    "Apple"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 70,
+      "name": "Climbing Stairs",
+      "url": "https://leetcode.com/problems/climbing-stairs/description/",
+      "similar": []
+    }
+  }
+}

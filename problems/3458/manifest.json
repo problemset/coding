@@ -1,0 +1,25 @@
+{
+  "name": "Binary Tree Right Side View",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 199,
+      "name": "Binary Tree Right Side View",
+      "url": "https://leetcode.com/problems/binary-tree-right-side-view/description/",
+      "similar": [
+        "Populating Next Right Pointers in Each Node",
+        "Boundary of Binary Tree"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fraction Addition and Subtraction",
+  "input": [],
+  "output": {},
+  "companies": [
+    "IXL"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 592,
+      "name": "Fraction Addition and Subtraction",
+      "url": "https://leetcode.com/problems/fraction-addition-and-subtraction/description/",
+      "similar": [
+        "Solve the Equation"
+      ]
+    }
+  }
+}

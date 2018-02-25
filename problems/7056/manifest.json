@@ -1,0 +1,23 @@
+{
+  "name": "Stickers to Spell Word",
+  "input": [],
+  "output": {},
+  "companies": [
+    "IXL"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 691,
+      "name": "Stickers to Spell Word",
+      "url": "https://leetcode.com/problems/stickers-to-spell-word/description/",
+      "similar": [
+        "Ransom Note"
+      ]
+    }
+  }
+}

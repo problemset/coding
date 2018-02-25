@@ -1,0 +1,34 @@
+{
+  "name": "LRU Cache",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber",
+    "Facebook",
+    "Twitter",
+    "Zenefits",
+    "Amazon",
+    "Microsoft",
+    "Snapchat",
+    "Yahoo",
+    "Bloomberg",
+    "Palantir"
+  ],
+  "topics": [
+    "Design"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 146,
+      "name": "LRU Cache",
+      "url": "https://leetcode.com/problems/lru-cache/description/",
+      "similar": [
+        "LFU Cache",
+        "Design In-Memory File System",
+        "Design Compressed String Iterator"
+      ]
+    }
+  }
+}

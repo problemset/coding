@@ -1,0 +1,27 @@
+{
+  "name": "Palindrome Permutation II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 267,
+      "name": "Palindrome Permutation II",
+      "url": "https://leetcode.com/problems/palindrome-permutation-ii/description/",
+      "similar": [
+        "Longest Palindromic Substring",
+        "Valid Anagram",
+        "Palindrome Permutation II",
+        "Longest Palindrome"
+      ]
+    }
+  }
+}

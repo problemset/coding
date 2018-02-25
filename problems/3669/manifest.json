@@ -1,0 +1,29 @@
+{
+  "name": "House Robber",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Airbnb"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 198,
+      "name": "House Robber",
+      "url": "https://leetcode.com/problems/house-robber/description/",
+      "similar": [
+        "Maximum Product Subarray",
+        "House Robber II",
+        "Paint House",
+        "Paint Fence",
+        "House Robber III",
+        "Non-negative Integer without Consecutive Ones",
+        "Coin Path"
+      ]
+    }
+  }
+}

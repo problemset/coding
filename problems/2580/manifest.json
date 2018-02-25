@@ -1,0 +1,23 @@
+{
+  "name": "Minimum Depth of Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 111,
+      "name": "Minimum Depth of Binary Tree",
+      "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/description/",
+      "similar": [
+        "Binary Tree Level Order Traversal",
+        "Maximum Depth of Binary Tree"
+      ]
+    }
+  }
+}

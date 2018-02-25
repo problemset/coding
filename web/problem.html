@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Coding Interview Questions</title>
+    <link rel="stylesheet" href="libs/codemirror/5.35.0/lib/codemirror.css">
+    <script src="libs/codemirror/5.35.0/lib/codemirror.js"></script>
+    <script src="libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="libs/codemirror/5.35.0/mode/python/python.js"></script>
+</head>
+<body>
+
+<div id="editor"></div>
+
+</body>
+
+<script>
+
+var myCodeMirror = CodeMirror($('#editor')[0], {
+    value: "class Solution:\n" +
+    "\n" +
+    "    def __init__(self):\n" +
+    "        pass\n" +
+    "\n" +
+    "    def solve(self, time):\n" +
+    "        \"\"\"\n" +
+    "        :type time: str\n" +
+    "        :rtype: str\n" +
+    "        \"\"\"\n" +
+    "        pass\n",
+    mode: "python",
+    indentUnit: 4
+});
+
+</script>
+</html>

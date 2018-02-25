@@ -1,0 +1,28 @@
+{
+  "name": "Word Break",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber",
+    "Facebook",
+    "Amazon",
+    "Yahoo",
+    "Bloomberg",
+    "Pocket Gems"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 139,
+      "name": "Word Break",
+      "url": "https://leetcode.com/problems/word-break/description/",
+      "similar": [
+        "Word Break II"
+      ]
+    }
+  }
+}

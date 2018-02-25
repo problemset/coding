@@ -1,0 +1,25 @@
+{
+  "name": "Two Sum IV - Input is a BST",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook",
+    "Samsung"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 653,
+      "name": "Two Sum IV - Input is a BST",
+      "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/",
+      "similar": [
+        "Two Sum",
+        "Two Sum II - Input array is sorted",
+        "Two Sum III - Data structure design"
+      ]
+    }
+  }
+}

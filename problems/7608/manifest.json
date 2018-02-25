@@ -1,0 +1,23 @@
+{
+  "name": "Network Delay Time",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Akuna Capital"
+  ],
+  "topics": [
+    "Heap",
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 743,
+      "name": "Network Delay Time",
+      "url": "https://leetcode.com/problems/network-delay-time/description/",
+      "similar": []
+    }
+  }
+}

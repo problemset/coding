@@ -1,0 +1,22 @@
+{
+  "name": "Binary Tree Level Order Traversal II",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 107,
+      "name": "Binary Tree Level Order Traversal II",
+      "url": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/",
+      "similar": [
+        "Binary Tree Level Order Traversal",
+        "Average of Levels in Binary Tree"
+      ]
+    }
+  }
+}

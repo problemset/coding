@@ -1,0 +1,22 @@
+{
+  "name": "Binary Tree Vertical Order Traversal",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Snapchat",
+    "Facebook"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 314,
+      "name": "Binary Tree Vertical Order Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/",
+      "similar": [
+        "Binary Tree Level Order Traversal"
+      ]
+    }
+  }
+}

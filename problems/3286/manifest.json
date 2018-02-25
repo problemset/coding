@@ -1,0 +1,23 @@
+{
+  "name": "Add Digits",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Adobe",
+    "Microsoft"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 258,
+      "name": "Add Digits",
+      "url": "https://leetcode.com/problems/add-digits/description/",
+      "similar": [
+        "Happy Number"
+      ]
+    }
+  }
+}

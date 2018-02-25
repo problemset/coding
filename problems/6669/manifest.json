@@ -1,0 +1,23 @@
+{
+  "name": "Find K Pairs with Smallest Sums",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber"
+  ],
+  "topics": [
+    "Heap"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 373,
+      "name": "Find K Pairs with Smallest Sums",
+      "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/",
+      "similar": [
+        "Kth Smallest Element in a Sorted Matrix"
+      ]
+    }
+  }
+}

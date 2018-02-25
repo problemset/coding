@@ -1,0 +1,21 @@
+{
+  "name": "Minimum Height Trees",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 310,
+      "name": "Minimum Height Trees",
+      "url": "https://leetcode.com/problems/minimum-height-trees/description/",
+      "similar": [
+        "Course Schedule",
+        "Course Schedule II"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cherry Pickup",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Akuna Capital"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 741,
+      "name": "Cherry Pickup",
+      "url": "https://leetcode.com/problems/cherry-pickup/description/",
+      "similar": [
+        "Minimum Path Sum",
+        "Dungeon Game"
+      ]
+    }
+  }
+}

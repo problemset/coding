@@ -1,0 +1,23 @@
+{
+  "name": "Valid Word Abbreviation",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 408,
+      "name": "Valid Word Abbreviation",
+      "url": "https://leetcode.com/problems/valid-word-abbreviation/description/",
+      "similar": [
+        "Minimum Unique Word Abbreviation",
+        "Word Abbreviation"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Logger Rate Limiter",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Design"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 359,
+      "name": "Logger Rate Limiter",
+      "url": "https://leetcode.com/problems/logger-rate-limiter/description/",
+      "similar": [
+        "Design Hit Counter"
+      ]
+    }
+  }
+}

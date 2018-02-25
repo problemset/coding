@@ -1,0 +1,27 @@
+{
+  "name": "House Robber II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 213,
+      "name": "House Robber II",
+      "url": "https://leetcode.com/problems/house-robber-ii/description/",
+      "similar": [
+        "House Robber",
+        "Paint House",
+        "Paint Fence",
+        "House Robber III",
+        "Non-negative Intergers without Consecutive Ones",
+        "Coin Path"
+      ]
+    }
+  }
+}

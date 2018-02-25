@@ -1,0 +1,20 @@
+{
+  "name": "Exclusive Time of Functions",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Stack"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 636,
+      "name": "Exclusive Time of Functions",
+      "url": "https://leetcode.com/problems/exclusive-time-of-functions/description/",
+      "similar": []
+    }
+  }
+}

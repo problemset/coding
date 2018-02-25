@@ -1,0 +1,23 @@
+{
+  "name": "K-diff Pairs in an Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Array",
+    "Two Pointers"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 532,
+      "name": "K-diff Pairs in an Array",
+      "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/description/",
+      "similar": [
+        "Minimum Absolute Difference in BST"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Gray Code",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 89,
+      "name": "Gray Code",
+      "url": "https://leetcode.com/problems/gray-code/description/",
+      "similar": []
+    }
+  }
+}

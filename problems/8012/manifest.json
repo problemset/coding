@@ -1,0 +1,20 @@
+{
+  "name": "Print Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Poynt"
+  ],
+  "topics": [
+    "Tree"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 655,
+      "name": "Print Binary Tree",
+      "url": "https://leetcode.com/problems/print-binary-tree/description/",
+      "similar": []
+    }
+  }
+}

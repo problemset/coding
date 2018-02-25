@@ -1,0 +1,21 @@
+{
+  "name": "Fraction to Recurring Decimal",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 166,
+      "name": "Fraction to Recurring Decimal",
+      "url": "https://leetcode.com/problems/fraction-to-recurring-decimal/description/",
+      "similar": []
+    }
+  }
+}

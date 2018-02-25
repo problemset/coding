@@ -1,0 +1,26 @@
+{
+  "name": "Valid Palindrome",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Uber",
+    "Facebook",
+    "Zenefits"
+  ],
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 125,
+      "name": "Valid Palindrome",
+      "url": "https://leetcode.com/problems/valid-palindrome/description/",
+      "similar": [
+        "Palindrome Linked List"
+      ]
+    }
+  }
+}

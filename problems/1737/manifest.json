@@ -1,0 +1,27 @@
+{
+  "name": "Maximum Depth of Binary Tree",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Uber",
+    "Apple",
+    "Yahoo"
+  ],
+  "topics": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 104,
+      "name": "Maximum Depth of Binary Tree",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/",
+      "similar": [
+        "Balanced Binary Tree",
+        "Minimum Depth of Binary Tree"
+      ]
+    }
+  }
+}

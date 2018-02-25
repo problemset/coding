@@ -1,0 +1,22 @@
+{
+  "name": "Pascal's Triangle II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 119,
+      "name": "Pascal's Triangle II",
+      "url": "https://leetcode.com/problems/pascals-triangle-ii/description/",
+      "similar": [
+        "Pascal's Triangle"
+      ]
+    }
+  }
+}

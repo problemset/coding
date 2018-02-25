@@ -1,0 +1,20 @@
+{
+  "name": "Map Sum Pairs",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Akuna Capital"
+  ],
+  "topics": [
+    "Trie"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 677,
+      "name": "Map Sum Pairs",
+      "url": "https://leetcode.com/problems/map-sum-pairs/description/",
+      "similar": []
+    }
+  }
+}

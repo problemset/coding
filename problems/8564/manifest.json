@@ -1,0 +1,24 @@
+{
+  "name": "Number of Distinct Islands",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Hash Table",
+    "Depth-first Search"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 694,
+      "name": "Number of Distinct Islands",
+      "url": "https://leetcode.com/problems/number-of-distinct-islands/description/",
+      "similar": [
+        "Number of Islands",
+        "Number of Distinct Islands II"
+      ]
+    }
+  }
+}

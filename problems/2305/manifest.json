@@ -1,0 +1,23 @@
+{
+  "name": "Search for a Range",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Binary Search",
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 34,
+      "name": "Search for a Range",
+      "url": "https://leetcode.com/problems/search-for-a-range/description/",
+      "similar": [
+        "First Bad Version"
+      ]
+    }
+  }
+}

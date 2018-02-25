@@ -1,0 +1,22 @@
+{
+  "name": "Self Dividing Numbers",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Epic Systems"
+  ],
+  "topics": [
+    "Math"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 728,
+      "name": "Self Dividing Numbers",
+      "url": "https://leetcode.com/problems/self-dividing-numbers/description/",
+      "similar": [
+        "Perfect Number"
+      ]
+    }
+  }
+}

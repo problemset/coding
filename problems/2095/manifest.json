@@ -1,0 +1,20 @@
+{
+  "name": "First Unique Character in a String",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Bloomberg",
+    "Microsoft"
+  ],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 387,
+      "name": "First Unique Character in a String",
+      "url": "https://leetcode.com/problems/first-unique-character-in-a-string/description/",
+      "similar": []
+    }
+  }
+}

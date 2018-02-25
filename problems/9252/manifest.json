@@ -1,0 +1,24 @@
+{
+  "name": "Binary Watch",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 401,
+      "name": "Binary Watch",
+      "url": "https://leetcode.com/problems/binary-watch/description/",
+      "similar": [
+        "Letter Combinations of a Phone Number",
+        "Number of 1 Bits"
+      ]
+    }
+  }
+}

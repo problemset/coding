@@ -1,0 +1,27 @@
+{
+  "name": "Missing Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Microsoft",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 268,
+      "name": "Missing Number",
+      "url": "https://leetcode.com/problems/missing-number/description/",
+      "similar": [
+        "Find Missing Positive",
+        "Single Number",
+        "Find the Duplicate Number"
+      ]
+    }
+  }
+}

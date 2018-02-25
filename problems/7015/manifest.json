@@ -1,0 +1,22 @@
+{
+  "name": "The Maze III",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 499,
+      "name": "The Maze III",
+      "url": "https://leetcode.com/problems/the-maze-iii/description/",
+      "similar": [
+        "The Maze",
+        "The Maze II"
+      ]
+    }
+  }
+}

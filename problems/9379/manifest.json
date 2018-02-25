@@ -1,0 +1,21 @@
+{
+  "name": "Power of Three",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 326,
+      "name": "Power of Three",
+      "url": "https://leetcode.com/problems/power-of-three/description/",
+      "similar": [
+        "Power of Two",
+        "Power of Four"
+      ]
+    }
+  }
+}

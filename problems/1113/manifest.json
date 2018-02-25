@@ -1,0 +1,26 @@
+{
+  "name": "Copy List with Random Pointer",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Microsoft",
+    "Bloomberg",
+    "Uber"
+  ],
+  "topics": [
+    "Hash Table",
+    "Linked List"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 138,
+      "name": "Copy List with Random Pointer",
+      "url": "https://leetcode.com/problems/copy-list-with-random-pointer/description/",
+      "similar": [
+        "Clone Graph"
+      ]
+    }
+  }
+}

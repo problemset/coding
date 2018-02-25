@@ -1,0 +1,22 @@
+{
+  "name": "Toeplitz Matrix",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 766,
+      "name": "Toeplitz Matrix",
+      "url": "https://leetcode.com/problems/toeplitz-matrix/description/",
+      "similar": [
+        "Valid Word Square"
+      ]
+    }
+  }
+}

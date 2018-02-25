@@ -1,0 +1,23 @@
+{
+  "name": "Continuous Subarray Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 523,
+      "name": "Continuous Subarray Sum",
+      "url": "https://leetcode.com/problems/continuous-subarray-sum/description/",
+      "similar": [
+        "Subarray Sum Equals K"
+      ]
+    }
+  }
+}

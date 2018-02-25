@@ -1,0 +1,16 @@
+{
+  "name": "Self Crossing",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 335,
+      "name": "Self Crossing",
+      "url": "https://leetcode.com/problems/self-crossing/description/",
+      "similar": []
+    }
+  }
+}

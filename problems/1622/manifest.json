@@ -1,0 +1,28 @@
+{
+  "name": "Word Break II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Dropbox",
+    "Google",
+    "Uber",
+    "Snapchat",
+    "Twitter"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 140,
+      "name": "Word Break II",
+      "url": "https://leetcode.com/problems/word-break-ii/description/",
+      "similar": [
+        "Word Break",
+        "Concatenated Words"
+      ]
+    }
+  }
+}

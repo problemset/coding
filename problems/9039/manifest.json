@@ -1,0 +1,21 @@
+{
+  "name": "Nested List Weight Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 339,
+      "name": "Nested List Weight Sum",
+      "url": "https://leetcode.com/problems/nested-list-weight-sum/description/",
+      "similar": [
+        "Nested List Weight Sum II",
+        "Array Nesting"
+      ]
+    }
+  }
+}

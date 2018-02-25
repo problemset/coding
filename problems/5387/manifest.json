@@ -1,0 +1,22 @@
+{
+  "name": "Max Sum of Rectangle No Larger Than K",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Binary Search",
+    "Dynamic Programming",
+    "Queue"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 363,
+      "name": "Max Sum of Rectangle No Larger Than K",
+      "url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/",
+      "similar": []
+    }
+  }
+}

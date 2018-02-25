@@ -1,0 +1,23 @@
+{
+  "name": "Partition to K Equal Sum Subsets",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 698,
+      "name": "Partition to K Equal Sum Subsets",
+      "url": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/",
+      "similar": [
+        "Partition Equal Subset Sum"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Missing Ranges",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 163,
+      "name": "Missing Ranges",
+      "url": "https://leetcode.com/problems/missing-ranges/description/",
+      "similar": [
+        "Summary Range"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Beautiful Arrangement",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 526,
+      "name": "Beautiful Arrangement",
+      "url": "https://leetcode.com/problems/beautiful-arrangement/description/",
+      "similar": [
+        "Beautiful Arrangement II"
+      ]
+    }
+  }
+}

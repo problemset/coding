@@ -1,0 +1,22 @@
+{
+  "name": "Encode String with Shortest Length",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 471,
+      "name": "Encode String with Shortest Length",
+      "url": "https://leetcode.com/problems/encode-string-with-shortest-length/description/",
+      "similar": [
+        "Decode String"
+      ]
+    }
+  }
+}

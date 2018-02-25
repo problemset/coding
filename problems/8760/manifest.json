@@ -1,0 +1,20 @@
+{
+  "name": "Distribute Candies",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LiveRamp"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 575,
+      "name": "Distribute Candies",
+      "url": "https://leetcode.com/problems/distribute-candies/description/",
+      "similar": []
+    }
+  }
+}

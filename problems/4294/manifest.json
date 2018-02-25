@@ -1,0 +1,28 @@
+{
+  "name": "Min Stack",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Uber",
+    "Zenefits",
+    "Amazon",
+    "Snapchat",
+    "Bloomberg"
+  ],
+  "topics": [
+    "Stack",
+    "Design"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 155,
+      "name": "Min Stack",
+      "url": "https://leetcode.com/problems/min-stack/description/",
+      "similar": [
+        "Sliding Window Maximum"
+      ]
+    }
+  }
+}

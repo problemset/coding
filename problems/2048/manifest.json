@@ -1,0 +1,21 @@
+{
+  "name": "Binary Tree Postorder Traversal",
+  "input": [],
+  "output": {},
+  "companies": [],
+  "topics": [
+    "Tree",
+    "Stack"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 145,
+      "name": "Binary Tree Postorder Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/description/",
+      "similar": [
+        "Binary Tree Inorder Traversal"
+      ]
+    }
+  }
+}

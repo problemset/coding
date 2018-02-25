@@ -1,0 +1,20 @@
+{
+  "name": "Reshape the Matrix",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Mathworks"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 566,
+      "name": "Reshape the Matrix",
+      "url": "https://leetcode.com/problems/reshape-the-matrix/description/",
+      "similar": []
+    }
+  }
+}

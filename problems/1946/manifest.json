@@ -1,0 +1,22 @@
+{
+  "name": "Flip Game",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 293,
+      "name": "Flip Game",
+      "url": "https://leetcode.com/problems/flip-game/description/",
+      "similar": [
+        "Flip Game II"
+      ]
+    }
+  }
+}

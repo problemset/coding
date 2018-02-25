@@ -1,0 +1,25 @@
+{
+  "name": "Two Sum III - Data structure design",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Hash Table",
+    "Design"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 170,
+      "name": "Two Sum III - Data structure design",
+      "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design/description/",
+      "similar": [
+        "Two Sum",
+        "Unique Word Abbreviation",
+        "Two Sum IV - Input is a BST"
+      ]
+    }
+  }
+}

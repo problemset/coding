@@ -1,0 +1,20 @@
+{
+  "name": "Next Closest Time",
+  "input": [{"name": "time", "type": "string"}],
+  "output": {"type": "string"},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 681,
+      "name": "Next Closest Time",
+      "url": "https://leetcode.com/problems/next-closest-time/description/",
+      "similar": []
+    }
+  }
+}

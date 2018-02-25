@@ -1,0 +1,22 @@
+{
+  "name": "Valid Triangle Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Expedia"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 611,
+      "name": "Valid Triangle Number",
+      "url": "https://leetcode.com/problems/valid-triangle-number/description/",
+      "similar": [
+        "3Sum Smaller"
+      ]
+    }
+  }
+}

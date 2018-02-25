@@ -1,0 +1,23 @@
+{
+  "name": "Valid Number",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 65,
+      "name": "Valid Number",
+      "url": "https://leetcode.com/problems/valid-number/description/",
+      "similar": [
+        "String to Integer(atoi)"
+      ]
+    }
+  }
+}

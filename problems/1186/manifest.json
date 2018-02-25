@@ -1,0 +1,26 @@
+{
+  "name": "Subsets",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon",
+    "Uber",
+    "Facebook"
+  ],
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 78,
+      "name": "Subsets",
+      "url": "https://leetcode.com/problems/subsets/description/",
+      "similar": [
+        "Generalized Abbreviation"
+      ]
+    }
+  }
+}

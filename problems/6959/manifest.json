@@ -1,0 +1,20 @@
+{
+  "name": "Bomb Enemy",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 361,
+      "name": "Bomb Enemy",
+      "url": "https://leetcode.com/problems/bomb-enemy/description/",
+      "similar": []
+    }
+  }
+}

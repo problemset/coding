@@ -1,0 +1,26 @@
+{
+  "name": "Maximum Product Subarray",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn"
+  ],
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 152,
+      "name": "Maximum Product Subarray",
+      "url": "https://leetcode.com/problems/maximum-product-subarray/description/",
+      "similar": [
+        "Maximum Subarray",
+        "House Robber",
+        "Product of Array Except Self",
+        "Maximum Product of Three Numbers"
+      ]
+    }
+  }
+}

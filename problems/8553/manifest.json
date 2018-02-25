@@ -1,0 +1,22 @@
+{
+  "name": "Contiguous Array",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Hash Table"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 525,
+      "name": "Contiguous Array",
+      "url": "https://leetcode.com/problems/contiguous-array/description/",
+      "similar": [
+        "Maximum Size Subarray Sum Equals k"
+      ]
+    }
+  }
+}

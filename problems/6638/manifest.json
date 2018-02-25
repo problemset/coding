@@ -1,0 +1,20 @@
+{
+  "name": "Partition Equal Subset Sum",
+  "input": [],
+  "output": {},
+  "companies": [
+    "eBay"
+  ],
+  "topics": [
+    "Dynamic Programming"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 416,
+      "name": "Partition Equal Subset Sum",
+      "url": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
+      "similar": []
+    }
+  }
+}

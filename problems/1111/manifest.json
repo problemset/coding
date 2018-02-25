@@ -1,0 +1,21 @@
+{
+  "name": "Find the Celebrity",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Facebook"
+  ],
+  "topics": [
+    "Array"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 277,
+      "name": "Find the Celebrity",
+      "url": "https://leetcode.com/problems/find-the-celebrity/description/",
+      "similar": []
+    }
+  }
+}

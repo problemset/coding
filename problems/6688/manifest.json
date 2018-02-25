@@ -1,0 +1,20 @@
+{
+  "name": "Cut Off Trees for Golf Event",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Breadth-first Search"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 675,
+      "name": "Cut Off Trees for Golf Event",
+      "url": "https://leetcode.com/problems/cut-off-trees-for-golf-event/description/",
+      "similar": []
+    }
+  }
+}

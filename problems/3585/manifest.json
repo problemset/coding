@@ -1,0 +1,23 @@
+{
+  "name": "Factor Combinations",
+  "input": [],
+  "output": {},
+  "companies": [
+    "LinkedIn",
+    "Uber"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 254,
+      "name": "Factor Combinations",
+      "url": "https://leetcode.com/problems/factor-combinations/description/",
+      "similar": [
+        "Combination Sum"
+      ]
+    }
+  }
+}

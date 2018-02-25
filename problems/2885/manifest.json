@@ -1,0 +1,22 @@
+{
+  "name": "Palindrome Partitioning II",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Bloomberg"
+  ],
+  "topics": [
+    "Backtracking"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 132,
+      "name": "Palindrome Partitioning II",
+      "url": "https://leetcode.com/problems/palindrome-partitioning-ii/description/",
+      "similar": [
+        "Palindrome Partitioning II"
+      ]
+    }
+  }
+}

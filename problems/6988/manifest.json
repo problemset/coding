@@ -1,0 +1,20 @@
+{
+  "name": "Prefix and Suffix Search",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Facebook"
+  ],
+  "topics": [
+    "Trie"
+  ],
+  "difficulty": "Hard",
+  "extra": {
+    "leetcode": {
+      "id": 745,
+      "name": "Prefix and Suffix Search",
+      "url": "https://leetcode.com/problems/prefix-and-suffix-search/description/",
+      "similar": []
+    }
+  }
+}

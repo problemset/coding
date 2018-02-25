@@ -1,0 +1,26 @@
+{
+  "name": "Encode and Decode TinyURL",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Google",
+    "Facebook",
+    "Amazon",
+    "Uber"
+  ],
+  "topics": [
+    "Hash Table",
+    "Math"
+  ],
+  "difficulty": "Medium\n\nhttps://leetcode.com/problems/encode-and-decode-tinyurl/description/\n\n>Note: This is a companion problem to the System Design problem: Design TinyURL.",
+  "extra": {
+    "leetcode": {
+      "id": 535,
+      "name": "Encode and Decode TinyURL",
+      "url": "https://leetcode.com/problems/design-tinyurl and it returns a short URL such as http://tinyurl.com/4e9iAk.",
+      "similar": [
+        "Design TinyURL"
+      ]
+    }
+  }
+}

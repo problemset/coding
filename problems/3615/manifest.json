@@ -1,0 +1,20 @@
+{
+  "name": "Longest Common Prefix",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Yelp"
+  ],
+  "topics": [
+    "String"
+  ],
+  "difficulty": "Easy",
+  "extra": {
+    "leetcode": {
+      "id": 14,
+      "name": "Longest Common Prefix",
+      "url": "https://leetcode.com/problems/longest-common-prefix/description/",
+      "similar": []
+    }
+  }
+}

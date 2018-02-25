@@ -1,0 +1,21 @@
+{
+  "name": "Complex Number Multiplication",
+  "input": [],
+  "output": {},
+  "companies": [
+    "Amazon"
+  ],
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "difficulty": "Medium",
+  "extra": {
+    "leetcode": {
+      "id": 537,
+      "name": "Complex Number Multiplication",
+      "url": "https://leetcode.com/problems/complex-number-multiplication/description/",
+      "similar": []
+    }
+  }
+}
